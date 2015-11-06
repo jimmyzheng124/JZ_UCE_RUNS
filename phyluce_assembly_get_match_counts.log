@@ -235,3 +235,27 @@
 2015-11-04 12:06:12,171 - phyluce_assembly_get_match_counts - INFO - There are 1106 UCE loci in an INCOMPLETE matrix
 2015-11-04 12:06:12,174 - phyluce_assembly_get_match_counts - INFO - Writing the taxa and loci in the data matrix to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/all-taxa-incomplete.conf
 2015-11-04 12:06:12,177 - phyluce_assembly_get_match_counts - INFO - ========== Completed phyluce_assembly_get_match_counts ==========
+2015-11-06 02:35:50,765 - phyluce_assembly_get_match_counts - INFO - =========== Starting phyluce_assembly_get_match_counts ==========
+2015-11-06 02:35:50,765 - phyluce_assembly_get_match_counts - INFO - Version: 1.5.0
+2015-11-06 02:35:50,766 - phyluce_assembly_get_match_counts - INFO - Argument --extend_locus_db: /home/jimmyzheng/JZ_UCE_RUNS/outgroup-taxon-sets/uce-search-results/probe.matches.sqlite
+2015-11-06 02:35:50,766 - phyluce_assembly_get_match_counts - INFO - Argument --incomplete_matrix: True
+2015-11-06 02:35:50,766 - phyluce_assembly_get_match_counts - INFO - Argument --keep_counts: False
+2015-11-06 02:35:50,766 - phyluce_assembly_get_match_counts - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/uce-search-results/probe.matches.sqlite
+2015-11-06 02:35:50,767 - phyluce_assembly_get_match_counts - INFO - Argument --log_path: None
+2015-11-06 02:35:50,767 - phyluce_assembly_get_match_counts - INFO - Argument --optimize: False
+2015-11-06 02:35:50,767 - phyluce_assembly_get_match_counts - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/all-taxa-incomplete.conf
+2015-11-06 02:35:50,767 - phyluce_assembly_get_match_counts - INFO - Argument --random: False
+2015-11-06 02:35:50,767 - phyluce_assembly_get_match_counts - INFO - Argument --sample_size: 10
+2015-11-06 02:35:50,768 - phyluce_assembly_get_match_counts - INFO - Argument --samples: 10
+2015-11-06 02:35:50,768 - phyluce_assembly_get_match_counts - INFO - Argument --silent: False
+2015-11-06 02:35:50,768 - phyluce_assembly_get_match_counts - INFO - Argument --taxon_group: extended
+2015-11-06 02:35:50,768 - phyluce_assembly_get_match_counts - INFO - Argument --taxon_list_config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-set.conf
+2015-11-06 02:35:50,769 - phyluce_assembly_get_match_counts - INFO - Argument --verbosity: INFO
+2015-11-06 02:35:50,772 - phyluce_assembly_get_match_counts - INFO - Attaching extended database probe.matches.sqlite
+2015-11-06 02:35:50,773 - phyluce_assembly_get_match_counts - INFO - There are 37 taxa in the taxon-group '[extended]' in the config file taxon-set.conf
+2015-11-06 02:35:50,773 - phyluce_assembly_get_match_counts - INFO - Getting UCE names from database
+2015-11-06 02:35:50,775 - phyluce_assembly_get_match_counts - INFO - There are 1314 total UCE loci in the database
+2015-11-06 02:35:51,471 - phyluce_assembly_get_match_counts - INFO - Getting UCE matches by organism to generate a INCOMPLETE matrix
+2015-11-06 02:35:51,483 - phyluce_assembly_get_match_counts - INFO - There are 1105 UCE loci in an INCOMPLETE matrix
+2015-11-06 02:35:51,489 - phyluce_assembly_get_match_counts - INFO - Writing the taxa and loci in the data matrix to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/all-taxa-incomplete.conf
+2015-11-06 02:35:51,490 - phyluce_assembly_get_match_counts - INFO - ========== Completed phyluce_assembly_get_match_counts ==========
