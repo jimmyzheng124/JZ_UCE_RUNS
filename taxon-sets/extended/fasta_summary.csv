@@ -1,3 +1,4 @@
+samples,contigs,total bp,mean length,95 CI length,min length,max length,median length,contigs >1kb
 aristochromis-christiae-ID25.unaligned.fasta,924,644945,697.992424242,4.3301018286,272,1171,706.0,10
 astatotilapia-burtoni-ID32.unaligned.fasta,906,573653,633.171081678,4.09758343352,224,1021,642.0,1
 aulonocara-stuartgranti-ID26.unaligned.fasta,905,586699,648.286187845,4.26128644469,243,1052,654.0,2
