@@ -1,0 +1,33 @@
+2015-10-15 22:09:45,960 - illumiprocessor - INFO - ==================== Starting illumiprocessor ===================
+2015-10-15 22:09:45,961 - illumiprocessor - INFO - Version: 2.0.6
+2015-10-15 22:09:45,961 - illumiprocessor - INFO - Argument --config: illumiprocessor.conf
+2015-10-15 22:09:45,961 - illumiprocessor - INFO - Argument --cores: 4
+2015-10-15 22:09:45,961 - illumiprocessor - INFO - Argument --input: /home/analysis/JZ_UCE_RUNS/raw-fastq
+2015-10-15 22:09:45,961 - illumiprocessor - INFO - Argument --log_path: None
+2015-10-15 22:09:45,961 - illumiprocessor - INFO - Argument --min_len: 40
+2015-10-15 22:09:45,962 - illumiprocessor - INFO - Argument --no_merge: False
+2015-10-15 22:09:45,962 - illumiprocessor - INFO - Argument --output: /home/analysis/JZ_UCE_RUNS/clean-fastq
+2015-10-15 22:09:45,962 - illumiprocessor - INFO - Argument --phred: phred33
+2015-10-15 22:09:45,962 - illumiprocessor - INFO - Argument --r1_pattern: None
+2015-10-15 22:09:45,962 - illumiprocessor - INFO - Argument --r2_pattern: None
+2015-10-15 22:09:45,962 - illumiprocessor - INFO - Argument --se: False
+2015-10-15 22:09:45,962 - illumiprocessor - INFO - Argument --trimmomatic: /home/analysis/anaconda/jar/trimmomatic.jar
+2015-10-15 22:09:45,962 - illumiprocessor - INFO - Argument --verbosity: INFO
+2015-10-15 22:09:46,422 - illumiprocessor - INFO - Trimming samples with Trimmomatic
+2015-10-15 22:45:45,072 - illumiprocessor - INFO - ==================== Starting illumiprocessor ===================
+2015-10-15 22:45:45,072 - illumiprocessor - INFO - Version: 2.0.6
+2015-10-15 22:45:45,072 - illumiprocessor - INFO - Argument --config: illumiprocessor.conf
+2015-10-15 22:45:45,072 - illumiprocessor - INFO - Argument --cores: 4
+2015-10-15 22:45:45,072 - illumiprocessor - INFO - Argument --input: /home/analysis/JZ_UCE_RUNS/raw-fastq
+2015-10-15 22:45:45,072 - illumiprocessor - INFO - Argument --log_path: None
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --min_len: 40
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --no_merge: False
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --output: /home/analysis/JZ_UCE_RUNS/clean-fastq
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --phred: phred33
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --r1_pattern: None
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --r2_pattern: None
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --se: False
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --trimmomatic: /home/analysis/anaconda/jar/trimmomatic.jar
+2015-10-15 22:45:45,073 - illumiprocessor - INFO - Argument --verbosity: INFO
+2015-10-15 22:45:45,550 - illumiprocessor - INFO - Trimming samples with Trimmomatic
+2015-10-15 23:10:37,821 - illumiprocessor - INFO - =================== Completed illumiprocessor ===================

@@ -1,0 +1,26 @@
+2015-11-04 14:06:09,675 - phyluce_align_get_only_loci_with_min_taxa - INFO - ======= Starting phyluce_align_get_only_loci_with_min_taxa ======
+2015-11-04 14:06:09,676 - phyluce_align_get_only_loci_with_min_taxa - INFO - Version: 1.5.0
+2015-11-04 14:06:09,676 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --alignments: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/mafft-nexus-internal-trimmed-gblocks-clean
+2015-11-04 14:06:09,676 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --cores: 12
+2015-11-04 14:06:09,676 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --input_format: nexus
+2015-11-04 14:06:09,677 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/log
+2015-11-04 14:06:09,677 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/mafft-nexus-internal-trimmed-gblocks-clean-75p
+2015-11-04 14:06:09,677 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --percent: 0.75
+2015-11-04 14:06:09,677 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --taxa: 37
+2015-11-04 14:06:09,677 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --verbosity: INFO
+2015-11-04 14:06:09,677 - phyluce_align_get_only_loci_with_min_taxa - INFO - Getting alignment files
+2015-11-04 14:06:11,231 - phyluce_align_get_only_loci_with_min_taxa - INFO - Copied 957 alignments of 1086 total containing ≥ 0.75 proportion of taxa (n = 27)
+2015-11-04 14:06:11,232 - phyluce_align_get_only_loci_with_min_taxa - INFO - ====== Completed phyluce_align_get_only_loci_with_min_taxa ======
+2015-11-04 14:06:28,833 - phyluce_align_get_only_loci_with_min_taxa - INFO - ======= Starting phyluce_align_get_only_loci_with_min_taxa ======
+2015-11-04 14:06:28,833 - phyluce_align_get_only_loci_with_min_taxa - INFO - Version: 1.5.0
+2015-11-04 14:06:28,833 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --alignments: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/mafft-nexus-internal-trimmed-gblocks-clean
+2015-11-04 14:06:28,834 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --cores: 12
+2015-11-04 14:06:28,834 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --input_format: nexus
+2015-11-04 14:06:28,834 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/log
+2015-11-04 14:06:28,834 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/extended/mafft-nexus-internal-trimmed-gblocks-clean-95p
+2015-11-04 14:06:28,834 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --percent: 0.95
+2015-11-04 14:06:28,835 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --taxa: 37
+2015-11-04 14:06:28,835 - phyluce_align_get_only_loci_with_min_taxa - INFO - Argument --verbosity: INFO
+2015-11-04 14:06:28,835 - phyluce_align_get_only_loci_with_min_taxa - INFO - Getting alignment files
+2015-11-04 14:06:30,216 - phyluce_align_get_only_loci_with_min_taxa - INFO - Copied 225 alignments of 1086 total containing ≥ 0.95 proportion of taxa (n = 35)
+2015-11-04 14:06:30,217 - phyluce_align_get_only_loci_with_min_taxa - INFO - ====== Completed phyluce_align_get_only_loci_with_min_taxa ======
