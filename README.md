@@ -251,7 +251,7 @@ uce-509     1               1               1
 ###<a name="outgroup">STEP 3: INCLUDING OUTGROUP OR EXTERNAL DATA</a>
 I also wanted to include **outgroup or external data** that is not contained within my assemblies. To do this, you have to assemble those raw data (if necessary), parse the assemblies (especially if not done by trinity or velvet), and then match the probes to the contigs. 
 
-In my case, <a href="https://www.broadinstitute.org/ftp/pub/assemblies/fish/P_nyererei/PunNye1.0/">*pundamilia nyererei*</a>, as well as the outgroups <a href="ftp://ftp.ensembl.org/pub/release-82/fasta/oreochromis_niloticus/dna/">*oreochromis niloticus*</a> and <a href="https://www.broadinstitute.org/ftp/pub/assemblies/fish/N_brichardi/NeoBri1.0/">*neolamprologus brichardi*</a>, were publicly available assembled genomes, so I just needed to parse and match. Upon web downloading the data, I wrote the following to create an `outgroup-taxon-sets` directory that contains the uce-search-results for just the external data.
+In my case, <a href="https://www.broadinstitute.org/ftp/pub/assemblies/fish/P_nyererei/PunNye1.0/">*pundamilia nyererei*</a>, as well as the outgroups <a href="http://ftp.ensembl.org/pub/release-82/fasta/oreochromis_niloticus/dna/">*oreochromis niloticus*</a> and <a href="https://www.broadinstitute.org/ftp/pub/assemblies/fish/N_brichardi/NeoBri1.0/">*neolamprologus brichardi*</a>, were publicly available assembled genomes, so I just needed to parse and match. Upon web downloading the data, I wrote the following to create an `outgroup-taxon-sets` directory that contains the uce-search-results for just the external data.
 
 ```
 # to convert the fastas to 2bit files, processable by the next program
