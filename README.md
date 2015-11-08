@@ -58,7 +58,7 @@ mkdir raw-fastq; cd raw-fastq
 unzip malawicichlids.zip
 rm malawicichlids.zip
 ```
-Next, I created a configuration file (.conf) for the illumiprocessor program, which will copy the raw reads into a different directory and remove contaminating adapter sequences and low-quality bases. This is where I match up each species to its respective adapter identifiers. See below. The following file includes both Tanganyika and Malawi cichlids.
+Next, I created a configuration file (.conf) for the illumiprocessor program, which will copy the raw reads into a different directory and remove contaminating adapter sequences and low-quality bases. This is where I match up each species to its respective adapter identifiers. See below. The following [file] (illumiprocessor.conf) includes both Tanganyika and Malawi cichlids.
 
 ```
 [adapters]
@@ -73,42 +73,13 @@ i7-07_01:ACCTTCTC
 i7-07_02:ACACCAGT
 i7-07_03:GAAGGAAG
 i7-07_04:TCGAGTGA
-i7-07_06:GTCACTGT
-i7-07_07:CCGTAAGA
-i7-07_08:GTCTTGCA
-i7-07_09:ACTGAGGT
-i7-07_10:CACTGACA
-i7-07_11:CAGTCCAA
-i7-07_12:TCGACATC
-i7-08_01:GAGTCTCT
-i7-08_02:ATTGCGTG
-i7-08_03:TGCGAACT
-i7-08_04:GGTAGTGT
-i7-08_05:CAACGGAT
-i7-08_06:TACGGTTG
-i7-08_07:CAAGTGCA
-i7-08_08:ATGCACGA
-i7-08_09:AGCAAGCA
-i7-08_10:CTAGGTGA
-i7-08_11:ATCGCCAT
-i7-08_12:TCGAACCA
-i7-09_05:GATAGCGA
-i7-09_06:CCAAGACT
-i7-09_07:GGATACCA
-i7-09_08:CGTAGGTT
-i7-09_09:CTGGTTCT
-i7-09_10:ATGCCAAC
-i7-09_11:ATATGCGC
+...
 i5-02_H:GCTTCGAA
 i5-03_A:GTGGTGTT
 i5-03_B:ACAGCTCA
 i5-03_C:TTCCTGTG
 i5-03_D:GGTTGTCA
-i5-03_E:ACGGAACA
-i5-03_F:TCTCTAGG
-i5-03_G:CGTTATGC
-i5-03_H:AAGCACTG
-i5-04_A:GAGATACG
+...
 
 [tag map]
 #each species is tagged with a unique PAIR of adapters
@@ -120,88 +91,7 @@ boulengerochromis-microlepis-ID79_S220:i7-08_08,i5-03_F
 capidochromis-eucinostomus-ID12_S164:i7-07_12,i5-02_H
 chalinochromis-brichardi-ID57_S202:i7-08_10,i5-03_D
 cheilotilapia-euchilus-ID23_S152:i7-08_04,i5-03_H
-cheilotilapia-rhodessi-ID24_S153:i7-08_05,i5-03_H
-copadichromis-trimaculatus-ID18_S169:i7-08_06,i5-03_A
-cyathichromis-obliquidens-ID3_S156:i7-07_03,i5-02_H
-cyprichromis-pavo-ID84_S237:i7-09_11,i5-04_A
-docimodus-evelynae-ID10_S162:i7-07_10,i5-02_H
-ectodus-descampsii-ID55_S200:i7-08_08,i5-03_D
-eretmodus-cyanostictus-ID82_S222:i7-08_11,i5-03_F
-fossorichromis-rostratus-ID28_S173:i7-08_04,i5-03_B
-genyochromis-mento-ID7_S159:i7-07_07,i5-02_H
-gnathochromis-permaxillaris-ID60_S230:i7-08_11,i5-03_H
-haplochromis-thereuterion-ID71_S214:i7-08_12,i5-03_E
-haplotaxodon-microlepis-ID77_S218:i7-08_06,i5-03_F
-harpagochromis-golden-duck-ID73_S216:i7-08_02,i5-03_F
-harpagochromis-orange-rock-hunter-ID89_S227:i7-08_06,i5-03_G
-harpagochromis-serranus-ID87_S231:i7-09_05,i5-04_A
-harpagochromis-two-stripe-white-lip-ID88_S226:i7-08_05,i5-03_G
-hemitilapia-oxyrhynchus-ID15_S167:i7-08_03,i5-03_A
-julidochromis-dickfeldi-ID45_S189:i7-08_09,i5-03_C
-labeotropheus-fullbornei-ID8_S160:i7-07_08,i5-02_H
-labeotropheus-trewavase-ID6_S158:i7-07_06,i5-02_H
-labidochromis-gigas-ID30_S175:i7-08_06,i5-03_B
-lamprologus-callipterus-ID56_S201:i7-08_09,i5-03_D
-lamprologus-signatus-ID70_S213:i7-08_11,i5-03_E
-lamprologus-speciosus-ID65_S209:i7-08_06,i5-03_E
-lepidiolamprologus-attenuatus-ID47_S191:i7-08_11,i5-03_C
-lepidiolamprologus-boulengeri-ID36_S181:i7-08_12,i5-03_B
-lepidiolamprologus-hecqui-ID58_S203:i7-08_11,i5-03_D
-lepidiolamprologus-leimairii-ID69_S233:i7-09_07,i5-04_A
-lepidiolamprologus-meeli-kipili-ID40_S229:i7-08_08,i5-03_G
-lepidiolamprologus-nkambae-ID41_S185:i7-08_05,i5-03_C
-lepidiolamprologus-profundicola-ID76_S235:i7-09_09,i5-04_A
-lepidolamprologus-elongatus-ID34_S179:i7-08_10,i5-03_B
-limnochromis-auritus-ID38_S183:i7-08_02,i5-03_C
-lipochromis-parvidens-ID74_S234:i7-09_08,i5-04_A
-melanochromis-auratus-ID4_S157:i7-07_04,i5-02_H
-melanochromis-kaskazini-ID33_S178:i7-08_09,i5-03_B
-metriaclima-greshakae-ID11_S163:i7-07_11,i5-02_H
-metriaclima-patricki-ID22_S151:i7-08_03,i5-03_H
-neolamprologus-bifasciatus-ID80_S236:i7-09_10,i5-04_A
-neolamprologus-brichardi-ID50_S194:i7-08_02,i5-03_D
-neolamprologus-cylindricus-ID68_S212:i7-08_09,i5-03_E
-neolamprologus-fasciatus-ID86_S225:i7-08_03,i5-03_G
-neolamprologus-furcifer-ID66_S210:i7-08_07,i5-03_E
-neolamprologus-helianthus-ID83_S223:i7-08_12,i5-03_F
-neolamprologus-longicaudata-ID54_S199:i7-08_07,i5-03_D
-neolamprologus-longior-ID35_S180:i7-08_11,i5-03_B
-neolamprologus-modestus-ID61_S205:i7-08_02,i5-03_E
-neolamprologus-niger-ID59_S204:i7-08_12,i5-03_D
-neolamprologus-nigriventer-ID67_S211:i7-08_08,i5-03_E
-neolamprologus-obscurus-ID53_S198:i7-08_06,i5-03_D
-neolamprologus-olivaceous-ID85_S224:i7-08_02,i5-03_G
-neolamprologus-prochilus-ID51_S195:i7-08_03,i5-03_D
-neolamprologus-pulcher-ID42_S186:i7-08_06,i5-03_C
-neolamprologus-savoryi-ID39_S184:i7-08_03,i5-03_C
-neolamprologus-sexfasciatus-ID63_S207:i7-08_04,i5-03_E
-neolamprologus-tetracanthus-ID46_S190:i7-08_10,i5-03_C
-neolamprologus-walteri-ID52_S196:i7-08_04,i5-03_D
-nimbochromis-polystigma-ID2_S155:i7-07_02,i5-02_H
-ophthalmotilapia-boops-ID44_S188:i7-08_08,i5-03_C
-ophthalmotilapia-nasuta-ID37_S182:i7-08_01,i5-03_C
-otopharynx-heterodon-ID13_S165:i7-08_01,i5-03_A
-otopharynx-lithobates-ID16_S168:i7-08_04,i5-03_A
-otopharynx-picta-ID14_S166:i7-08_02,i5-03_A
-petrotilapia-nigra-ID9_S161:i7-07_09,i5-02_H
-placidochromis-electra-ID21_S197:i7-08_05,i5-03_D
-placidochromis-milomo-ID17_S232:i7-09_06,i5-04_A
-prognathochromis-perrieri-ID49_S193:i7-08_01,i5-03_D
-psedotropheus-crabro-ID27_S172:i7-08_03,i5-03_B
-pseudotropheus-flavus-ID19_S149:i7-08_01,i5-03_H
-ptyochromis-cf-ID72_S215:i7-08_01,i5-03_F
-pundamila-pundamila-ID75_S217:i7-08_04,i5-03_F
-pyxichromis-orthostoma-ID62_S206:i7-08_03,i5-03_E
-rhamphochromis-longiceps-ID81_S221:i7-08_10,i5-03_F
-simochromis-babaulti-ID48_S192:i7-08_12,i5-03_C
-stigmatochromis-woodei-ID20_S150:i7-08_02,i5-03_H
-taeniolethrinops-preorbitalis-ID29_S174:i7-08_05,i5-03_B
-telmatochromis-dhonti-ID43_S187:i7-08_07,i5-03_C
-telmatochromis-temporalis-ID64_S208:i7-08_05,i5-03_E
-trematochromis-benthicola-ID78_S219:i7-08_07,i5-03_F
-tropheops-microstoma-ID1_S154:i7-07_01,i5-02_H
-tyrannochromis-nigriventer-ID5_S148:i7-06_01,i5-02_H
-variabilichromis-moorii-ID31_S176:i7-08_07,i5-03_B
+...
 
 [names]
 #cleaning up sample names for the remainder of the analyses
@@ -213,89 +103,7 @@ boulengerochromis-microlepis-ID79_S220:boulengerochromis-microlepis-ID79
 capidochromis-eucinostomus-ID12_S164:capidochromis-eucinostomus-ID12
 chalinochromis-brichardi-ID57_S202:chalinochromis-brichardi-ID57
 cheilotilapia-euchilus-ID23_S152:cheilotilapia-euchilus-ID23
-cheilotilapia-rhodessi-ID24_S153:cheilotilapia-rhodessi-ID24
-copadichromis-trimaculatus-ID18_S169:copadichromis-trimaculatus-ID18
-cyathichromis-obliquidens-ID3_S156:cyathichromis-obliquidens-ID3
-cyprichromis-pavo-ID84_S237:cyprichromis-pavo-ID84
-docimodus-evelynae-ID10_S162:docimodus-evelynae-ID10
-ectodus-descampsii-ID55_S200:ectodus-descampsii-ID55
-eretmodus-cyanostictus-ID82_S222:eretmodus-cyanostictus-ID82
-fossorichromis-rostratus-ID28_S173:fossorichromis-rostratus-ID28
-genyochromis-mento-ID7_S159:genyochromis-mento-ID7
-gnathochromis-permaxillaris-ID60_S230:gnathochromis-permaxillaris-ID60
-haplochromis-thereuterion-ID71_S214:haplochromis-thereuterion-ID71
-haplotaxodon-microlepis-ID77_S218:haplotaxodon-microlepis-ID77
-harpagochromis-golden-duck-ID73_S216:harpagochromis-golden-duck-ID73
-harpagochromis-orange-rock-hunter-ID89_S227:harpagochromis-orange-rock-hunter-ID89
-harpagochromis-serranus-ID87_S231:harpagochromis-serranus-ID87
-harpagochromis-two-stripe-white-lip-ID88_S226:harpagochromis-two-stripe-white-lip-ID88
-hemitilapia-oxyrhynchus-ID15_S167:hemitilapia-oxyrhynchus-ID15
-julidochromis-dickfeldi-ID45_S189:julidochromis-dickfeldi-ID45
-labeotropheus-fullbornei-ID8_S160:labeotropheus-fullbornei-ID8
-labeotropheus-trewavase-ID6_S158:labeotropheus-trewavase-ID6
-labidochromis-gigas-ID30_S175:labidochromis-gigas-ID30
-lamprologus-callipterus-ID56_S201:lamprologus-callipterus-ID56
-lamprologus-signatus-ID70_S213:lamprologus-signatus-ID70
-lamprologus-speciosus-ID65_S209:lamprologus-speciosus-ID65
-lepidiolamprologus-attenuatus-ID47_S191:lepidiolamprologus-attenuatus-ID47
-lepidiolamprologus-boulengeri-ID36_S181:lepidiolamprologus-boulengeri-ID36
-lepidiolamprologus-hecqui-ID58_S203:lepidiolamprologus-hecqui-ID58
-lepidiolamprologus-leimairii-ID69_S233:lepidiolamprologus-leimairii-ID69
-lepidiolamprologus-meeli-kipili-ID40_S229:lepidiolamprologus-meeli-kipili-ID40
-lepidiolamprologus-nkambae-ID41_S185:lepidiolamprologus-nkambae-ID41
-lepidiolamprologus-profundicola-ID76_S235:lepidiolamprologus-profundicola-ID76
-lepidolamprologus-elongatus-ID34_S179:lepidolamprologus-elongatus-ID34
-limnochromis-auritus-ID38_S183:limnochromis-auritus-ID38
-lipochromis-parvidens-ID74_S234:lipochromis-parvidens-ID74
-melanochromis-auratus-ID4_S157:melanochromis-auratus-ID4
-melanochromis-kaskazini-ID33_S178:melanochromis-kaskazini-ID33
-metriaclima-greshakae-ID11_S163:metriaclima-greshakae-ID11
-metriaclima-patricki-ID22_S151:metriaclima-patricki-ID22
-neolamprologus-bifasciatus-ID80_S236:neolamprologus-bifasciatus-ID80
-neolamprologus-brichardi-ID50_S194:neolamprologus-brichardi-ID50
-neolamprologus-cylindricus-ID68_S212:neolamprologus-cylindricus-ID68
-neolamprologus-fasciatus-ID86_S225:neolamprologus-fasciatus-ID86
-neolamprologus-furcifer-ID66_S210:neolamprologus-furcifer-ID66
-neolamprologus-helianthus-ID83_S223:neolamprologus-helianthus-ID83
-neolamprologus-longicaudata-ID54_S199:neolamprologus-longicaudata-ID54
-neolamprologus-longior-ID35_S180:neolamprologus-longior-ID35
-neolamprologus-modestus-ID61_S205:neolamprologus-modestus-ID61
-neolamprologus-niger-ID59_S204:neolamprologus-niger-ID59
-neolamprologus-nigriventer-ID67_S211:neolamprologus-nigriventer-ID67
-neolamprologus-obscurus-ID53_S198:neolamprologus-obscurus-ID53
-neolamprologus-olivaceous-ID85_S224:neolamprologus-olivaceous-ID85
-neolamprologus-prochilus-ID51_S195:neolamprologus-prochilus-ID51
-neolamprologus-pulcher-ID42_S186:neolamprologus-pulcher-ID42
-neolamprologus-savoryi-ID39_S184:neolamprologus-savoryi-ID39
-neolamprologus-sexfasciatus-ID63_S207:neolamprologus-sexfasciatus-ID63
-neolamprologus-tetracanthus-ID46_S190:neolamprologus-tetracanthus-ID46
-neolamprologus-walteri-ID52_S196:neolamprologus-walteri-ID52
-nimbochromis-polystigma-ID2_S155:nimbochromis-polystigma-ID2
-ophthalmotilapia-boops-ID44_S188:ophthalmotilapia-boops-ID44
-ophthalmotilapia-nasuta-ID37_S182:ophthalmotilapia-nasuta-ID37
-otopharynx-heterodon-ID13_S165:otopharynx-heterodon-ID13
-otopharynx-lithobates-ID16_S168:otopharynx-lithobates-ID16
-otopharynx-picta-ID14_S166:otopharynx-picta-ID14
-petrotilapia-nigra-ID9_S161:petrotilapia-nigra-ID9
-placidochromis-electra-ID21_S197:placidochromis-electra-ID21
-placidochromis-milomo-ID17_S232:placidochromis-milomo-ID17
-prognathochromis-perrieri-ID49_S193:prognathochromis-perrieri-ID49
-psedotropheus-crabro-ID27_S172:psedotropheus-crabro-ID27
-pseudotropheus-flavus-ID19_S149:pseudotropheus-flavus-ID19
-ptyochromis-cf-ID72_S215:ptyochromis-cf-ID72
-pundamila-pundamila-ID75_S217:pundamila-pundamila-ID75
-pyxichromis-orthostoma-ID62_S206:pyxichromis-orthostoma-ID62
-rhamphochromis-longiceps-ID81_S221:rhamphochromis-longiceps-ID81
-simochromis-babaulti-ID48_S192:simochromis-babaulti-ID48
-stigmatochromis-woodei-ID20_S150:stigmatochromis-woodei-ID20
-taeniolethrinops-preorbitalis-ID29_S174:taeniolethrinops-preorbitalis-ID29
-telmatochromis-dhonti-ID43_S187:telmatochromis-dhonti-ID43
-telmatochromis-temporalis-ID64_S208:telmatochromis-temporalis-ID64
-trematochromis-benthicola-ID78_S219:trematochromis-benthicola-ID78
-tropheops-microstoma-ID1_S154:tropheops-microstoma-ID1
-tyrannochromis-nigriventer-ID5_S148:tyrannochromis-nigriventer-ID5
-variabilichromis-moorii-ID31_S176:variabilichromis-moorii-ID31
-
+... (continued)
 ```
 
 Then I ran <a href="http://illumiprocessor.readthedocs.org/en/latest/usage.html">illumiprocessor</a> using the following code:
@@ -350,10 +158,17 @@ do
     phyluce_assembly_get_fastq_lengths --input $i/split-adapter-quality-trimmed/ --csv;
 done
 ```
-```
+Output:
 
 ```
-Each sample averaged about  million reads after illumiprocessing. Not bad. The results are stored in fastqreads.csv.
+All files in dir with aristochromis-christiae-ID25-READ2.fastq.gz,2778503,384269509,138.300915637,0.0142673237559,40,151,151.0
+All files in dir with astatotilapia-burtoni-ID32-READ2.fastq.gz,2186967,298744995,136.602424728,0.0166710302187,40,151,151.0
+All files in dir with aulonocara-stuartgranti-ID26-READ2.fastq.gz,2090484,288888592,138.192204293,0.0166037026004,40,151,151.0
+All files in dir with bathybates-minor-ID90-READ2.fastq.gz,2213477,303924012,137.30615317,0.0163673516309,40,151,151.0
+All files in dir with boulengerochromis-microlepis-ID79-READ2.fastq.gz,2312481,324622737,140.378553164,0.0147109324642,40,151,151.0
+... (continued)
+```
+Each sample averaged about 2.5 million reads after illumiprocessing. Not bad. The results are stored in [fastqreads.csv] (fastqreads.csv).
 
 ###<a name="assembly">STEP 2: ASSEMBLE READS AND MATCH PROBES</a>
 <a href="https://github.com/faircloth-lab/phyluce">phyluce</a> contains packages for three assembly methods: <a href="http://www.ebi.ac.uk/~zerbino/velvet/">velvet</a>, <a href="http://www.bcgsc.ca/platform/bioinfo/software/abyss">abyss</a>, and <a href="http://trinityrnaseq.sourceforge.net/">trinity</a>. The configuration files you feed into each assembly are similar, so you can make easy modifications to adapt to a different program. I use <a href="http://trinityrnaseq.sourceforge.net/">trinity</a> for this analysis.
