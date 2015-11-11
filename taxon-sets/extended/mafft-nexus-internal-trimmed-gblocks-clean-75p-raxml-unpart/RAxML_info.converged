@@ -1,0 +1,38 @@
+
+
+This is RAxML version 8.0.19 released by Alexandros Stamatakis on March 28 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+RAxML a posteriori Bootstrap convergence assessment
+
+
+RAxML was called as follows:
+
+raxmlHPC-SSE3 -m GTRGAMMA -n converged -I autoMRE -p 1513221725 -z RAxML_bootstrap.bootreps 
+
+
+
+
+Found 287 trees in File RAxML_bootstrap.bootreps
+
+
+
+Found 287 trees in File RAxML_bootstrap.bootreps
+
+# Trees 	 Avg WRF in % 	 # Perms: wrf <= 3.00 %
+50 		 8.75 			 0
+100 		 6.55 			 0
+150 		 5.32 			 0
+200 		 4.62 			 1
+250 		 3.94 			 14
+Bootstopping test did not converge after 287 trees
