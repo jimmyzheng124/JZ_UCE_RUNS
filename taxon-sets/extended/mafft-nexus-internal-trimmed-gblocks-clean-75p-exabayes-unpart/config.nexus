@@ -1,0 +1,5 @@
+begin run;
+ numRuns 4
+ numgen 2e6
+ numCoupledChains 4
+end;
