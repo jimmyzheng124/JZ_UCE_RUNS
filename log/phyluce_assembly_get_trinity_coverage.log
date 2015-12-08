@@ -1,0 +1,234 @@
+2015-12-07 19:16:04,602 - phyluce_assembly_get_trinity_coverage - INFO - ========= Starting phyluce_assembly_get_trinity_coverage ========
+2015-12-07 19:16:04,603 - phyluce_assembly_get_trinity_coverage - INFO - Version: 1.5.0
+2015-12-07 19:16:04,603 - phyluce_assembly_get_trinity_coverage - INFO - Argument --assemblies: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-07 19:16:04,603 - phyluce_assembly_get_trinity_coverage - INFO - Argument --assemblo_config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-07 19:16:04,603 - phyluce_assembly_get_trinity_coverage - INFO - Argument --bwa_mem: True
+2015-12-07 19:16:04,603 - phyluce_assembly_get_trinity_coverage - INFO - Argument --clean: True
+2015-12-07 19:16:04,603 - phyluce_assembly_get_trinity_coverage - INFO - Argument --cores: 12
+2015-12-07 19:16:04,603 - phyluce_assembly_get_trinity_coverage - INFO - Argument --log_path: None
+2015-12-07 19:16:04,604 - phyluce_assembly_get_trinity_coverage - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-07 19:16:04,604 - phyluce_assembly_get_trinity_coverage - INFO - Argument --trim: False
+2015-12-07 19:16:04,604 - phyluce_assembly_get_trinity_coverage - INFO - Argument --velvet: False
+2015-12-07 19:16:04,604 - phyluce_assembly_get_trinity_coverage - INFO - Argument --verbosity: INFO
+2015-12-07 19:16:04,604 - phyluce_assembly_get_trinity_coverage - INFO - Getting input filenames
+2015-12-07 19:16:04,607 - phyluce_assembly_get_trinity_coverage - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-07 19:16:04,607 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 19:18:22,823 - phyluce_assembly_get_trinity_coverage - INFO - ========= Starting phyluce_assembly_get_trinity_coverage ========
+2015-12-07 19:18:22,823 - phyluce_assembly_get_trinity_coverage - INFO - Version: 1.5.0
+2015-12-07 19:18:22,824 - phyluce_assembly_get_trinity_coverage - INFO - Argument --assemblies: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-07 19:18:22,824 - phyluce_assembly_get_trinity_coverage - INFO - Argument --assemblo_config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-07 19:18:22,824 - phyluce_assembly_get_trinity_coverage - INFO - Argument --bwa_mem: True
+2015-12-07 19:18:22,824 - phyluce_assembly_get_trinity_coverage - INFO - Argument --clean: True
+2015-12-07 19:18:22,824 - phyluce_assembly_get_trinity_coverage - INFO - Argument --cores: 12
+2015-12-07 19:18:22,824 - phyluce_assembly_get_trinity_coverage - INFO - Argument --log_path: None
+2015-12-07 19:18:22,824 - phyluce_assembly_get_trinity_coverage - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-07 19:18:22,825 - phyluce_assembly_get_trinity_coverage - INFO - Argument --trim: False
+2015-12-07 19:18:22,825 - phyluce_assembly_get_trinity_coverage - INFO - Argument --velvet: False
+2015-12-07 19:18:22,825 - phyluce_assembly_get_trinity_coverage - INFO - Argument --verbosity: INFO
+2015-12-07 19:18:22,825 - phyluce_assembly_get_trinity_coverage - INFO - Getting input filenames
+2015-12-07 19:18:22,828 - phyluce_assembly_get_trinity_coverage - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-07 19:18:22,828 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 19:18:22,831 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 19:18:22,832 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity/contigs.fasta
+2015-12-07 19:18:29,087 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for aristochromis-christiae-ID25
+2015-12-07 19:18:29,272 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for aristochromis-christiae-ID25
+2015-12-07 19:18:32,673 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for aristochromis-christiae-ID25
+2015-12-07 19:20:18,594 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for aristochromis-christiae-ID25
+2015-12-07 19:21:09,504 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for aristochromis-christiae-ID25
+2015-12-07 19:22:29,715 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for aristochromis-christiae-ID25
+2015-12-07 19:22:32,534 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for aristochromis-christiae-ID25
+2015-12-07 19:22:35,063 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for aristochromis-christiae-ID25
+2015-12-07 19:22:38,625 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for aristochromis-christiae-ID25
+2015-12-07 19:23:28,446 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for aristochromis-christiae-ID25
+2015-12-07 19:24:40,679 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for aristochromis-christiae-ID25
+2015-12-07 19:24:44,684 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for aristochromis-christiae-ID25
+2015-12-07 19:33:56,708 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 19:34:37,630 - phyluce_assembly_get_trinity_coverage - INFO - 	31574 contigs, mean coverage = 7.6, mean length = 336.5
+2015-12-07 19:34:37,630 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 19:34:37,631 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] aristochromis-christiae-ID25-coverage (slow)
+2015-12-07 19:36:20,889 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] aristochromis-christiae-ID25-coverage.sample_summary
+2015-12-07 19:36:20,889 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] aristochromis-christiae-ID25-coverage.sample_statistics
+2015-12-07 19:36:20,889 - phyluce_assembly_get_trinity_coverage - INFO - ------------- Processing astatotilapia-burtoni-ID32 -------------
+2015-12-07 19:36:20,889 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 19:36:20,890 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 19:36:20,890 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/astatotilapia-burtoni-ID32_trinity/contigs.fasta
+2015-12-07 19:36:24,445 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for astatotilapia-burtoni-ID32
+2015-12-07 19:36:24,580 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for astatotilapia-burtoni-ID32
+2015-12-07 19:36:27,001 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for astatotilapia-burtoni-ID32
+2015-12-07 19:37:48,357 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for astatotilapia-burtoni-ID32
+2015-12-07 19:38:28,117 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for astatotilapia-burtoni-ID32
+2015-12-07 19:39:32,932 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for astatotilapia-burtoni-ID32
+2015-12-07 19:39:35,219 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for astatotilapia-burtoni-ID32
+2015-12-07 19:39:37,631 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for astatotilapia-burtoni-ID32
+2015-12-07 19:39:41,074 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for astatotilapia-burtoni-ID32
+2015-12-07 19:40:20,198 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for astatotilapia-burtoni-ID32
+2015-12-07 19:41:17,385 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for astatotilapia-burtoni-ID32
+2015-12-07 19:41:20,526 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for astatotilapia-burtoni-ID32
+2015-12-07 19:47:17,307 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 19:47:44,269 - phyluce_assembly_get_trinity_coverage - INFO - 	21457 contigs, mean coverage = 8.5, mean length = 321.6
+2015-12-07 19:47:44,309 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 19:47:44,315 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] astatotilapia-burtoni-ID32-coverage.sample_statistics
+2015-12-07 19:47:44,316 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] astatotilapia-burtoni-ID32-coverage (slow)
+2015-12-07 19:48:51,355 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] astatotilapia-burtoni-ID32-coverage.sample_summary
+2015-12-07 19:48:51,355 - phyluce_assembly_get_trinity_coverage - INFO - ------------ Processing aulonocara-stuartgranti-ID26 ------------
+2015-12-07 19:48:51,356 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 19:48:51,357 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 19:48:51,357 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aulonocara-stuartgranti-ID26_trinity/contigs.fasta
+2015-12-07 19:48:55,975 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for aulonocara-stuartgranti-ID26
+2015-12-07 19:48:56,114 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for aulonocara-stuartgranti-ID26
+2015-12-07 19:48:58,840 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for aulonocara-stuartgranti-ID26
+2015-12-07 19:50:18,056 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for aulonocara-stuartgranti-ID26
+2015-12-07 19:50:56,277 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for aulonocara-stuartgranti-ID26
+2015-12-07 19:51:58,566 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for aulonocara-stuartgranti-ID26
+2015-12-07 19:52:00,894 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for aulonocara-stuartgranti-ID26
+2015-12-07 19:52:03,274 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for aulonocara-stuartgranti-ID26
+2015-12-07 19:52:06,781 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for aulonocara-stuartgranti-ID26
+2015-12-07 19:52:44,691 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for aulonocara-stuartgranti-ID26
+2015-12-07 19:53:41,543 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for aulonocara-stuartgranti-ID26
+2015-12-07 19:53:44,511 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for aulonocara-stuartgranti-ID26
+2015-12-07 20:00:26,297 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 20:00:55,831 - phyluce_assembly_get_trinity_coverage - INFO - 	20526 contigs, mean coverage = 8.3, mean length = 377.4
+2015-12-07 20:00:55,852 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 20:00:55,853 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] aulonocara-stuartgranti-ID26-coverage (slow)
+2015-12-07 20:02:09,084 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] aulonocara-stuartgranti-ID26-coverage.sample_summary
+2015-12-07 20:02:09,085 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] aulonocara-stuartgranti-ID26-coverage.sample_statistics
+2015-12-07 20:02:09,085 - phyluce_assembly_get_trinity_coverage - INFO - ---------------- Processing bathybates-minor-ID90 ---------------
+2015-12-07 20:02:09,085 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 20:02:09,086 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 20:02:09,086 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/bathybates-minor-ID90_trinity/contigs.fasta
+2015-12-07 20:02:12,655 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for bathybates-minor-ID90
+2015-12-07 20:02:12,761 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for bathybates-minor-ID90
+2015-12-07 20:02:15,406 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for bathybates-minor-ID90
+2015-12-07 20:03:38,659 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for bathybates-minor-ID90
+2015-12-07 20:04:19,394 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for bathybates-minor-ID90
+2015-12-07 20:05:22,761 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for bathybates-minor-ID90
+2015-12-07 20:05:25,125 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for bathybates-minor-ID90
+2015-12-07 20:05:27,421 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for bathybates-minor-ID90
+2015-12-07 20:05:30,977 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for bathybates-minor-ID90
+2015-12-07 20:06:10,150 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for bathybates-minor-ID90
+2015-12-07 20:07:07,619 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for bathybates-minor-ID90
+2015-12-07 20:07:10,783 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for bathybates-minor-ID90
+2015-12-07 20:13:10,698 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 20:13:37,803 - phyluce_assembly_get_trinity_coverage - INFO - 	20824 contigs, mean coverage = 8.8, mean length = 333.4
+2015-12-07 20:13:37,829 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 20:13:37,830 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] bathybates-minor-ID90-coverage (slow)
+2015-12-07 20:14:45,594 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] bathybates-minor-ID90-coverage.sample_summary
+2015-12-07 20:14:45,594 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] bathybates-minor-ID90-coverage.sample_statistics
+2015-12-07 20:14:45,594 - phyluce_assembly_get_trinity_coverage - INFO - ---------- Processing boulengerochromis-microlepis-ID79 ---------
+2015-12-07 20:14:45,595 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 20:14:45,596 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 20:14:45,596 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/boulengerochromis-microlepis-ID79_trinity/contigs.fasta
+2015-12-07 20:14:49,531 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for boulengerochromis-microlepis-ID79
+2015-12-07 20:14:49,685 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for boulengerochromis-microlepis-ID79
+2015-12-07 20:14:52,625 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for boulengerochromis-microlepis-ID79
+2015-12-07 20:16:20,231 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for boulengerochromis-microlepis-ID79
+2015-12-07 20:17:01,814 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for boulengerochromis-microlepis-ID79
+2015-12-07 20:18:10,527 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for boulengerochromis-microlepis-ID79
+2015-12-07 20:18:12,947 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for boulengerochromis-microlepis-ID79
+2015-12-07 20:18:15,256 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for boulengerochromis-microlepis-ID79
+2015-12-07 20:18:18,816 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for boulengerochromis-microlepis-ID79
+2015-12-07 20:18:59,786 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for boulengerochromis-microlepis-ID79
+2015-12-07 20:20:00,188 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for boulengerochromis-microlepis-ID79
+2015-12-07 20:20:03,557 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for boulengerochromis-microlepis-ID79
+2015-12-07 20:27:03,587 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 20:27:35,215 - phyluce_assembly_get_trinity_coverage - INFO - 	25892 contigs, mean coverage = 7.3, mean length = 313.5
+2015-12-07 20:27:35,233 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 20:27:35,235 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] boulengerochromis-microlepis-ID79-coverage (slow)
+2015-12-07 20:28:56,530 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] boulengerochromis-microlepis-ID79-coverage.sample_statistics
+2015-12-07 20:28:56,530 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] boulengerochromis-microlepis-ID79-coverage.sample_summary
+2015-12-07 20:28:56,530 - phyluce_assembly_get_trinity_coverage - INFO - ----------- Processing capidochromis-eucinostomus-ID12 ----------
+2015-12-07 20:28:56,531 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 20:28:56,531 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 20:28:56,532 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/capidochromis-eucinostomus-ID12_trinity/contigs.fasta
+2015-12-07 20:29:02,547 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for capidochromis-eucinostomus-ID12
+2015-12-07 20:29:02,745 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for capidochromis-eucinostomus-ID12
+2015-12-07 20:29:06,042 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for capidochromis-eucinostomus-ID12
+2015-12-07 20:31:02,330 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for capidochromis-eucinostomus-ID12
+2015-12-07 20:31:59,103 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for capidochromis-eucinostomus-ID12
+2015-12-07 20:33:33,881 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for capidochromis-eucinostomus-ID12
+2015-12-07 20:33:37,147 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for capidochromis-eucinostomus-ID12
+2015-12-07 20:33:39,991 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for capidochromis-eucinostomus-ID12
+2015-12-07 20:33:44,087 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for capidochromis-eucinostomus-ID12
+2015-12-07 20:34:46,974 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for capidochromis-eucinostomus-ID12
+2015-12-07 20:36:15,999 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for capidochromis-eucinostomus-ID12
+2015-12-07 20:36:20,862 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for capidochromis-eucinostomus-ID12
+2015-12-07 20:47:25,385 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 20:48:09,419 - phyluce_assembly_get_trinity_coverage - INFO - 	32604 contigs, mean coverage = 7.6, mean length = 351.7
+2015-12-07 20:48:09,442 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 20:48:09,444 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] capidochromis-eucinostomus-ID12-coverage.sample_summary
+2015-12-07 20:48:09,444 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] capidochromis-eucinostomus-ID12-coverage (slow)
+2015-12-07 20:49:59,498 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] capidochromis-eucinostomus-ID12-coverage.sample_statistics
+2015-12-07 20:49:59,499 - phyluce_assembly_get_trinity_coverage - INFO - ------------ Processing chalinochromis-brichardi-ID57 -----------
+2015-12-07 20:49:59,499 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 20:49:59,500 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 20:49:59,500 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/chalinochromis-brichardi-ID57_trinity/contigs.fasta
+2015-12-07 20:50:04,129 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for chalinochromis-brichardi-ID57
+2015-12-07 20:50:04,305 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for chalinochromis-brichardi-ID57
+2015-12-07 20:50:07,644 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for chalinochromis-brichardi-ID57
+2015-12-07 20:51:46,932 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for chalinochromis-brichardi-ID57
+2015-12-07 20:52:34,986 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for chalinochromis-brichardi-ID57
+2015-12-07 20:53:52,127 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for chalinochromis-brichardi-ID57
+2015-12-07 20:53:54,968 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for chalinochromis-brichardi-ID57
+2015-12-07 20:53:57,608 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for chalinochromis-brichardi-ID57
+2015-12-07 20:54:01,405 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for chalinochromis-brichardi-ID57
+2015-12-07 20:54:50,931 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for chalinochromis-brichardi-ID57
+2015-12-07 20:56:11,272 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for chalinochromis-brichardi-ID57
+2015-12-07 20:56:15,789 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for chalinochromis-brichardi-ID57
+2015-12-07 21:09:16,471 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 21:10:01,761 - phyluce_assembly_get_trinity_coverage - INFO - 	31633 contigs, mean coverage = 7.6, mean length = 300.2
+2015-12-07 21:10:01,847 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 21:10:01,848 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] chalinochromis-brichardi-ID57-coverage (slow)
+2015-12-07 21:11:47,780 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] chalinochromis-brichardi-ID57-coverage.sample_statistics
+2015-12-07 21:11:47,781 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] chalinochromis-brichardi-ID57-coverage.sample_summary
+2015-12-07 21:11:47,781 - phyluce_assembly_get_trinity_coverage - INFO - ------------- Processing cheilotilapia-euchilus-ID23 ------------
+2015-12-07 21:11:47,782 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 21:11:47,783 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 21:11:47,784 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/cheilotilapia-euchilus-ID23_trinity/contigs.fasta
+2015-12-07 21:11:57,635 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for cheilotilapia-euchilus-ID23
+2015-12-07 21:11:57,878 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for cheilotilapia-euchilus-ID23
+2015-12-07 21:12:02,922 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for cheilotilapia-euchilus-ID23
+2015-12-07 21:14:11,259 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for cheilotilapia-euchilus-ID23
+2015-12-07 21:15:04,903 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for cheilotilapia-euchilus-ID23
+2015-12-07 21:16:39,366 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for cheilotilapia-euchilus-ID23
+2015-12-07 21:16:43,018 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for cheilotilapia-euchilus-ID23
+2015-12-07 21:16:46,259 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for cheilotilapia-euchilus-ID23
+2015-12-07 21:16:51,296 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for cheilotilapia-euchilus-ID23
+2015-12-07 21:17:41,386 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for cheilotilapia-euchilus-ID23
+2015-12-07 21:19:02,972 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for cheilotilapia-euchilus-ID23
+2015-12-07 21:19:06,859 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for cheilotilapia-euchilus-ID23
+2015-12-07 21:31:36,338 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 21:32:11,786 - phyluce_assembly_get_trinity_coverage - INFO - 	23394 contigs, mean coverage = 8.2, mean length = 362.9
+2015-12-07 21:32:11,844 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 21:32:11,845 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] cheilotilapia-euchilus-ID23-coverage.sample_statistics
+2015-12-07 21:32:11,846 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] cheilotilapia-euchilus-ID23-coverage (slow)
+2015-12-07 21:33:53,778 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] cheilotilapia-euchilus-ID23-coverage.sample_summary
+2015-12-07 21:33:53,778 - phyluce_assembly_get_trinity_coverage - INFO - ------------- Processing cheilotilapia-rhodessi-ID24 ------------
+2015-12-07 21:33:53,779 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 21:33:53,780 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 21:33:53,780 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/cheilotilapia-rhodessi-ID24_trinity/contigs.fasta
+2015-12-07 21:34:04,607 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for cheilotilapia-rhodessi-ID24
+2015-12-07 21:34:04,821 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for cheilotilapia-rhodessi-ID24
+2015-12-07 21:34:08,495 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for cheilotilapia-rhodessi-ID24
+2015-12-07 21:36:37,794 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for cheilotilapia-rhodessi-ID24
+2015-12-07 21:37:32,827 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for cheilotilapia-rhodessi-ID24
+2015-12-07 21:39:07,334 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for cheilotilapia-rhodessi-ID24
+2015-12-07 21:39:11,615 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for cheilotilapia-rhodessi-ID24
+2015-12-07 21:39:16,029 - phyluce_assembly_get_trinity_coverage - INFO - Adding RG header to BAM for cheilotilapia-rhodessi-ID24
+2015-12-07 21:39:22,569 - phyluce_assembly_get_trinity_coverage - INFO - Merging BAMs for cheilotilapia-rhodessi-ID24
+2015-12-07 21:40:20,305 - phyluce_assembly_get_trinity_coverage - INFO - Marking read duplicates from BAM for cheilotilapia-rhodessi-ID24
+2015-12-07 21:41:46,501 - phyluce_assembly_get_trinity_coverage - INFO - Indexing BAM for cheilotilapia-rhodessi-ID24
+2015-12-07 21:41:50,502 - phyluce_assembly_get_trinity_coverage - INFO - Computing coverage with GATK for cheilotilapia-rhodessi-ID24
+2015-12-07 21:52:45,931 - phyluce_assembly_get_trinity_coverage - INFO - Screening contigs for coverage
+2015-12-07 21:53:27,532 - phyluce_assembly_get_trinity_coverage - INFO - 	26831 contigs, mean coverage = 7.8, mean length = 364.5
+2015-12-07 21:53:27,562 - phyluce_assembly_get_trinity_coverage - INFO - Removing GATK coverage files we created (screened files remain)
+2015-12-07 21:53:27,564 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] cheilotilapia-rhodessi-ID24-coverage.sample_summary
+2015-12-07 21:53:27,565 - phyluce_assembly_get_trinity_coverage - INFO - [GZIP] cheilotilapia-rhodessi-ID24-coverage (slow)
+2015-12-07 21:55:10,655 - phyluce_assembly_get_trinity_coverage - INFO - [Remove] cheilotilapia-rhodessi-ID24-coverage.sample_statistics
+2015-12-07 21:55:10,655 - phyluce_assembly_get_trinity_coverage - INFO - ----------- Processing copadichromis-trimaculatus-ID18 ----------
+2015-12-07 21:55:10,656 - phyluce_assembly_get_trinity_coverage - INFO - Finding fastq/fasta files
+2015-12-07 21:55:10,657 - phyluce_assembly_get_trinity_coverage - INFO - File type is fastq
+2015-12-07 21:55:10,658 - phyluce_assembly_get_trinity_coverage - INFO - Running bwa indexing against /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/copadichromis-trimaculatus-ID18_trinity/contigs.fasta
+2015-12-07 21:55:15,619 - phyluce_assembly_get_trinity_coverage - INFO - Indexing fasta for copadichromis-trimaculatus-ID18
+2015-12-07 21:55:15,715 - phyluce_assembly_get_trinity_coverage - INFO - Creating FASTA dict for copadichromis-trimaculatus-ID18
+2015-12-07 21:55:18,522 - phyluce_assembly_get_trinity_coverage - INFO - Building BAM for copadichromis-trimaculatus-ID18
+2015-12-07 21:56:34,935 - phyluce_assembly_get_trinity_coverage - INFO - Cleaning BAM for copadichromis-trimaculatus-ID18

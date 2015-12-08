@@ -1,0 +1,1134 @@
+2015-12-05 21:59:50,692 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 21:59:50,692 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 21:59:50,692 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 21:59:50,693 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 21:59:50,693 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 21:59:50,693 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 21:59:50,693 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 21:59:50,693 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 21:59:50,693 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 21:59:50,693 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 21:59:50,694 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 21:59:50,694 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 21:59:50,698 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 21:59:50,698 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 21:59:50,702 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 21:59:50,703 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 21:59:57,456 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 21:59:57,470 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 22:08:37,375 - phyluce_assembly_assemblo_trinity - CRITICAL - Could not assemble /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 22:08:37,623 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 22:52:30,932 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 22:52:30,932 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 22:52:30,932 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 22:52:30,933 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 22:52:30,933 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 22:52:30,933 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 22:52:30,933 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 22:52:30,933 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 22:52:30,934 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 22:52:30,934 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 22:52:30,934 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 22:52:30,934 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 22:52:30,940 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 22:52:30,941 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 22:52:30,945 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 22:52:30,946 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 22:52:31,269 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 22:52:31,283 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 22:52:31,313 - phyluce_assembly_assemblo_trinity - CRITICAL - Could not assemble /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 22:52:31,395 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 22:52:31,395 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 22:54:40,315 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 22:54:40,315 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 22:54:40,316 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 22:54:40,316 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 22:54:40,316 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 22:54:40,316 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 22:54:40,316 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 22:54:40,316 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 22:54:40,317 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 22:54:40,317 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 22:54:40,317 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 22:54:40,317 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 22:54:40,322 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 22:54:40,322 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 22:54:40,325 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 22:54:40,326 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 22:54:40,640 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 22:54:40,654 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 22:54:40,662 - phyluce_assembly_assemblo_trinity - CRITICAL - Could not assemble /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 22:54:40,753 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 22:54:40,753 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:07:44,492 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:07:44,492 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:07:44,493 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:07:44,493 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:07:44,493 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:07:44,493 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:07:44,493 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:07:44,494 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:07:44,494 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:07:44,494 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:07:44,494 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:07:44,495 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:07:44,500 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:07:50,400 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:07:50,400 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:07:50,401 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:07:50,401 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:07:50,401 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:07:50,401 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:07:50,402 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:07:50,402 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:07:50,402 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:07:50,402 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:07:50,403 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:07:50,403 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:07:50,409 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:07:50,410 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:07:50,414 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:07:50,415 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:07:50,735 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:07:50,748 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:07:50,755 - phyluce_assembly_assemblo_trinity - CRITICAL - Could not assemble /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:07:50,847 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:07:50,847 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:08:40,905 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:08:40,906 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:08:40,906 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:08:40,906 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:08:40,906 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:08:40,907 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:08:40,907 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:08:40,907 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:08:40,907 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:08:40,907 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:08:40,908 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:08:40,908 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:08:40,913 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:08:46,289 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:08:46,290 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:08:46,290 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:08:46,290 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:08:46,290 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:08:46,290 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:08:46,291 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:08:46,291 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:08:46,291 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:08:46,291 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:08:46,292 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:08:46,292 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:08:46,298 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:08:46,298 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:08:46,303 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:08:46,304 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:08:46,615 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:08:46,629 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:08:46,794 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:08:46,795 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:23:05,230 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:23:05,231 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:23:05,231 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:23:05,232 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:23:05,232 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:23:05,232 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:23:05,232 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:23:05,233 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:23:05,233 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:23:05,233 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:23:05,233 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:23:05,234 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:23:05,240 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:23:05,241 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:23:05,245 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:23:05,247 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:23:05,564 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:23:05,578 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:23:05,744 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:23:05,745 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:25:23,645 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:25:23,645 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:25:23,646 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:25:23,646 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:25:23,646 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:25:23,646 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:25:23,647 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:25:23,647 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:25:23,647 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:25:23,647 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:25:23,647 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:25:23,648 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:25:23,653 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:25:29,828 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:25:29,829 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:25:29,829 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:25:29,829 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:25:29,829 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:25:29,830 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:25:29,830 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:25:29,830 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:25:29,830 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:25:29,831 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:25:29,831 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:25:29,831 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:25:29,837 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:25:29,837 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:25:29,842 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:25:29,843 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:25:30,149 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:25:30,162 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:25:30,320 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:25:30,320 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:26:28,061 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:26:28,061 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:26:28,061 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:26:28,061 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:26:28,062 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:26:28,062 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:26:28,062 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:26:28,062 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:26:28,063 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:26:28,063 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:26:28,063 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:26:28,063 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:26:28,069 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:26:32,664 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:26:32,664 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:26:32,664 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:26:32,665 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:26:32,665 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:26:32,665 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:26:32,665 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:26:32,666 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:26:32,666 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:26:32,666 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:26:32,666 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:26:32,667 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:26:32,672 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:26:32,673 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:26:32,677 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:26:32,678 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:26:32,993 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:26:33,007 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:26:33,171 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:26:33,171 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:32:37,237 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:32:37,237 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:32:37,237 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:32:37,238 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:32:37,238 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:32:37,238 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:32:37,238 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:32:37,238 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:32:37,238 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:32:37,239 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:32:37,239 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:32:37,239 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:32:37,244 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:32:37,244 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:32:37,248 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:32:37,249 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:32:37,548 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:32:37,562 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:32:37,721 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:32:37,721 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:41:27,252 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:41:27,252 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:41:27,252 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:41:27,253 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: None
+2015-12-05 23:41:27,253 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:41:27,253 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: /home/jimmyzheng/JZ_UCE_RUNS/dmux-merged-clean
+2015-12-05 23:41:27,253 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:41:27,254 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:41:27,254 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:41:27,254 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-05 23:41:27,254 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:41:27,255 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:41:27,257 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:41:36,784 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:41:36,785 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:41:36,785 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:41:36,785 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: None
+2015-12-05 23:41:36,785 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:41:36,786 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: /home/jimmyzheng/JZ_UCE_RUNS/dmux-merged-clean
+2015-12-05 23:41:36,786 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:41:36,786 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:41:36,786 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:41:36,787 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-05 23:41:36,787 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:41:36,787 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:41:36,790 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:41:36,791 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:41:36,795 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:41:36,797 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:41:37,115 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:41:37,129 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:41:37,297 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:41:37,297 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:45:50,241 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:45:50,241 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:45:50,242 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:45:50,242 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:45:50,242 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:45:50,242 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:45:50,242 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:45:50,243 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:45:50,243 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:45:50,243 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:45:50,243 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:45:50,243 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:45:50,247 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:45:54,903 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:45:54,904 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:45:54,904 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:45:54,904 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:45:54,905 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:45:54,905 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:45:54,905 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:45:54,905 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:45:54,905 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:45:54,906 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:45:54,906 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:45:54,906 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:45:54,912 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:45:54,912 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:45:54,917 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:45:54,918 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:45:55,223 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:45:55,237 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:45:55,666 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:45:55,667 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:47:22,479 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:47:22,479 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:47:22,480 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:47:22,480 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:47:22,480 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:47:22,480 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:47:22,481 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:47:22,481 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:47:22,481 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:47:22,482 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:47:22,482 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:47:22,482 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:47:22,489 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:47:26,632 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:47:26,633 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:47:26,633 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:47:26,633 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:47:26,634 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:47:26,634 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:47:26,634 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:47:26,634 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:47:26,634 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:47:26,635 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:47:26,635 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:47:26,635 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:47:26,641 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:47:26,641 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:47:26,646 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:47:26,647 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:47:26,969 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:47:26,983 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:47:27,056 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:47:27,056 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:48:05,172 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:48:05,172 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:48:05,173 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:48:05,173 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:48:05,173 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:48:05,173 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:48:05,174 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:48:05,174 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:48:05,174 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:48:05,174 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:48:05,174 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:48:05,175 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:48:05,180 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:48:10,212 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:48:10,212 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:48:10,213 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:48:10,213 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:48:10,213 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:48:10,213 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:48:10,214 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:48:10,214 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:48:10,214 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:48:10,214 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:48:10,214 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:48:10,215 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:48:10,221 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:48:10,221 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:48:10,225 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:48:10,227 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:48:10,535 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:48:10,549 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:48:10,706 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:48:10,706 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:55:28,299 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:55:28,300 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:55:28,300 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:55:28,300 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:55:28,300 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:55:28,300 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:55:28,300 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:55:28,301 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:55:28,301 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:55:28,301 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:55:28,301 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:55:28,301 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:55:28,306 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:55:33,873 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:55:33,874 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:55:33,874 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:55:33,874 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:55:33,874 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:55:33,874 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:55:33,874 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:55:33,875 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:55:33,875 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:55:33,875 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:55:33,875 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:55:33,875 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:55:33,880 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:55:33,880 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:55:33,884 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:55:33,885 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:55:34,184 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:55:34,197 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-05 23:55:43,552 - phyluce_assembly_assemblo_trinity - CRITICAL - Could not assemble /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:55:44,202 - phyluce_assembly_assemblo_trinity - WARNING - Did not clean all fastq/fasta files from /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:55:44,202 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-05 23:56:52,468 - phyluce_assembly_assemblo_trinity - INFO - =========== Starting phyluce_assembly_assemblo_trinity ==========
+2015-12-05 23:56:52,468 - phyluce_assembly_assemblo_trinity - INFO - Version: 1.5.0
+2015-12-05 23:56:52,468 - phyluce_assembly_assemblo_trinity - INFO - Argument --clean: True
+2015-12-05 23:56:52,469 - phyluce_assembly_assemblo_trinity - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/assembly.conf
+2015-12-05 23:56:52,469 - phyluce_assembly_assemblo_trinity - INFO - Argument --cores: 24
+2015-12-05 23:56:52,469 - phyluce_assembly_assemblo_trinity - INFO - Argument --dir: None
+2015-12-05 23:56:52,469 - phyluce_assembly_assemblo_trinity - INFO - Argument --log_path: None
+2015-12-05 23:56:52,470 - phyluce_assembly_assemblo_trinity - INFO - Argument --min_kmer_coverage: 2
+2015-12-05 23:56:52,470 - phyluce_assembly_assemblo_trinity - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-05 23:56:52,470 - phyluce_assembly_assemblo_trinity - INFO - Argument --subfolder: 
+2015-12-05 23:56:52,470 - phyluce_assembly_assemblo_trinity - INFO - Argument --verbosity: INFO
+2015-12-05 23:56:52,470 - phyluce_assembly_assemblo_trinity - INFO - Getting input filenames and creating output directories
+2015-12-05 23:56:52,476 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-05 23:56:52,477 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-05 23:56:52,481 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-05 23:56:52,482 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aristochromis-christiae-ID25_trinity
+2015-12-05 23:56:52,816 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-05 23:56:52,829 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 00:33:29,884 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 00:33:40,345 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 00:33:40,346 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing astatotilapia-burtoni-ID32 -------------
+2015-12-06 00:33:40,346 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 00:33:40,347 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 00:33:40,347 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/astatotilapia-burtoni-ID32_trinity
+2015-12-06 00:33:40,829 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 00:33:40,838 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 01:00:38,830 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 01:00:46,524 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 01:00:46,546 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing aulonocara-stuartgranti-ID26 ------------
+2015-12-06 01:00:46,546 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 01:00:46,548 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 01:00:46,548 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/aulonocara-stuartgranti-ID26_trinity
+2015-12-06 01:00:47,500 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 01:00:47,513 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 01:26:31,116 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 01:26:37,799 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 01:26:37,800 - phyluce_assembly_assemblo_trinity - INFO - ---------------- Processing bathybates-minor-ID90 ---------------
+2015-12-06 01:26:37,800 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 01:26:37,800 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 01:26:37,801 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/bathybates-minor-ID90_trinity
+2015-12-06 01:26:38,331 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 01:26:38,345 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 01:53:43,540 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 01:53:50,489 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 01:53:50,490 - phyluce_assembly_assemblo_trinity - INFO - ---------- Processing boulengerochromis-microlepis-ID79 ---------
+2015-12-06 01:53:50,490 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 01:53:50,491 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 01:53:50,492 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/boulengerochromis-microlepis-ID79_trinity
+2015-12-06 01:53:50,915 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 01:53:50,924 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 02:24:42,540 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 02:24:50,795 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 02:24:50,796 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing capidochromis-eucinostomus-ID12 ----------
+2015-12-06 02:24:50,796 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 02:24:50,797 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 02:24:50,797 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/capidochromis-eucinostomus-ID12_trinity
+2015-12-06 02:24:51,934 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 02:24:52,016 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 03:04:52,710 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 03:05:03,008 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 03:05:03,008 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing chalinochromis-brichardi-ID57 -----------
+2015-12-06 03:05:03,009 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 03:05:03,009 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 03:05:03,010 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/chalinochromis-brichardi-ID57_trinity
+2015-12-06 03:05:07,791 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 03:05:07,806 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 03:42:30,409 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 03:42:41,317 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 03:42:41,318 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing cheilotilapia-euchilus-ID23 ------------
+2015-12-06 03:42:41,318 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 03:42:41,319 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 03:42:41,319 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/cheilotilapia-euchilus-ID23_trinity
+2015-12-06 03:42:41,959 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 03:42:41,971 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 04:12:12,899 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 04:12:20,876 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 04:12:20,876 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing cheilotilapia-rhodessi-ID24 ------------
+2015-12-06 04:12:20,877 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 04:12:20,877 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 04:12:20,878 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/cheilotilapia-rhodessi-ID24_trinity
+2015-12-06 04:12:22,341 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 04:12:22,356 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 04:46:01,301 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 04:46:11,908 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 04:46:11,909 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing copadichromis-trimaculatus-ID18 ----------
+2015-12-06 04:46:11,909 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 04:46:11,910 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 04:46:11,910 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/copadichromis-trimaculatus-ID18_trinity
+2015-12-06 04:46:12,277 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 04:46:12,288 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 05:06:25,158 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 05:06:30,321 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 05:06:30,322 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing cyathichromis-obliquidens-ID3 -----------
+2015-12-06 05:06:30,322 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 05:06:30,323 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 05:06:30,323 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/cyathichromis-obliquidens-ID3_trinity
+2015-12-06 05:06:31,670 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 05:06:31,683 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 05:31:19,570 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 05:31:26,432 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 05:31:26,432 - phyluce_assembly_assemblo_trinity - INFO - --------------- Processing cyprichromis-pavo-ID84 ---------------
+2015-12-06 05:31:26,433 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 05:31:26,433 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 05:31:26,434 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/cyprichromis-pavo-ID84_trinity
+2015-12-06 05:31:26,869 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 05:31:26,881 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 05:55:18,825 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 05:55:25,121 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 05:55:25,122 - phyluce_assembly_assemblo_trinity - INFO - --------------- Processing docimodus-evelynae-ID10 --------------
+2015-12-06 05:55:25,122 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 05:55:25,123 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 05:55:25,123 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/docimodus-evelynae-ID10_trinity
+2015-12-06 05:55:26,755 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 05:55:26,769 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 06:23:15,206 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 06:23:22,744 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 06:23:22,745 - phyluce_assembly_assemblo_trinity - INFO - --------------- Processing ectodus-descampsii-ID55 --------------
+2015-12-06 06:23:22,745 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 06:23:22,746 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 06:23:22,746 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/ectodus-descampsii-ID55_trinity
+2015-12-06 06:23:23,250 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 06:23:23,263 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 06:53:05,686 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 06:53:13,618 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 06:53:13,619 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing eretmodus-cyanostictus-ID82 ------------
+2015-12-06 06:53:13,619 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 06:53:13,620 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 06:53:13,620 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/eretmodus-cyanostictus-ID82_trinity
+2015-12-06 06:53:15,418 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 06:53:15,433 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 07:25:36,547 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 07:25:46,232 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 07:25:46,233 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing fossorichromis-rostratus-ID28 -----------
+2015-12-06 07:25:46,233 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 07:25:46,234 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 07:25:46,234 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/fossorichromis-rostratus-ID28_trinity
+2015-12-06 07:25:48,726 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 07:25:48,737 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 07:44:24,018 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 07:44:28,845 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 07:44:28,847 - phyluce_assembly_assemblo_trinity - INFO - --------------- Processing genyochromis-mento-ID7 ---------------
+2015-12-06 07:44:28,847 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 07:44:28,848 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 07:44:28,848 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/genyochromis-mento-ID7_trinity
+2015-12-06 07:44:31,104 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 07:44:31,119 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 08:13:01,400 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 08:13:08,635 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 08:13:08,636 - phyluce_assembly_assemblo_trinity - INFO - ---------- Processing gnathochromis-permaxillaris-ID60 ----------
+2015-12-06 08:13:08,637 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 08:13:08,637 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 08:13:08,638 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/gnathochromis-permaxillaris-ID60_trinity
+2015-12-06 08:13:11,058 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 08:13:11,073 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 08:48:16,850 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 08:48:29,110 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 08:48:29,111 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing haplochromis-thereuterion-ID71 -----------
+2015-12-06 08:48:29,111 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 08:48:29,112 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 08:48:29,112 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/haplochromis-thereuterion-ID71_trinity
+2015-12-06 08:48:31,094 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 08:48:31,105 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 09:07:31,819 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 09:07:36,608 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 09:07:36,608 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing haplotaxodon-microlepis-ID77 ------------
+2015-12-06 09:07:36,609 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 09:07:36,609 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 09:07:36,610 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/haplotaxodon-microlepis-ID77_trinity
+2015-12-06 09:07:37,130 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 09:07:37,142 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 09:34:31,908 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 09:34:39,626 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 09:34:39,627 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing harpagochromis-golden-duck-ID73 ----------
+2015-12-06 09:34:39,627 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 09:34:39,628 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 09:34:39,628 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/harpagochromis-golden-duck-ID73_trinity
+2015-12-06 09:34:41,055 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 09:34:41,068 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 10:04:59,321 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 10:05:08,120 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 10:05:09,179 - phyluce_assembly_assemblo_trinity - INFO - ------- Processing harpagochromis-orange-rock-hunter-ID89 -------
+2015-12-06 10:05:09,179 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 10:05:09,181 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 10:05:09,181 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/harpagochromis-orange-rock-hunter-ID89_trinity
+2015-12-06 10:05:10,477 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 10:05:10,490 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 10:36:18,247 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 10:36:26,621 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 10:36:26,622 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing harpagochromis-serranus-ID87 ------------
+2015-12-06 10:36:26,622 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 10:36:26,622 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 10:36:26,623 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/harpagochromis-serranus-ID87_trinity
+2015-12-06 10:36:27,562 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 10:36:27,571 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 11:04:08,476 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 11:04:15,878 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 11:04:15,879 - phyluce_assembly_assemblo_trinity - INFO - ------ Processing harpagochromis-two-stripe-white-lip-ID88 ------
+2015-12-06 11:04:15,879 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 11:04:15,880 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 11:04:15,880 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/harpagochromis-two-stripe-white-lip-ID88_trinity
+2015-12-06 11:04:16,612 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 11:04:16,625 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 11:33:19,053 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 11:33:26,883 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 11:33:26,883 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing hemitilapia-oxyrhynchus-ID15 ------------
+2015-12-06 11:33:26,884 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 11:33:26,885 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 11:33:26,885 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/hemitilapia-oxyrhynchus-ID15_trinity
+2015-12-06 11:33:28,745 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 11:33:28,760 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 12:04:43,345 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 12:04:51,836 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 12:04:51,836 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing julidochromis-dickfeldi-ID45 ------------
+2015-12-06 12:04:51,836 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 12:04:51,837 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 12:04:51,838 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/julidochromis-dickfeldi-ID45_trinity
+2015-12-06 12:04:52,417 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 12:04:52,432 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 12:43:56,755 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 12:44:08,075 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 12:44:08,076 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing labeotropheus-fullbornei-ID8 ------------
+2015-12-06 12:44:08,076 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 12:44:08,078 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 12:44:08,078 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/labeotropheus-fullbornei-ID8_trinity
+2015-12-06 12:44:10,326 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 12:44:10,342 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 13:17:06,042 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 13:17:16,192 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 13:17:16,193 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing labeotropheus-trewavase-ID6 ------------
+2015-12-06 13:17:16,193 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 13:17:16,194 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 13:17:16,194 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/labeotropheus-trewavase-ID6_trinity
+2015-12-06 13:17:16,966 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 13:17:16,979 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 13:44:54,477 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 13:45:01,866 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 13:45:01,866 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing labidochromis-gigas-ID30 --------------
+2015-12-06 13:45:01,866 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 13:45:01,867 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 13:45:01,867 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/labidochromis-gigas-ID30_trinity
+2015-12-06 13:45:03,034 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 13:45:03,047 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 14:07:33,007 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 14:07:38,740 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 14:07:38,741 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing lamprologus-callipterus-ID56 ------------
+2015-12-06 14:07:38,741 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 14:07:38,742 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 14:07:38,743 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lamprologus-callipterus-ID56_trinity
+2015-12-06 14:07:39,574 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 14:07:39,587 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 14:43:08,870 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 14:43:19,453 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 14:43:19,454 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing lamprologus-signatus-ID70 -------------
+2015-12-06 14:43:19,455 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 14:43:19,455 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 14:43:19,456 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lamprologus-signatus-ID70_trinity
+2015-12-06 14:43:21,168 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 14:43:21,185 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 15:13:32,223 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 15:13:40,832 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 15:13:40,833 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing lamprologus-speciosus-ID65 -------------
+2015-12-06 15:13:40,834 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 15:13:40,834 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 15:13:40,835 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lamprologus-speciosus-ID65_trinity
+2015-12-06 15:13:41,658 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 15:13:41,671 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 15:36:21,000 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 15:36:29,060 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 15:36:29,061 - phyluce_assembly_assemblo_trinity - INFO - --------- Processing lepidiolamprologus-attenuatus-ID47 ---------
+2015-12-06 15:36:29,061 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 15:36:29,062 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 15:36:29,062 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lepidiolamprologus-attenuatus-ID47_trinity
+2015-12-06 15:36:32,078 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 15:36:32,093 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 16:15:45,546 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 16:16:01,140 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 16:16:01,141 - phyluce_assembly_assemblo_trinity - INFO - --------- Processing lepidiolamprologus-boulengeri-ID36 ---------
+2015-12-06 16:16:01,141 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 16:16:01,142 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 16:16:01,142 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lepidiolamprologus-boulengeri-ID36_trinity
+2015-12-06 16:16:05,467 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 16:16:05,483 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 16:48:47,265 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 16:48:57,640 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 16:48:57,641 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing lepidiolamprologus-hecqui-ID58 -----------
+2015-12-06 16:48:57,641 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 16:48:57,642 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 16:48:57,642 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lepidiolamprologus-hecqui-ID58_trinity
+2015-12-06 16:48:57,904 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 16:48:57,915 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 17:09:52,617 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 17:09:58,990 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 17:09:58,991 - phyluce_assembly_assemblo_trinity - INFO - ---------- Processing lepidiolamprologus-leimairii-ID69 ---------
+2015-12-06 17:09:58,991 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 17:09:58,992 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 17:09:58,992 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lepidiolamprologus-leimairii-ID69_trinity
+2015-12-06 17:10:00,180 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 17:10:00,193 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 17:35:48,648 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 17:35:56,943 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 17:35:56,944 - phyluce_assembly_assemblo_trinity - INFO - -------- Processing lepidiolamprologus-meeli-kipili-ID40 --------
+2015-12-06 17:35:56,944 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 17:35:56,945 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 17:35:56,946 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lepidiolamprologus-meeli-kipili-ID40_trinity
+2015-12-06 17:35:57,662 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 17:35:57,672 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 17:49:40,994 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 17:49:45,233 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 17:49:45,234 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing lepidiolamprologus-nkambae-ID41 ----------
+2015-12-06 17:49:45,234 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 17:49:45,235 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 17:49:45,235 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lepidiolamprologus-nkambae-ID41_trinity
+2015-12-06 17:49:45,749 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 17:49:45,761 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 18:23:53,555 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 18:24:06,742 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 18:24:06,743 - phyluce_assembly_assemblo_trinity - INFO - -------- Processing lepidiolamprologus-profundicola-ID76 --------
+2015-12-06 18:24:06,743 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 18:24:06,744 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 18:24:06,744 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lepidiolamprologus-profundicola-ID76_trinity
+2015-12-06 18:24:07,102 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 18:24:07,111 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 18:54:32,869 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 18:54:43,147 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 18:54:43,147 - phyluce_assembly_assemblo_trinity - INFO - ---------- Processing lepidolamprologus-elongatus-ID34 ----------
+2015-12-06 18:54:43,148 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 18:54:43,148 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 18:54:43,149 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lepidolamprologus-elongatus-ID34_trinity
+2015-12-06 18:54:43,777 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 18:54:43,794 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 19:31:26,158 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 19:31:38,635 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 19:31:38,635 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing limnochromis-auritus-ID38 -------------
+2015-12-06 19:31:38,636 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 19:31:38,636 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 19:31:38,636 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/limnochromis-auritus-ID38_trinity
+2015-12-06 19:31:40,284 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 19:31:40,296 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 20:02:28,587 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 20:02:39,936 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 20:02:39,937 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing lipochromis-parvidens-ID74 -------------
+2015-12-06 20:02:39,937 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 20:02:39,938 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 20:02:39,938 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/lipochromis-parvidens-ID74_trinity
+2015-12-06 20:02:40,790 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 20:02:40,801 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 20:27:15,407 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 20:27:22,571 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 20:27:22,572 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing melanochromis-auratus-ID4 -------------
+2015-12-06 20:27:22,572 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 20:27:22,573 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 20:27:22,573 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/melanochromis-auratus-ID4_trinity
+2015-12-06 20:27:24,292 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 20:27:24,308 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 20:59:03,968 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 20:59:12,488 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 20:59:12,489 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing melanochromis-kaskazini-ID33 ------------
+2015-12-06 20:59:12,489 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 20:59:12,490 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 20:59:12,490 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/melanochromis-kaskazini-ID33_trinity
+2015-12-06 20:59:13,902 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 20:59:13,917 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 21:29:55,907 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 21:30:03,721 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 21:30:03,721 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing metriaclima-greshakae-ID11 -------------
+2015-12-06 21:30:03,722 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 21:30:03,722 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 21:30:03,723 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/metriaclima-greshakae-ID11_trinity
+2015-12-06 21:30:04,706 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 21:30:04,716 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 22:01:14,351 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 22:01:22,401 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 22:01:22,402 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing metriaclima-patricki-ID22 -------------
+2015-12-06 22:01:22,402 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 22:01:22,403 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 22:01:22,403 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/metriaclima-patricki-ID22_trinity
+2015-12-06 22:01:22,963 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 22:01:22,975 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 22:32:19,140 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 22:32:27,376 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 22:32:27,376 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing neolamprologus-bifasciatus-ID80 ----------
+2015-12-06 22:32:27,377 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 22:32:27,378 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 22:32:27,378 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-bifasciatus-ID80_trinity
+2015-12-06 22:32:28,360 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 22:32:28,371 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 22:49:32,960 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 22:49:36,995 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 22:49:36,996 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing neolamprologus-brichardi-ID50 -----------
+2015-12-06 22:49:36,996 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 22:49:36,997 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 22:49:36,998 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-brichardi-ID50_trinity
+2015-12-06 22:49:37,551 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 22:49:37,563 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 23:15:33,346 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 23:15:39,825 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 23:15:39,825 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing neolamprologus-cylindricus-ID68 ----------
+2015-12-06 23:15:39,826 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 23:15:39,826 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 23:15:39,827 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-cylindricus-ID68_trinity
+2015-12-06 23:15:40,824 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 23:15:40,835 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 23:33:12,359 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 23:33:16,369 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 23:33:16,370 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing neolamprologus-fasciatus-ID86 -----------
+2015-12-06 23:33:16,370 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 23:33:16,371 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 23:33:16,371 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-fasciatus-ID86_trinity
+2015-12-06 23:33:17,043 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 23:33:17,054 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-06 23:59:47,413 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-06 23:59:54,442 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-06 23:59:54,442 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing neolamprologus-furcifer-ID66 ------------
+2015-12-06 23:59:54,443 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-06 23:59:54,443 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-06 23:59:54,444 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-furcifer-ID66_trinity
+2015-12-06 23:59:56,368 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-06 23:59:56,380 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 00:19:55,631 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 00:20:00,682 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 00:20:00,683 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing neolamprologus-helianthus-ID83 -----------
+2015-12-07 00:20:00,683 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 00:20:00,684 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 00:20:00,684 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-helianthus-ID83_trinity
+2015-12-07 00:20:01,792 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 00:20:01,804 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 00:55:05,859 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 00:55:16,975 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 00:55:16,976 - phyluce_assembly_assemblo_trinity - INFO - ---------- Processing neolamprologus-longicaudata-ID54 ----------
+2015-12-07 00:55:16,976 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 00:55:16,977 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 00:55:16,977 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-longicaudata-ID54_trinity
+2015-12-07 00:55:18,723 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 00:55:18,734 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 01:16:47,248 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 01:16:53,095 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 01:16:53,095 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing neolamprologus-longior-ID35 ------------
+2015-12-07 01:16:53,096 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 01:16:53,096 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 01:16:53,097 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-longior-ID35_trinity
+2015-12-07 01:16:56,013 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 01:16:56,024 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 01:36:34,413 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 01:36:41,780 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 01:36:41,780 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing neolamprologus-modestus-ID61 ------------
+2015-12-07 01:36:41,781 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 01:36:41,781 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 01:36:41,782 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-modestus-ID61_trinity
+2015-12-07 01:36:43,355 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 01:36:43,367 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 01:54:40,279 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 01:54:44,749 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 01:54:44,750 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing neolamprologus-niger-ID59 -------------
+2015-12-07 01:54:44,750 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 01:54:44,751 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 01:54:44,751 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-niger-ID59_trinity
+2015-12-07 01:54:46,002 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 01:54:46,014 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 02:24:34,559 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 02:24:42,609 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 02:24:42,610 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing neolamprologus-nigriventer-ID67 ----------
+2015-12-07 02:24:42,611 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 02:24:42,611 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 02:24:42,612 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-nigriventer-ID67_trinity
+2015-12-07 02:24:43,539 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 02:24:43,551 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 02:43:47,120 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 02:43:52,523 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 02:43:52,524 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing neolamprologus-obscurus-ID53 ------------
+2015-12-07 02:43:52,524 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 02:43:52,525 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 02:43:52,525 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-obscurus-ID53_trinity
+2015-12-07 02:43:52,897 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 02:43:52,910 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 02:58:34,775 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 02:58:38,367 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 02:58:38,367 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing neolamprologus-olivaceous-ID85 -----------
+2015-12-07 02:58:38,368 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 02:58:38,368 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 02:58:38,369 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-olivaceous-ID85_trinity
+2015-12-07 02:58:38,549 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 02:58:38,560 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 03:21:14,464 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 03:21:19,886 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 03:21:19,887 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing neolamprologus-prochilus-ID51 -----------
+2015-12-07 03:21:19,888 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 03:21:19,888 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 03:21:19,889 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-prochilus-ID51_trinity
+2015-12-07 03:21:20,121 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 03:21:20,134 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 03:51:13,552 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 03:51:20,443 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 03:51:20,443 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing neolamprologus-pulcher-ID42 ------------
+2015-12-07 03:51:20,444 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 03:51:20,444 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 03:51:20,445 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-pulcher-ID42_trinity
+2015-12-07 03:51:20,664 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 03:51:20,676 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 04:16:04,052 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 04:16:10,170 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 04:16:10,171 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing neolamprologus-savoryi-ID39 ------------
+2015-12-07 04:16:10,172 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 04:16:10,172 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 04:16:10,173 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-savoryi-ID39_trinity
+2015-12-07 04:16:10,403 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 04:16:10,414 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 04:44:19,196 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 04:44:26,515 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 04:44:26,516 - phyluce_assembly_assemblo_trinity - INFO - ---------- Processing neolamprologus-sexfasciatus-ID63 ----------
+2015-12-07 04:44:26,516 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 04:44:26,517 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 04:44:26,517 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-sexfasciatus-ID63_trinity
+2015-12-07 04:44:26,700 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 04:44:26,711 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 05:06:40,766 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 05:06:46,170 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 05:06:46,170 - phyluce_assembly_assemblo_trinity - INFO - ---------- Processing neolamprologus-tetracanthus-ID46 ----------
+2015-12-07 05:06:46,171 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 05:06:46,171 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 05:06:46,172 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-tetracanthus-ID46_trinity
+2015-12-07 05:06:46,526 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 05:06:46,538 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 05:30:29,093 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 05:30:35,029 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 05:30:35,030 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing neolamprologus-walteri-ID52 ------------
+2015-12-07 05:30:35,030 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 05:30:35,031 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 05:30:35,031 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/neolamprologus-walteri-ID52_trinity
+2015-12-07 05:30:35,219 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 05:30:35,230 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 05:53:52,477 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 05:53:58,314 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 05:53:58,315 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing nimbochromis-polystigma-ID2 ------------
+2015-12-07 05:53:58,315 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 05:53:58,316 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 05:53:58,316 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/nimbochromis-polystigma-ID2_trinity
+2015-12-07 05:53:58,550 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 05:53:58,563 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 06:23:59,758 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 06:24:08,493 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 06:24:08,493 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing ophthalmotilapia-boops-ID44 ------------
+2015-12-07 06:24:08,494 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 06:24:08,494 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 06:24:08,495 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/ophthalmotilapia-boops-ID44_trinity
+2015-12-07 06:24:09,031 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 06:24:09,045 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 06:59:24,492 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 06:59:35,371 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 06:59:35,372 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing ophthalmotilapia-nasuta-ID37 ------------
+2015-12-07 06:59:35,372 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 06:59:35,373 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 06:59:35,373 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/ophthalmotilapia-nasuta-ID37_trinity
+2015-12-07 06:59:35,593 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 06:59:35,604 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 07:28:58,427 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 07:29:06,390 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 07:29:06,390 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing otopharynx-heterodon-ID13 -------------
+2015-12-07 07:29:06,391 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 07:29:06,391 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 07:29:06,391 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/otopharynx-heterodon-ID13_trinity
+2015-12-07 07:29:06,831 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 07:29:06,843 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 07:57:23,302 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 07:57:30,359 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 07:57:30,359 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing otopharynx-lithobates-ID16 -------------
+2015-12-07 07:57:30,360 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 07:57:30,360 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 07:57:30,361 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/otopharynx-lithobates-ID16_trinity
+2015-12-07 07:57:31,377 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 07:57:31,389 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 08:22:02,604 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 08:22:08,876 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 08:22:08,877 - phyluce_assembly_assemblo_trinity - INFO - ---------------- Processing otopharynx-picta-ID14 ---------------
+2015-12-07 08:22:08,877 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 08:22:08,878 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 08:22:08,878 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/otopharynx-picta-ID14_trinity
+2015-12-07 08:22:10,231 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 08:22:10,243 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 08:46:34,214 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 08:46:40,347 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 08:46:40,348 - phyluce_assembly_assemblo_trinity - INFO - --------------- Processing petrotilapia-nigra-ID9 ---------------
+2015-12-07 08:46:40,348 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 08:46:40,349 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 08:46:40,349 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/petrotilapia-nigra-ID9_trinity
+2015-12-07 08:46:41,939 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 08:46:41,955 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 09:16:58,877 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 09:17:08,313 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 09:17:08,313 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing placidochromis-electra-ID21 ------------
+2015-12-07 09:17:08,313 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 09:17:08,314 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 09:17:08,314 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/placidochromis-electra-ID21_trinity
+2015-12-07 09:17:09,981 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 09:17:09,996 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 09:46:10,546 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 09:46:18,912 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 09:46:18,913 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing placidochromis-milomo-ID17 -------------
+2015-12-07 09:46:18,913 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 09:46:18,914 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 09:46:18,914 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/placidochromis-milomo-ID17_trinity
+2015-12-07 09:46:23,485 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 09:46:23,498 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 10:10:34,676 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 10:10:40,926 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 10:10:40,926 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing prognathochromis-perrieri-ID49 -----------
+2015-12-07 10:10:40,927 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 10:10:40,927 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 10:10:40,928 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/prognathochromis-perrieri-ID49_trinity
+2015-12-07 10:10:41,995 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 10:10:42,008 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 10:43:17,265 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 10:43:28,860 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 10:43:28,861 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing psedotropheus-crabro-ID27 -------------
+2015-12-07 10:43:28,861 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 10:43:28,862 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 10:43:28,862 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/psedotropheus-crabro-ID27_trinity
+2015-12-07 10:43:32,749 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 10:43:32,761 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 11:07:19,724 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 11:07:25,888 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 11:07:25,889 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing pseudotropheus-flavus-ID19 -------------
+2015-12-07 11:07:25,889 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 11:07:25,890 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 11:07:25,890 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/pseudotropheus-flavus-ID19_trinity
+2015-12-07 11:07:27,441 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 11:07:27,454 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 11:36:07,358 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 11:36:15,146 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 11:36:15,147 - phyluce_assembly_assemblo_trinity - INFO - ----------------- Processing ptyochromis-cf-ID72 ----------------
+2015-12-07 11:36:15,148 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 11:36:15,148 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 11:36:15,149 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/ptyochromis-cf-ID72_trinity
+2015-12-07 11:36:16,169 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 11:36:16,179 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 11:58:32,662 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 11:58:38,543 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 11:58:38,544 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing pundamila-pundamila-ID75 --------------
+2015-12-07 11:58:38,544 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 11:58:38,545 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 11:58:38,545 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/pundamila-pundamila-ID75_trinity
+2015-12-07 11:58:40,806 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 11:58:40,819 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 12:27:54,912 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 12:28:02,740 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 12:28:02,741 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing pyxichromis-orthostoma-ID62 ------------
+2015-12-07 12:28:02,741 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 12:28:02,742 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 12:28:02,743 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/pyxichromis-orthostoma-ID62_trinity
+2015-12-07 12:28:03,855 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 12:28:03,867 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 12:50:59,280 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 12:51:07,214 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 12:51:07,214 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing rhamphochromis-longiceps-ID81 -----------
+2015-12-07 12:51:07,215 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 12:51:07,215 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 12:51:07,216 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/rhamphochromis-longiceps-ID81_trinity
+2015-12-07 12:51:08,931 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 12:51:08,947 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 13:21:46,337 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 13:21:54,110 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 13:21:54,111 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing simochromis-babaulti-ID48 -------------
+2015-12-07 13:21:54,111 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 13:21:54,112 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 13:21:54,112 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/simochromis-babaulti-ID48_trinity
+2015-12-07 13:21:55,326 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 13:21:55,337 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 13:46:42,194 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 13:46:49,141 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 13:46:49,142 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing stigmatochromis-woodei-ID20 ------------
+2015-12-07 13:46:49,142 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 13:46:49,142 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 13:46:49,143 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/stigmatochromis-woodei-ID20_trinity
+2015-12-07 13:46:50,703 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 13:46:50,717 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 14:19:49,842 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 14:19:57,564 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 14:19:57,564 - phyluce_assembly_assemblo_trinity - INFO - --------- Processing taeniolethrinops-preorbitalis-ID29 ---------
+2015-12-07 14:19:57,565 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 14:19:57,565 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 14:19:57,566 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/taeniolethrinops-preorbitalis-ID29_trinity
+2015-12-07 14:19:58,557 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 14:19:58,570 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 14:40:11,481 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 14:40:15,880 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 14:40:15,880 - phyluce_assembly_assemblo_trinity - INFO - ------------- Processing telmatochromis-dhonti-ID43 -------------
+2015-12-07 14:40:15,881 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 14:40:15,881 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 14:40:15,882 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/telmatochromis-dhonti-ID43_trinity
+2015-12-07 14:40:17,358 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 14:40:17,369 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 15:04:15,781 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 15:04:21,944 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 15:04:21,945 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing telmatochromis-temporalis-ID64 -----------
+2015-12-07 15:04:21,945 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 15:04:21,946 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 15:04:21,946 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/telmatochromis-temporalis-ID64_trinity
+2015-12-07 15:04:23,091 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 15:04:23,104 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 15:29:04,839 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 15:29:10,653 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 15:29:10,653 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing trematochromis-benthicola-ID78 -----------
+2015-12-07 15:29:10,654 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 15:29:10,654 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 15:29:10,655 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/trematochromis-benthicola-ID78_trinity
+2015-12-07 15:29:12,176 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 15:29:12,189 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 15:57:26,938 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 15:57:35,664 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 15:57:35,665 - phyluce_assembly_assemblo_trinity - INFO - -------------- Processing tropheops-microstoma-ID1 --------------
+2015-12-07 15:57:35,665 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 15:57:35,666 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 15:57:35,666 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/tropheops-microstoma-ID1_trinity
+2015-12-07 15:57:37,068 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 15:57:37,083 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 16:27:17,551 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 16:27:25,805 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 16:27:25,806 - phyluce_assembly_assemblo_trinity - INFO - ----------- Processing tyrannochromis-nigriventer-ID5 -----------
+2015-12-07 16:27:25,806 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 16:27:25,807 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 16:27:25,807 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/tyrannochromis-nigriventer-ID5_trinity
+2015-12-07 16:27:27,546 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 16:27:27,559 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 17:00:50,873 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 17:01:00,389 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 17:01:00,390 - phyluce_assembly_assemblo_trinity - INFO - ------------ Processing variabilichromis-moorii-ID31 ------------
+2015-12-07 17:01:00,390 - phyluce_assembly_assemblo_trinity - INFO - Finding fastq/fasta files
+2015-12-07 17:01:00,391 - phyluce_assembly_assemblo_trinity - INFO - File type is fastq
+2015-12-07 17:01:00,391 - phyluce_assembly_assemblo_trinity - INFO - Copying raw read data to /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/variabilichromis-moorii-ID31_trinity
+2015-12-07 17:01:02,020 - phyluce_assembly_assemblo_trinity - INFO - Combining singleton reads with R1 data
+2015-12-07 17:01:02,036 - phyluce_assembly_assemblo_trinity - INFO - Running Trinity.pl for PE data
+2015-12-07 17:33:18,424 - phyluce_assembly_assemblo_trinity - INFO - Removing extraneous Trinity files
+2015-12-07 17:33:30,060 - phyluce_assembly_assemblo_trinity - INFO - Symlinking assembled contigs into /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 17:33:30,061 - phyluce_assembly_assemblo_trinity - INFO - ========== Completed phyluce_assembly_assemblo_trinity ==========

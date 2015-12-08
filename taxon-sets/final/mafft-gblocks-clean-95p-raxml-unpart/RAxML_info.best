@@ -1,0 +1,54 @@
+
+
+This is RAxML version 8.0.19 released by Alexandros Stamatakis on March 28 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 30905 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 2.33%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 20 inferences on the original alignment using 20 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 30905
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-SSE3 -m GTRGAMMA -N 20 -p 18262063 -n best -s mafft-gblocks-95p.phylip -T 12 -o oreNil1 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.280 0.219 0.221 0.280 
+
+Inference[0]: Time 93.051599 GAMMA-based likelihood -973932.623052, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.931881 3.204905 0.783255 0.972832 3.300182 1.000000 
+Inference[1]: Time 101.261394 GAMMA-based likelihood -973932.668889, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.931532 3.203739 0.782966 0.972472 3.298979 1.000000 
+Inference[2]: Time 104.939058 GAMMA-based likelihood -973957.088825, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.927728 3.200073 0.779889 0.973117 3.292318 1.000000 
