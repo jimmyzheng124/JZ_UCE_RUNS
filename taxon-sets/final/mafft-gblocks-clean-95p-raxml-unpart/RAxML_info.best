@@ -46,9 +46,78 @@ raxmlHPC-PTHREADS-SSE3 -m GTRGAMMA -N 20 -p 18262063 -n best -s mafft-gblocks-95
 Partition: 0 with name: No Name Provided
 Base frequencies: 0.280 0.219 0.221 0.280 
 
-Inference[0]: Time 93.051599 GAMMA-based likelihood -973932.623052, best rearrangement setting 5
+Inference[0]: Time 80.353376 GAMMA-based likelihood -973932.623052, best rearrangement setting 5
 alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.931881 3.204905 0.783255 0.972832 3.300182 1.000000 
-Inference[1]: Time 101.261394 GAMMA-based likelihood -973932.668889, best rearrangement setting 5
+Inference[1]: Time 88.401691 GAMMA-based likelihood -973932.668889, best rearrangement setting 5
 alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.931532 3.203739 0.782966 0.972472 3.298979 1.000000 
-Inference[2]: Time 104.939058 GAMMA-based likelihood -973957.088825, best rearrangement setting 5
+Inference[2]: Time 91.191087 GAMMA-based likelihood -973957.088825, best rearrangement setting 5
 alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.927728 3.200073 0.779889 0.973117 3.292318 1.000000 
+Inference[3]: Time 81.870754 GAMMA-based likelihood -973974.214392, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.928006 3.204843 0.780394 0.973267 3.297627 1.000000 
+Inference[4]: Time 92.418785 GAMMA-based likelihood -973954.459835, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.930764 3.202884 0.780521 0.973733 3.298864 1.000000 
+Inference[5]: Time 94.487335 GAMMA-based likelihood -973955.367428, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.926576 3.199188 0.778930 0.974200 3.295223 1.000000 
+Inference[6]: Time 128.201983 GAMMA-based likelihood -973946.391675, best rearrangement setting 10
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.929932 3.202437 0.780825 0.970780 3.288836 1.000000 
+Inference[7]: Time 95.979552 GAMMA-based likelihood -973957.066774, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.927892 3.200630 0.780026 0.973289 3.292888 1.000000 
+Inference[8]: Time 90.033366 GAMMA-based likelihood -973974.517811, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.926208 3.199887 0.781499 0.967131 3.290357 1.000000 
+Inference[9]: Time 99.974269 GAMMA-based likelihood -973955.256783, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.927408 3.201990 0.779623 0.975066 3.298110 1.000000 
+Inference[10]: Time 90.057096 GAMMA-based likelihood -973974.518235, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.926205 3.199876 0.781496 0.967128 3.290346 1.000000 
+Inference[11]: Time 84.301863 GAMMA-based likelihood -973969.365674, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.930324 3.199369 0.781733 0.973997 3.293915 1.000000 
+Inference[12]: Time 93.842429 GAMMA-based likelihood -973932.614804, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.931943 3.205116 0.783308 0.972897 3.300399 1.000000 
+Inference[13]: Time 99.199217 GAMMA-based likelihood -973974.488200, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.926434 3.200646 0.781687 0.967365 3.291139 1.000000 
+Inference[14]: Time 98.205263 GAMMA-based likelihood -974006.671326, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.926579 3.195914 0.779524 0.963292 3.287632 1.000000 
+Inference[15]: Time 100.792856 GAMMA-based likelihood -973966.237830, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.931776 3.208180 0.782112 0.974029 3.305281 1.000000 
+Inference[16]: Time 111.025562 GAMMA-based likelihood -973957.065370, best rearrangement setting 10
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.927904 3.200663 0.780034 0.973299 3.292927 1.000000 
+Inference[17]: Time 91.668665 GAMMA-based likelihood -973932.675808, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.931480 3.203563 0.782922 0.972418 3.298798 1.000000 
+Inference[18]: Time 91.405721 GAMMA-based likelihood -973946.499194, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.929108 3.199671 0.780141 0.969930 3.285994 1.000000 
+Inference[19]: Time 101.622111 GAMMA-based likelihood -973946.512201, best rearrangement setting 5
+alpha[0]: 0.020000 rates[0] ac ag at cg ct gt: 0.929010 3.199340 0.780059 0.969827 3.285654 1.000000 
+
+
+Conducting final model optimizations on all 20 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -973929.541170 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.0
+Inference[1] final GAMMA-based Likelihood: -973929.541017 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.1
+Inference[2] final GAMMA-based Likelihood: -973953.866109 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.2
+Inference[3] final GAMMA-based Likelihood: -973971.129488 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.3
+Inference[4] final GAMMA-based Likelihood: -973951.296312 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.4
+Inference[5] final GAMMA-based Likelihood: -973952.166776 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.5
+Inference[6] final GAMMA-based Likelihood: -973943.319287 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.6
+Inference[7] final GAMMA-based Likelihood: -973953.866109 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.7
+Inference[8] final GAMMA-based Likelihood: -973971.374759 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.8
+Inference[9] final GAMMA-based Likelihood: -973952.166921 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.9
+Inference[10] final GAMMA-based Likelihood: -973971.374759 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.10
+Inference[11] final GAMMA-based Likelihood: -973966.250461 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.11
+Inference[12] final GAMMA-based Likelihood: -973929.541017 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.12
+Inference[13] final GAMMA-based Likelihood: -973971.374759 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.13
+Inference[14] final GAMMA-based Likelihood: -974003.466007 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.14
+Inference[15] final GAMMA-based Likelihood: -973963.214505 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.15
+Inference[16] final GAMMA-based Likelihood: -973953.866110 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.16
+Inference[17] final GAMMA-based Likelihood: -973929.541178 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.17
+Inference[18] final GAMMA-based Likelihood: -973943.319321 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.18
+Inference[19] final GAMMA-based Likelihood: -973943.319114 tree written to file /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_result.best.RUN.19
+
+
+Starting final GAMMA-based thorough Optimization on tree 12 likelihood -973929.541017 .... 
+
+Final GAMMA-based Score of best tree -973929.541017
+
+Program execution info written to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_info.best
+Best-scoring ML tree written to: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml-unpart/RAxML_bestTree.best
+
+Overall execution time: 1952.370531 secs or 0.542325 hours or 0.022597 days
+
