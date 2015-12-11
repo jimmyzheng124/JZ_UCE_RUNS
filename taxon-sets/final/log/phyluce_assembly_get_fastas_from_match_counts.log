@@ -1,0 +1,340 @@
+2015-12-07 19:52:36,282 - phyluce_assembly_get_fastas_from_match_counts - INFO - ===== Starting phyluce_assembly_get_fastas_from_match_counts ====
+2015-12-07 19:52:36,282 - phyluce_assembly_get_fastas_from_match_counts - INFO - Version: 1.5.0
+2015-12-07 19:52:36,282 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --contigs: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 19:52:36,283 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --extend_locus_contigs: None
+2015-12-07 19:52:36,283 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --extend_locus_db: None
+2015-12-07 19:52:36,283 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --incomplete_matrix: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:52:36,283 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-07 19:52:36,283 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-07 19:52:36,283 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --match_count_output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.conf
+2015-12-07 19:52:36,283 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.fasta
+2015-12-07 19:52:36,284 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --verbosity: INFO
+2015-12-07 19:52:36,297 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 38 taxa in the match-count-config file named all-taxa-incomplete.conf
+2015-12-07 19:52:36,301 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1102 UCE loci in an INCOMPLETE matrix
+2015-12-07 19:52:36,301 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for aristochromis_christiae_ID25--------
+2015-12-07 19:52:37,667 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1044 UCE loci for aristochromis_christiae_ID25
+2015-12-07 19:52:37,668 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for aristochromis_christiae_ID25
+2015-12-07 19:53:26,470 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:53:26,471 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for aulonocara_stuartgranti_ID26--------
+2015-12-07 19:53:27,766 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1044 UCE loci for aulonocara_stuartgranti_ID26
+2015-12-07 19:53:27,766 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for aulonocara_stuartgranti_ID26
+2015-12-07 19:53:59,994 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:53:59,994 - phyluce_assembly_get_fastas_from_match_counts - INFO - ------------Getting UCE loci for bathybates_minor_ID90-----------
+2015-12-07 19:54:01,385 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1045 UCE loci for bathybates_minor_ID90
+2015-12-07 19:54:01,386 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for bathybates_minor_ID90
+2015-12-07 19:54:34,361 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:54:34,362 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------Getting UCE loci for capidochromis_eucinostomus_ID12------
+2015-12-07 19:54:35,689 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1027 UCE loci for capidochromis_eucinostomus_ID12
+2015-12-07 19:54:35,689 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for capidochromis_eucinostomus_ID12
+2015-12-07 19:55:27,798 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:55:27,799 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for cheilotilapia_euchilus_ID23--------
+2015-12-07 19:55:29,193 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1042 UCE loci for cheilotilapia_euchilus_ID23
+2015-12-07 19:55:29,193 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for cheilotilapia_euchilus_ID23
+2015-12-07 19:56:09,492 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:56:09,493 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for cheilotilapia_rhodessi_ID24--------
+2015-12-07 19:56:10,873 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for cheilotilapia_rhodessi_ID24
+2015-12-07 19:56:10,873 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for cheilotilapia_rhodessi_ID24
+2015-12-07 19:56:53,976 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:56:53,977 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------Getting UCE loci for copadichromis_trimaculatus_ID18------
+2015-12-07 19:56:55,378 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1053 UCE loci for copadichromis_trimaculatus_ID18
+2015-12-07 19:56:55,378 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for copadichromis_trimaculatus_ID18
+2015-12-07 19:57:20,641 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:57:20,642 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for cyathichromis_obliquidens_ID3-------
+2015-12-07 19:57:21,993 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1041 UCE loci for cyathichromis_obliquidens_ID3
+2015-12-07 19:57:21,993 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for cyathichromis_obliquidens_ID3
+2015-12-07 19:57:51,697 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:57:51,697 - phyluce_assembly_get_fastas_from_match_counts - INFO - -----------Getting UCE loci for docimodus_evelynae_ID10----------
+2015-12-07 19:57:53,029 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1030 UCE loci for docimodus_evelynae_ID10
+2015-12-07 19:57:53,029 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for docimodus_evelynae_ID10
+2015-12-07 19:58:28,596 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:58:28,597 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for fossorichromis_rostratus_ID28-------
+2015-12-07 19:58:29,955 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for fossorichromis_rostratus_ID28
+2015-12-07 19:58:29,955 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for fossorichromis_rostratus_ID28
+2015-12-07 19:58:52,507 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:58:52,507 - phyluce_assembly_get_fastas_from_match_counts - INFO - -----------Getting UCE loci for genyochromis_mento_ID7-----------
+2015-12-07 19:58:53,871 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1027 UCE loci for genyochromis_mento_ID7
+2015-12-07 19:58:53,871 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for genyochromis_mento_ID7
+2015-12-07 19:59:30,036 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:59:30,036 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------------------Getting UCE loci for hapBur1------------------
+2015-12-07 19:59:31,380 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1011 UCE loci for hapBur1
+2015-12-07 19:59:31,380 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for hapBur1
+2015-12-07 19:59:33,593 - phyluce_assembly_get_fastas_from_match_counts - INFO - Replaced <20 ambiguous bases (N) in 74 contigs for hapBur1
+2015-12-07 19:59:33,593 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 19:59:33,594 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for hemitilapia_oxyrhynchus_ID15--------
+2015-12-07 19:59:34,939 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1039 UCE loci for hemitilapia_oxyrhynchus_ID15
+2015-12-07 19:59:34,939 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for hemitilapia_oxyrhynchus_ID15
+2015-12-07 20:00:16,058 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:00:16,058 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for labeotropheus_fullbornei_ID8--------
+2015-12-07 20:00:17,405 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1037 UCE loci for labeotropheus_fullbornei_ID8
+2015-12-07 20:00:17,405 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for labeotropheus_fullbornei_ID8
+2015-12-07 20:00:59,397 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:00:59,398 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for labeotropheus_trewavase_ID6--------
+2015-12-07 20:01:00,681 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1034 UCE loci for labeotropheus_trewavase_ID6
+2015-12-07 20:01:00,682 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for labeotropheus_trewavase_ID6
+2015-12-07 20:01:34,208 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:01:34,208 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for labidochromis_gigas_ID30----------
+2015-12-07 20:01:35,513 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1050 UCE loci for labidochromis_gigas_ID30
+2015-12-07 20:01:35,513 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for labidochromis_gigas_ID30
+2015-12-07 20:02:02,422 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:02:02,423 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for melanochromis_auratus_ID4---------
+2015-12-07 20:02:03,708 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1037 UCE loci for melanochromis_auratus_ID4
+2015-12-07 20:02:03,708 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for melanochromis_auratus_ID4
+2015-12-07 20:02:44,736 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:02:44,736 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for melanochromis_kaskazini_ID33--------
+2015-12-07 20:02:46,021 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1044 UCE loci for melanochromis_kaskazini_ID33
+2015-12-07 20:02:46,021 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for melanochromis_kaskazini_ID33
+2015-12-07 20:03:22,984 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:03:22,985 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for metriaclima_greshakae_ID11---------
+2015-12-07 20:03:24,317 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for metriaclima_greshakae_ID11
+2015-12-07 20:03:24,317 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for metriaclima_greshakae_ID11
+2015-12-07 20:04:00,968 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:04:00,968 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for metriaclima_patricki_ID22---------
+2015-12-07 20:04:02,250 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for metriaclima_patricki_ID22
+2015-12-07 20:04:02,250 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for metriaclima_patricki_ID22
+2015-12-07 20:04:40,763 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:04:40,764 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------------------Getting UCE loci for neoBri1------------------
+2015-12-07 20:04:42,013 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1012 UCE loci for neoBri1
+2015-12-07 20:04:42,014 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for neoBri1
+2015-12-07 20:04:44,714 - phyluce_assembly_get_fastas_from_match_counts - INFO - Replaced <20 ambiguous bases (N) in 68 contigs for neoBri1
+2015-12-07 20:04:44,714 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:04:44,715 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for nimbochromis_polystigma_ID2--------
+2015-12-07 20:04:45,995 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1041 UCE loci for nimbochromis_polystigma_ID2
+2015-12-07 20:04:45,995 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for nimbochromis_polystigma_ID2
+2015-12-07 20:05:22,348 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:05:22,349 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------------------Getting UCE loci for oreNil1------------------
+2015-12-07 20:05:23,651 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1014 UCE loci for oreNil1
+2015-12-07 20:05:23,651 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for oreNil1
+2015-12-07 20:05:25,830 - phyluce_assembly_get_fastas_from_match_counts - INFO - Replaced <20 ambiguous bases (N) in 41 contigs for oreNil1
+2015-12-07 20:05:25,830 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:05:25,830 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for otopharynx_heterodon_ID13---------
+2015-12-07 20:05:27,124 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1031 UCE loci for otopharynx_heterodon_ID13
+2015-12-07 20:05:27,124 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for otopharynx_heterodon_ID13
+2015-12-07 20:05:59,961 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:05:59,961 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for otopharynx_lithobates_ID16---------
+2015-12-07 20:06:01,266 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1047 UCE loci for otopharynx_lithobates_ID16
+2015-12-07 20:06:01,266 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for otopharynx_lithobates_ID16
+2015-12-07 20:06:30,296 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:06:30,297 - phyluce_assembly_get_fastas_from_match_counts - INFO - ------------Getting UCE loci for otopharynx_picta_ID14-----------
+2015-12-07 20:06:31,596 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1055 UCE loci for otopharynx_picta_ID14
+2015-12-07 20:06:31,597 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for otopharynx_picta_ID14
+2015-12-07 20:06:34,806 - phyluce_assembly_get_fastas_from_match_counts - INFO - ===== Starting phyluce_assembly_get_fastas_from_match_counts ====
+2015-12-07 20:06:34,806 - phyluce_assembly_get_fastas_from_match_counts - INFO - Version: 1.5.0
+2015-12-07 20:06:34,806 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --contigs: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-07 20:06:34,806 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --extend_locus_contigs: None
+2015-12-07 20:06:34,807 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --extend_locus_db: None
+2015-12-07 20:06:34,807 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --incomplete_matrix: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:06:34,807 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-07 20:06:34,807 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-07 20:06:34,807 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --match_count_output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.conf
+2015-12-07 20:06:34,807 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.fasta
+2015-12-07 20:06:34,807 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --verbosity: INFO
+2015-12-07 20:06:34,819 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 38 taxa in the match-count-config file named all-taxa-incomplete.conf
+2015-12-07 20:06:34,822 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1102 UCE loci in an INCOMPLETE matrix
+2015-12-07 20:06:34,828 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for aristochromis_christiae_ID25--------
+2015-12-07 20:06:36,131 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1044 UCE loci for aristochromis_christiae_ID25
+2015-12-07 20:06:36,131 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for aristochromis_christiae_ID25
+2015-12-07 20:07:00,608 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:07:00,609 - phyluce_assembly_get_fastas_from_match_counts - INFO - -----------Getting UCE loci for petrotilapia_nigra_ID9-----------
+2015-12-07 20:07:01,906 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1031 UCE loci for petrotilapia_nigra_ID9
+2015-12-07 20:07:01,907 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for petrotilapia_nigra_ID9
+2015-12-07 20:07:24,050 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:07:24,051 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for aulonocara_stuartgranti_ID26--------
+2015-12-07 20:07:25,433 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1044 UCE loci for aulonocara_stuartgranti_ID26
+2015-12-07 20:07:25,433 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for aulonocara_stuartgranti_ID26
+2015-12-07 20:07:40,437 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:07:40,438 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for placidochromis_electra_ID21--------
+2015-12-07 20:07:41,816 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1037 UCE loci for placidochromis_electra_ID21
+2015-12-07 20:07:41,816 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for placidochromis_electra_ID21
+2015-12-07 20:07:58,159 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:07:58,160 - phyluce_assembly_get_fastas_from_match_counts - INFO - ------------Getting UCE loci for bathybates_minor_ID90-----------
+2015-12-07 20:07:59,540 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1045 UCE loci for bathybates_minor_ID90
+2015-12-07 20:07:59,541 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for bathybates_minor_ID90
+2015-12-07 20:08:19,490 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:08:19,491 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for placidochromis_milomo_ID17---------
+2015-12-07 20:08:20,787 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1050 UCE loci for placidochromis_milomo_ID17
+2015-12-07 20:08:20,788 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for placidochromis_milomo_ID17
+2015-12-07 20:08:31,936 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:08:31,937 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------Getting UCE loci for capidochromis_eucinostomus_ID12------
+2015-12-07 20:08:33,291 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1027 UCE loci for capidochromis_eucinostomus_ID12
+2015-12-07 20:08:33,292 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for capidochromis_eucinostomus_ID12
+2015-12-07 20:08:50,749 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:08:50,749 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for psedotropheus_crabro_ID27---------
+2015-12-07 20:08:52,135 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1046 UCE loci for psedotropheus_crabro_ID27
+2015-12-07 20:08:52,135 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for psedotropheus_crabro_ID27
+2015-12-07 20:09:21,531 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:09:21,532 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for pseudotropheus_flavus_ID19---------
+2015-12-07 20:09:22,872 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for pseudotropheus_flavus_ID19
+2015-12-07 20:09:22,872 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for pseudotropheus_flavus_ID19
+2015-12-07 20:09:24,840 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:09:24,841 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for cheilotilapia_euchilus_ID23--------
+2015-12-07 20:09:26,181 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1042 UCE loci for cheilotilapia_euchilus_ID23
+2015-12-07 20:09:26,181 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for cheilotilapia_euchilus_ID23
+2015-12-07 20:09:57,844 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:09:57,845 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------------------Getting UCE loci for punNye1------------------
+2015-12-07 20:09:59,142 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1008 UCE loci for punNye1
+2015-12-07 20:09:59,142 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for punNye1
+2015-12-07 20:10:01,316 - phyluce_assembly_get_fastas_from_match_counts - INFO - Replaced <20 ambiguous bases (N) in 71 contigs for punNye1
+2015-12-07 20:10:01,317 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:10:01,317 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for rhamphochromis_longiceps_ID81-------
+2015-12-07 20:10:02,273 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:10:02,274 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for cheilotilapia_rhodessi_ID24--------
+2015-12-07 20:10:02,678 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1046 UCE loci for rhamphochromis_longiceps_ID81
+2015-12-07 20:10:02,678 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for rhamphochromis_longiceps_ID81
+2015-12-07 20:10:03,609 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for cheilotilapia_rhodessi_ID24
+2015-12-07 20:10:03,609 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for cheilotilapia_rhodessi_ID24
+2015-12-07 20:10:41,568 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:10:41,569 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for simochromis_babaulti_ID48---------
+2015-12-07 20:10:42,913 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1044 UCE loci for simochromis_babaulti_ID48
+2015-12-07 20:10:42,913 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for simochromis_babaulti_ID48
+2015-12-07 20:10:45,362 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:10:45,362 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------Getting UCE loci for copadichromis_trimaculatus_ID18------
+2015-12-07 20:10:46,759 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1053 UCE loci for copadichromis_trimaculatus_ID18
+2015-12-07 20:10:46,759 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for copadichromis_trimaculatus_ID18
+2015-12-07 20:11:12,499 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:11:12,500 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for cyathichromis_obliquidens_ID3-------
+2015-12-07 20:11:13,861 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1041 UCE loci for cyathichromis_obliquidens_ID3
+2015-12-07 20:11:13,861 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for cyathichromis_obliquidens_ID3
+2015-12-07 20:11:13,981 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:11:13,982 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for stigmatochromis_woodei_ID20--------
+2015-12-07 20:11:15,363 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1045 UCE loci for stigmatochromis_woodei_ID20
+2015-12-07 20:11:15,363 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for stigmatochromis_woodei_ID20
+2015-12-07 20:11:43,970 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:11:43,971 - phyluce_assembly_get_fastas_from_match_counts - INFO - -----------Getting UCE loci for docimodus_evelynae_ID10----------
+2015-12-07 20:11:45,309 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1030 UCE loci for docimodus_evelynae_ID10
+2015-12-07 20:11:45,309 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for docimodus_evelynae_ID10
+2015-12-07 20:11:51,352 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:11:51,353 - phyluce_assembly_get_fastas_from_match_counts - INFO - -----Getting UCE loci for taeniolethrinops_preorbitalis_ID29-----
+2015-12-07 20:11:52,689 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for taeniolethrinops_preorbitalis_ID29
+2015-12-07 20:11:52,689 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for taeniolethrinops_preorbitalis_ID29
+2015-12-07 20:12:15,498 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:12:15,498 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for tropheops_microstoma_ID1----------
+2015-12-07 20:12:16,865 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1031 UCE loci for tropheops_microstoma_ID1
+2015-12-07 20:12:16,865 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for tropheops_microstoma_ID1
+2015-12-07 20:12:20,601 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:12:20,601 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for fossorichromis_rostratus_ID28-------
+2015-12-07 20:12:21,969 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for fossorichromis_rostratus_ID28
+2015-12-07 20:12:21,970 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for fossorichromis_rostratus_ID28
+2015-12-07 20:12:44,572 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:12:44,573 - phyluce_assembly_get_fastas_from_match_counts - INFO - -----------Getting UCE loci for genyochromis_mento_ID7-----------
+2015-12-07 20:12:45,927 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1027 UCE loci for genyochromis_mento_ID7
+2015-12-07 20:12:45,928 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for genyochromis_mento_ID7
+2015-12-07 20:12:54,534 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:12:54,535 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------Getting UCE loci for tyrannochromis_nigriventer_ID5-------
+2015-12-07 20:12:55,898 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1039 UCE loci for tyrannochromis_nigriventer_ID5
+2015-12-07 20:12:55,898 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for tyrannochromis_nigriventer_ID5
+2015-12-07 20:13:21,092 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:13:21,093 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------------------Getting UCE loci for hapBur1------------------
+2015-12-07 20:13:22,330 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1011 UCE loci for hapBur1
+2015-12-07 20:13:22,330 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for hapBur1
+2015-12-07 20:13:24,408 - phyluce_assembly_get_fastas_from_match_counts - INFO - Replaced <20 ambiguous bases (N) in 74 contigs for hapBur1
+2015-12-07 20:13:24,408 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:13:24,408 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for hemitilapia_oxyrhynchus_ID15--------
+2015-12-07 20:13:25,678 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1039 UCE loci for hemitilapia_oxyrhynchus_ID15
+2015-12-07 20:13:25,678 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for hemitilapia_oxyrhynchus_ID15
+2015-12-07 20:13:37,223 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:13:37,223 - phyluce_assembly_get_fastas_from_match_counts - INFO - ==== Completed phyluce_assembly_get_fastas_from_match_counts ====
+2015-12-07 20:14:04,316 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:14:04,316 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for labeotropheus_fullbornei_ID8--------
+2015-12-07 20:14:05,703 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1037 UCE loci for labeotropheus_fullbornei_ID8
+2015-12-07 20:14:05,703 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for labeotropheus_fullbornei_ID8
+2015-12-07 20:14:46,872 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:14:46,872 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for labeotropheus_trewavase_ID6--------
+2015-12-07 20:14:48,141 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1034 UCE loci for labeotropheus_trewavase_ID6
+2015-12-07 20:14:48,142 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for labeotropheus_trewavase_ID6
+2015-12-07 20:15:25,060 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:15:25,061 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for labidochromis_gigas_ID30----------
+2015-12-07 20:15:26,350 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1050 UCE loci for labidochromis_gigas_ID30
+2015-12-07 20:15:26,350 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for labidochromis_gigas_ID30
+2015-12-07 20:15:56,125 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:15:56,125 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for melanochromis_auratus_ID4---------
+2015-12-07 20:15:57,398 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1037 UCE loci for melanochromis_auratus_ID4
+2015-12-07 20:15:57,398 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for melanochromis_auratus_ID4
+2015-12-07 20:16:37,203 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:16:37,203 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for melanochromis_kaskazini_ID33--------
+2015-12-07 20:16:38,491 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1044 UCE loci for melanochromis_kaskazini_ID33
+2015-12-07 20:16:38,491 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for melanochromis_kaskazini_ID33
+2015-12-07 20:17:16,026 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:17:16,026 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for metriaclima_greshakae_ID11---------
+2015-12-07 20:17:17,301 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for metriaclima_greshakae_ID11
+2015-12-07 20:17:17,301 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for metriaclima_greshakae_ID11
+2015-12-07 20:17:54,827 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:17:54,828 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for metriaclima_patricki_ID22---------
+2015-12-07 20:17:56,109 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for metriaclima_patricki_ID22
+2015-12-07 20:17:56,109 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for metriaclima_patricki_ID22
+2015-12-07 20:18:32,553 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:18:32,554 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------------------Getting UCE loci for neoBri1------------------
+2015-12-07 20:18:33,811 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1012 UCE loci for neoBri1
+2015-12-07 20:18:33,812 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for neoBri1
+2015-12-07 20:18:35,903 - phyluce_assembly_get_fastas_from_match_counts - INFO - Replaced <20 ambiguous bases (N) in 68 contigs for neoBri1
+2015-12-07 20:18:35,903 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:18:35,904 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for nimbochromis_polystigma_ID2--------
+2015-12-07 20:18:37,190 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1041 UCE loci for nimbochromis_polystigma_ID2
+2015-12-07 20:18:37,191 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for nimbochromis_polystigma_ID2
+2015-12-07 20:19:14,679 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:19:14,680 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------------------Getting UCE loci for oreNil1------------------
+2015-12-07 20:19:15,935 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1014 UCE loci for oreNil1
+2015-12-07 20:19:15,936 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for oreNil1
+2015-12-07 20:19:18,025 - phyluce_assembly_get_fastas_from_match_counts - INFO - Replaced <20 ambiguous bases (N) in 41 contigs for oreNil1
+2015-12-07 20:19:18,025 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:19:18,026 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for otopharynx_heterodon_ID13---------
+2015-12-07 20:19:19,300 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1031 UCE loci for otopharynx_heterodon_ID13
+2015-12-07 20:19:19,300 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for otopharynx_heterodon_ID13
+2015-12-07 20:19:51,622 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:19:51,622 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for otopharynx_lithobates_ID16---------
+2015-12-07 20:19:52,909 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1047 UCE loci for otopharynx_lithobates_ID16
+2015-12-07 20:19:52,909 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for otopharynx_lithobates_ID16
+2015-12-07 20:20:22,758 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:20:22,759 - phyluce_assembly_get_fastas_from_match_counts - INFO - ------------Getting UCE loci for otopharynx_picta_ID14-----------
+2015-12-07 20:20:24,160 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1055 UCE loci for otopharynx_picta_ID14
+2015-12-07 20:20:24,160 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for otopharynx_picta_ID14
+2015-12-07 20:20:55,076 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:20:55,077 - phyluce_assembly_get_fastas_from_match_counts - INFO - -----------Getting UCE loci for petrotilapia_nigra_ID9-----------
+2015-12-07 20:20:56,444 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1031 UCE loci for petrotilapia_nigra_ID9
+2015-12-07 20:20:56,444 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for petrotilapia_nigra_ID9
+2015-12-07 20:21:35,333 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:21:35,333 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for placidochromis_electra_ID21--------
+2015-12-07 20:21:36,690 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1037 UCE loci for placidochromis_electra_ID21
+2015-12-07 20:21:36,691 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for placidochromis_electra_ID21
+2015-12-07 20:22:13,914 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:22:13,915 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for placidochromis_milomo_ID17---------
+2015-12-07 20:22:15,249 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1050 UCE loci for placidochromis_milomo_ID17
+2015-12-07 20:22:15,250 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for placidochromis_milomo_ID17
+2015-12-07 20:22:44,346 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:22:44,346 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for psedotropheus_crabro_ID27---------
+2015-12-07 20:22:45,729 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1046 UCE loci for psedotropheus_crabro_ID27
+2015-12-07 20:22:45,729 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for psedotropheus_crabro_ID27
+2015-12-07 20:23:15,069 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:23:15,070 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for pseudotropheus_flavus_ID19---------
+2015-12-07 20:23:16,445 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for pseudotropheus_flavus_ID19
+2015-12-07 20:23:16,445 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for pseudotropheus_flavus_ID19
+2015-12-07 20:23:52,135 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:23:52,136 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------------------Getting UCE loci for punNye1------------------
+2015-12-07 20:23:53,462 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1008 UCE loci for punNye1
+2015-12-07 20:23:53,462 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for punNye1
+2015-12-07 20:23:55,669 - phyluce_assembly_get_fastas_from_match_counts - INFO - Replaced <20 ambiguous bases (N) in 71 contigs for punNye1
+2015-12-07 20:23:55,669 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:23:55,670 - phyluce_assembly_get_fastas_from_match_counts - INFO - --------Getting UCE loci for rhamphochromis_longiceps_ID81-------
+2015-12-07 20:23:57,049 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1046 UCE loci for rhamphochromis_longiceps_ID81
+2015-12-07 20:23:57,049 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for rhamphochromis_longiceps_ID81
+2015-12-07 20:24:36,704 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:24:36,705 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for simochromis_babaulti_ID48---------
+2015-12-07 20:24:38,083 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1044 UCE loci for simochromis_babaulti_ID48
+2015-12-07 20:24:38,083 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for simochromis_babaulti_ID48
+2015-12-07 20:25:08,132 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:25:08,132 - phyluce_assembly_get_fastas_from_match_counts - INFO - ---------Getting UCE loci for stigmatochromis_woodei_ID20--------
+2015-12-07 20:25:09,459 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1045 UCE loci for stigmatochromis_woodei_ID20
+2015-12-07 20:25:09,460 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for stigmatochromis_woodei_ID20
+2015-12-07 20:25:45,065 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:25:45,066 - phyluce_assembly_get_fastas_from_match_counts - INFO - -----Getting UCE loci for taeniolethrinops_preorbitalis_ID29-----
+2015-12-07 20:25:46,434 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1040 UCE loci for taeniolethrinops_preorbitalis_ID29
+2015-12-07 20:25:46,434 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for taeniolethrinops_preorbitalis_ID29
+2015-12-07 20:26:09,138 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:26:09,139 - phyluce_assembly_get_fastas_from_match_counts - INFO - ----------Getting UCE loci for tropheops_microstoma_ID1----------
+2015-12-07 20:26:10,502 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1031 UCE loci for tropheops_microstoma_ID1
+2015-12-07 20:26:10,502 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for tropheops_microstoma_ID1
+2015-12-07 20:26:47,844 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:26:47,844 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------Getting UCE loci for tyrannochromis_nigriventer_ID5-------
+2015-12-07 20:26:49,171 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1039 UCE loci for tyrannochromis_nigriventer_ID5
+2015-12-07 20:26:49,171 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for tyrannochromis_nigriventer_ID5
+2015-12-07 20:27:29,971 - phyluce_assembly_get_fastas_from_match_counts - INFO - Writing missing locus information to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.incomplete
+2015-12-07 20:27:29,972 - phyluce_assembly_get_fastas_from_match_counts - INFO - ==== Completed phyluce_assembly_get_fastas_from_match_counts ====

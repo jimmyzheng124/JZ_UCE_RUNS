@@ -1,0 +1,40 @@
+2015-12-09 01:30:51,482 - phyluce_assembly_get_match_counts - INFO - =========== Starting phyluce_assembly_get_match_counts ==========
+2015-12-09 01:30:51,483 - phyluce_assembly_get_match_counts - INFO - Version: 1.5.0
+2015-12-09 01:30:51,483 - phyluce_assembly_get_match_counts - INFO - Argument --extend_locus_db: None
+2015-12-09 01:30:51,483 - phyluce_assembly_get_match_counts - INFO - Argument --incomplete_matrix: False
+2015-12-09 01:30:51,483 - phyluce_assembly_get_match_counts - INFO - Argument --keep_counts: False
+2015-12-09 01:30:51,484 - phyluce_assembly_get_match_counts - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-09 01:30:51,484 - phyluce_assembly_get_match_counts - INFO - Argument --log_path: None
+2015-12-09 01:30:51,484 - phyluce_assembly_get_match_counts - INFO - Argument --optimize: False
+2015-12-09 01:30:51,484 - phyluce_assembly_get_match_counts - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/one/tyrannochromis-nigriventer.conf
+2015-12-09 01:30:51,485 - phyluce_assembly_get_match_counts - INFO - Argument --random: False
+2015-12-09 01:30:51,485 - phyluce_assembly_get_match_counts - INFO - Argument --sample_size: 10
+2015-12-09 01:30:51,485 - phyluce_assembly_get_match_counts - INFO - Argument --samples: 10
+2015-12-09 01:30:51,485 - phyluce_assembly_get_match_counts - INFO - Argument --silent: False
+2015-12-09 01:30:51,486 - phyluce_assembly_get_match_counts - INFO - Argument --taxon_group: one
+2015-12-09 01:30:51,486 - phyluce_assembly_get_match_counts - INFO - Argument --taxon_list_config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/one/taxon-set.conf
+2015-12-09 01:30:51,486 - phyluce_assembly_get_match_counts - INFO - Argument --verbosity: INFO
+2015-12-09 01:31:05,314 - phyluce_assembly_get_match_counts - INFO - =========== Starting phyluce_assembly_get_match_counts ==========
+2015-12-09 01:31:05,315 - phyluce_assembly_get_match_counts - INFO - Version: 1.5.0
+2015-12-09 01:31:05,315 - phyluce_assembly_get_match_counts - INFO - Argument --extend_locus_db: None
+2015-12-09 01:31:05,315 - phyluce_assembly_get_match_counts - INFO - Argument --incomplete_matrix: False
+2015-12-09 01:31:05,316 - phyluce_assembly_get_match_counts - INFO - Argument --keep_counts: False
+2015-12-09 01:31:05,316 - phyluce_assembly_get_match_counts - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-09 01:31:05,316 - phyluce_assembly_get_match_counts - INFO - Argument --log_path: None
+2015-12-09 01:31:05,316 - phyluce_assembly_get_match_counts - INFO - Argument --optimize: False
+2015-12-09 01:31:05,317 - phyluce_assembly_get_match_counts - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/one/tyrannochromis-nigriventer.conf
+2015-12-09 01:31:05,317 - phyluce_assembly_get_match_counts - INFO - Argument --random: False
+2015-12-09 01:31:05,317 - phyluce_assembly_get_match_counts - INFO - Argument --sample_size: 10
+2015-12-09 01:31:05,317 - phyluce_assembly_get_match_counts - INFO - Argument --samples: 10
+2015-12-09 01:31:05,317 - phyluce_assembly_get_match_counts - INFO - Argument --silent: False
+2015-12-09 01:31:05,318 - phyluce_assembly_get_match_counts - INFO - Argument --taxon_group: one
+2015-12-09 01:31:05,318 - phyluce_assembly_get_match_counts - INFO - Argument --taxon_list_config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-set.conf
+2015-12-09 01:31:05,318 - phyluce_assembly_get_match_counts - INFO - Argument --verbosity: INFO
+2015-12-09 01:31:05,322 - phyluce_assembly_get_match_counts - INFO - There are 1 taxa in the taxon-group '[one]' in the config file taxon-set.conf
+2015-12-09 01:31:05,322 - phyluce_assembly_get_match_counts - INFO - Getting UCE names from database
+2015-12-09 01:31:05,328 - phyluce_assembly_get_match_counts - INFO - There are 1314 total UCE loci in the database
+2015-12-09 01:31:05,355 - phyluce_assembly_get_match_counts - INFO - Getting UCE matches by organism to generate a COMPLETE matrix
+2015-12-09 01:31:05,355 - phyluce_assembly_get_match_counts - INFO - There are 1039 shared UCE loci in a COMPLETE matrix
+2015-12-09 01:31:05,356 - phyluce_assembly_get_match_counts - INFO - 	Failed to detect 275 UCE loci in tyrannochromis_nigriventer_ID5
+2015-12-09 01:31:05,356 - phyluce_assembly_get_match_counts - INFO - Writing the taxa and loci in the data matrix to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/one/tyrannochromis-nigriventer.conf
+2015-12-09 01:31:05,357 - phyluce_assembly_get_match_counts - INFO - ========== Completed phyluce_assembly_get_match_counts ==========

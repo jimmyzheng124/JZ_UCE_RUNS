@@ -1,0 +1,82 @@
+2015-12-07 20:33:56,411 - phyluce_align_seqcap_align - INFO - ============== Starting phyluce_align_seqcap_align ==============
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Version: 1.5.0
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Argument --aligner: mafft
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Argument --ambiguous: False
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Argument --cores: 12
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Argument --fasta: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.fasta
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Argument --max_divergence: 0.2
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Argument --min_length: 100
+2015-12-07 20:33:56,412 - phyluce_align_seqcap_align - INFO - Argument --no_trim: False
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Argument --notstrict: True
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-trimmed
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Argument --output_format: nexus
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Argument --proportion: 0.65
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Argument --taxa: 38
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Argument --threshold: 0.65
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Argument --verbosity: INFO
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Argument --window: 20
+2015-12-07 20:33:56,413 - phyluce_align_seqcap_align - INFO - Building the locus dictionary
+2015-12-07 20:33:56,414 - phyluce_align_seqcap_align - INFO - Removing ALL sequences with ambiguous bases...
+2015-12-07 20:34:03,775 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-70. Too few taxa (N < 3).
+2015-12-07 20:34:03,778 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-683. Too few taxa (N < 3).
+2015-12-07 20:34:03,778 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-477. Too few taxa (N < 3).
+2015-12-07 20:34:03,780 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-240. Too few taxa (N < 3).
+2015-12-07 20:34:03,781 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-322. Too few taxa (N < 3).
+2015-12-07 20:34:03,781 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-397. Too few taxa (N < 3).
+2015-12-07 20:34:03,781 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-863. Too few taxa (N < 3).
+2015-12-07 20:34:03,781 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-211. Too few taxa (N < 3).
+2015-12-07 20:34:03,781 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-912. Too few taxa (N < 3).
+2015-12-07 20:34:03,781 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-998. Too few taxa (N < 3).
+2015-12-07 20:34:03,781 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-17. Too few taxa (N < 3).
+2015-12-07 20:34:03,782 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-1315. Too few taxa (N < 3).
+2015-12-07 20:34:03,782 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-62. Too few taxa (N < 3).
+2015-12-07 20:34:03,782 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-544. Too few taxa (N < 3).
+2015-12-07 20:34:03,782 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-203. Too few taxa (N < 3).
+2015-12-07 20:34:03,782 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-381. Too few taxa (N < 3).
+2015-12-07 20:34:03,872 - phyluce_align_seqcap_align - INFO - Aligning with MAFFT
+2015-12-07 20:34:03,876 - phyluce_align_seqcap_align - INFO - Alignment begins. 'X' indicates dropped alignments (these are reported after alignment)
+2015-12-07 20:38:34,582 - phyluce_align_seqcap_align - INFO - Alignment ends
+2015-12-07 20:38:34,585 - phyluce_align_seqcap_align - INFO - Writing output files
+2015-12-07 20:38:36,175 - phyluce_align_seqcap_align - INFO - ============== Completed phyluce_align_seqcap_align =============
+2015-12-07 20:41:12,577 - phyluce_align_seqcap_align - INFO - ============== Starting phyluce_align_seqcap_align ==============
+2015-12-07 20:41:12,578 - phyluce_align_seqcap_align - INFO - Version: 1.5.0
+2015-12-07 20:41:12,578 - phyluce_align_seqcap_align - INFO - Argument --aligner: mafft
+2015-12-07 20:41:12,578 - phyluce_align_seqcap_align - INFO - Argument --ambiguous: False
+2015-12-07 20:41:12,578 - phyluce_align_seqcap_align - INFO - Argument --cores: 12
+2015-12-07 20:41:12,578 - phyluce_align_seqcap_align - INFO - Argument --fasta: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.fasta
+2015-12-07 20:41:12,579 - phyluce_align_seqcap_align - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-07 20:41:12,579 - phyluce_align_seqcap_align - INFO - Argument --max_divergence: 0.2
+2015-12-07 20:41:12,579 - phyluce_align_seqcap_align - INFO - Argument --min_length: 100
+2015-12-07 20:41:12,579 - phyluce_align_seqcap_align - INFO - Argument --no_trim: True
+2015-12-07 20:41:12,579 - phyluce_align_seqcap_align - INFO - Argument --notstrict: True
+2015-12-07 20:41:12,579 - phyluce_align_seqcap_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-untrimmed
+2015-12-07 20:41:12,579 - phyluce_align_seqcap_align - INFO - Argument --output_format: fasta
+2015-12-07 20:41:12,580 - phyluce_align_seqcap_align - INFO - Argument --proportion: 0.65
+2015-12-07 20:41:12,580 - phyluce_align_seqcap_align - INFO - Argument --taxa: 38
+2015-12-07 20:41:12,580 - phyluce_align_seqcap_align - INFO - Argument --threshold: 0.65
+2015-12-07 20:41:12,580 - phyluce_align_seqcap_align - INFO - Argument --verbosity: INFO
+2015-12-07 20:41:12,580 - phyluce_align_seqcap_align - INFO - Argument --window: 20
+2015-12-07 20:41:12,580 - phyluce_align_seqcap_align - INFO - Building the locus dictionary
+2015-12-07 20:41:12,580 - phyluce_align_seqcap_align - INFO - Removing ALL sequences with ambiguous bases...
+2015-12-07 20:41:20,529 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-70. Too few taxa (N < 3).
+2015-12-07 20:41:20,532 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-683. Too few taxa (N < 3).
+2015-12-07 20:41:20,534 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-477. Too few taxa (N < 3).
+2015-12-07 20:41:20,535 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-240. Too few taxa (N < 3).
+2015-12-07 20:41:20,535 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-322. Too few taxa (N < 3).
+2015-12-07 20:41:20,535 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-397. Too few taxa (N < 3).
+2015-12-07 20:41:20,536 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-863. Too few taxa (N < 3).
+2015-12-07 20:41:20,536 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-211. Too few taxa (N < 3).
+2015-12-07 20:41:20,536 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-912. Too few taxa (N < 3).
+2015-12-07 20:41:20,536 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-998. Too few taxa (N < 3).
+2015-12-07 20:41:20,536 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-17. Too few taxa (N < 3).
+2015-12-07 20:41:20,536 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-1315. Too few taxa (N < 3).
+2015-12-07 20:41:20,537 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-62. Too few taxa (N < 3).
+2015-12-07 20:41:20,537 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-544. Too few taxa (N < 3).
+2015-12-07 20:41:20,537 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-203. Too few taxa (N < 3).
+2015-12-07 20:41:20,537 - phyluce_align_seqcap_align - WARNING - DROPPED locus uce-381. Too few taxa (N < 3).
+2015-12-07 20:41:20,631 - phyluce_align_seqcap_align - INFO - Aligning with MAFFT
+2015-12-07 20:41:20,635 - phyluce_align_seqcap_align - INFO - Alignment begins. 'X' indicates dropped alignments (these are reported after alignment)
+2015-12-07 20:45:11,685 - phyluce_align_seqcap_align - INFO - Alignment ends
+2015-12-07 20:45:11,688 - phyluce_align_seqcap_align - INFO - Writing output files
+2015-12-07 20:45:13,612 - phyluce_align_seqcap_align - INFO - ============== Completed phyluce_align_seqcap_align =============

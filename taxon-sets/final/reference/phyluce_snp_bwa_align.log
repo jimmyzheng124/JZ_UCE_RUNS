@@ -1,0 +1,1386 @@
+2015-12-09 02:04:01,364 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 02:04:01,365 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-09 02:04:01,365 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-09 02:04:01,365 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-09 02:04:01,365 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-09 02:04:01,366 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-09 02:04:01,366 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-09 02:04:01,366 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference
+2015-12-09 02:04:01,366 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-09 02:04:01,366 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-09 02:04:01,367 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 02:04:01,367 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-09 02:22:36,118 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 02:22:36,118 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-09 02:22:36,118 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-09 02:22:36,119 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-09 02:22:36,119 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-09 02:22:36,119 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-09 02:22:36,119 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-09 02:22:36,120 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference
+2015-12-09 02:22:36,120 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-09 02:22:36,120 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-09 02:22:36,120 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 02:22:36,121 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-09 02:22:36,121 - phyluce_snp_bwa_align - INFO - You are running BWA-MEM
+2015-12-09 02:22:36,122 - phyluce_snp_bwa_align - INFO - ----------- Processing tyrannochromis-nigriventer-ID5 -----------
+2015-12-09 02:22:36,122 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 02:22:36,126 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 02:22:36,130 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:24:00,039 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:25:38,264 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 02:25:38,264 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-09 02:25:38,264 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-09 02:25:38,265 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-09 02:25:38,265 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-09 02:25:38,265 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-09 02:25:38,265 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-09 02:25:38,265 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference
+2015-12-09 02:25:38,266 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-09 02:25:38,266 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-09 02:25:38,266 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 02:25:38,267 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-09 02:25:38,267 - phyluce_snp_bwa_align - INFO - You are running BWA-MEM
+2015-12-09 02:25:38,267 - phyluce_snp_bwa_align - INFO - ----------- Processing tyrannochromis-nigriventer-ID5 -----------
+2015-12-09 02:26:05,872 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 02:26:05,872 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-09 02:26:05,873 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-09 02:26:05,873 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-09 02:26:05,873 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-09 02:26:05,873 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-09 02:26:05,873 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-09 02:26:05,874 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference
+2015-12-09 02:26:05,874 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-09 02:26:05,874 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-09 02:26:05,874 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 02:26:05,875 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-09 02:26:05,875 - phyluce_snp_bwa_align - INFO - You are running BWA-MEM
+2015-12-09 02:26:05,876 - phyluce_snp_bwa_align - INFO - ----------- Processing tyrannochromis-nigriventer-ID5 -----------
+2015-12-09 02:26:05,876 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 02:26:05,880 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 02:26:05,884 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:27:29,639 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:28:12,576 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:29:19,572 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:30:17,519 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:30:19,775 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:30:21,540 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:30:24,156 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 02:30:28,612 - phyluce_snp_bwa_align - INFO - Merging BAMs for tyrannochromis-nigriventer-ID5
+2015-12-09 02:31:24,156 - phyluce_snp_bwa_align - INFO - ================ Completed phyluce_snp_bwa_align ================
+2015-12-09 03:25:04,448 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 03:25:04,449 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-09 03:25:04,449 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-09 03:25:04,449 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-09 03:25:04,450 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-09 03:25:04,450 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-09 03:25:04,450 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-09 03:25:04,450 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference
+2015-12-09 03:25:04,450 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-09 03:25:04,451 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-09 03:25:04,451 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 03:25:04,453 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-09 03:26:41,556 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 03:26:41,556 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-09 03:26:41,556 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-09 03:26:41,557 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-09 03:26:41,557 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-09 03:26:41,557 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-09 03:26:41,557 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-09 03:26:41,557 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference
+2015-12-09 03:26:41,558 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-09 03:26:41,558 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-09 03:26:41,558 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 03:26:41,560 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-09 03:26:41,561 - phyluce_snp_bwa_align - INFO - You are running BWA-MEM
+2015-12-09 03:26:41,561 - phyluce_snp_bwa_align - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-09 03:26:41,562 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 03:26:41,566 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 03:26:41,570 - phyluce_snp_bwa_align - INFO - Building BAM for aristochromis-christiae-ID25
+2015-12-09 03:28:11,614 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aristochromis-christiae-ID25
+2015-12-09 03:28:58,011 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aristochromis-christiae-ID25
+2015-12-09 03:30:09,143 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aristochromis-christiae-ID25
+2015-12-09 03:31:11,332 - phyluce_snp_bwa_align - INFO - Building BAM for aristochromis-christiae-ID25
+2015-12-09 03:31:13,718 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aristochromis-christiae-ID25
+2015-12-09 03:31:15,582 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aristochromis-christiae-ID25
+2015-12-09 03:31:18,224 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aristochromis-christiae-ID25
+2015-12-09 03:31:22,598 - phyluce_snp_bwa_align - INFO - Merging BAMs for aristochromis-christiae-ID25
+2015-12-09 03:32:21,713 - phyluce_snp_bwa_align - INFO - ------------ Processing aulonocara-stuartgranti-ID26 ------------
+2015-12-09 03:32:21,714 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 03:32:21,715 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 03:32:21,718 - phyluce_snp_bwa_align - INFO - Building BAM for aulonocara-stuartgranti-ID26
+2015-12-09 03:33:30,054 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aulonocara-stuartgranti-ID26
+2015-12-09 03:34:04,731 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aulonocara-stuartgranti-ID26
+2015-12-09 03:34:58,669 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aulonocara-stuartgranti-ID26
+2015-12-09 03:35:45,188 - phyluce_snp_bwa_align - INFO - Building BAM for aulonocara-stuartgranti-ID26
+2015-12-09 03:35:47,220 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aulonocara-stuartgranti-ID26
+2015-12-09 03:35:48,899 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aulonocara-stuartgranti-ID26
+2015-12-09 03:35:51,500 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aulonocara-stuartgranti-ID26
+2015-12-09 03:35:55,637 - phyluce_snp_bwa_align - INFO - Merging BAMs for aulonocara-stuartgranti-ID26
+2015-12-09 03:36:40,956 - phyluce_snp_bwa_align - INFO - ---------------- Processing bathybates-minor-ID90 ---------------
+2015-12-09 03:36:40,956 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 03:36:40,957 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 03:36:40,960 - phyluce_snp_bwa_align - INFO - Building BAM for bathybates-minor-ID90
+2015-12-09 03:37:52,335 - phyluce_snp_bwa_align - INFO - Cleaning BAM for bathybates-minor-ID90
+2015-12-09 03:38:29,217 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for bathybates-minor-ID90
+2015-12-09 03:39:26,974 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for bathybates-minor-ID90
+2015-12-09 03:40:16,406 - phyluce_snp_bwa_align - INFO - Building BAM for bathybates-minor-ID90
+2015-12-09 03:40:18,531 - phyluce_snp_bwa_align - INFO - Cleaning BAM for bathybates-minor-ID90
+2015-12-09 03:40:20,267 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for bathybates-minor-ID90
+2015-12-09 03:40:22,626 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for bathybates-minor-ID90
+2015-12-09 03:40:26,987 - phyluce_snp_bwa_align - INFO - Merging BAMs for bathybates-minor-ID90
+2015-12-09 03:41:14,455 - phyluce_snp_bwa_align - INFO - ----------- Processing capidochromis-eucinostomus-ID12 ----------
+2015-12-09 03:41:14,456 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 03:41:14,457 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 03:41:14,459 - phyluce_snp_bwa_align - INFO - Building BAM for capidochromis-eucinostomus-ID12
+2015-12-09 03:42:51,658 - phyluce_snp_bwa_align - INFO - Cleaning BAM for capidochromis-eucinostomus-ID12
+2015-12-09 03:43:41,632 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for capidochromis-eucinostomus-ID12
+2015-12-09 03:44:58,000 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for capidochromis-eucinostomus-ID12
+2015-12-09 03:46:05,401 - phyluce_snp_bwa_align - INFO - Building BAM for capidochromis-eucinostomus-ID12
+2015-12-09 03:46:08,144 - phyluce_snp_bwa_align - INFO - Cleaning BAM for capidochromis-eucinostomus-ID12
+2015-12-09 03:46:10,352 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for capidochromis-eucinostomus-ID12
+2015-12-09 03:46:13,338 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for capidochromis-eucinostomus-ID12
+2015-12-09 03:46:17,948 - phyluce_snp_bwa_align - INFO - Merging BAMs for capidochromis-eucinostomus-ID12
+2015-12-09 03:47:22,295 - phyluce_snp_bwa_align - INFO - ------------- Processing cheilotilapia-euchilus-ID23 ------------
+2015-12-09 03:47:22,296 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 03:47:22,297 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 03:47:22,299 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-euchilus-ID23
+2015-12-09 03:48:38,122 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-euchilus-ID23
+2015-12-09 03:49:20,374 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-euchilus-ID23
+2015-12-09 03:50:21,667 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-euchilus-ID23
+2015-12-09 03:51:15,172 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-euchilus-ID23
+2015-12-09 03:51:17,338 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-euchilus-ID23
+2015-12-09 03:51:19,353 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-euchilus-ID23
+2015-12-09 03:51:21,934 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-euchilus-ID23
+2015-12-09 03:51:26,368 - phyluce_snp_bwa_align - INFO - Merging BAMs for cheilotilapia-euchilus-ID23
+2015-12-09 03:52:17,127 - phyluce_snp_bwa_align - INFO - ------------- Processing cheilotilapia-rhodessi-ID24 ------------
+2015-12-09 03:52:17,127 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 03:52:17,128 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 03:52:17,131 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 03:53:42,720 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 03:54:25,679 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 03:55:31,426 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 03:56:30,122 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 03:56:32,519 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 03:56:34,393 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 03:56:37,096 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 03:56:41,565 - phyluce_snp_bwa_align - INFO - Merging BAMs for cheilotilapia-rhodessi-ID24
+2015-12-09 03:57:37,270 - phyluce_snp_bwa_align - INFO - ----------- Processing copadichromis-trimaculatus-ID18 ----------
+2015-12-09 03:57:37,270 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 03:57:37,271 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 03:57:37,274 - phyluce_snp_bwa_align - INFO - Building BAM for copadichromis-trimaculatus-ID18
+2015-12-09 03:58:31,949 - phyluce_snp_bwa_align - INFO - Cleaning BAM for copadichromis-trimaculatus-ID18
+2015-12-09 03:59:01,007 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for copadichromis-trimaculatus-ID18
+2015-12-09 03:59:45,851 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for copadichromis-trimaculatus-ID18
+2015-12-09 04:00:24,993 - phyluce_snp_bwa_align - INFO - Building BAM for copadichromis-trimaculatus-ID18
+2015-12-09 04:00:26,683 - phyluce_snp_bwa_align - INFO - Cleaning BAM for copadichromis-trimaculatus-ID18
+2015-12-09 04:00:28,228 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for copadichromis-trimaculatus-ID18
+2015-12-09 04:00:30,649 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for copadichromis-trimaculatus-ID18
+2015-12-09 04:00:34,490 - phyluce_snp_bwa_align - INFO - Merging BAMs for copadichromis-trimaculatus-ID18
+2015-12-09 04:01:12,072 - phyluce_snp_bwa_align - INFO - ------------ Processing cyathichromis-obliquidens-ID3 -----------
+2015-12-09 04:01:12,073 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:01:12,074 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:01:12,077 - phyluce_snp_bwa_align - INFO - Building BAM for cyathichromis-obliquidens-ID3
+2015-12-09 04:02:19,659 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cyathichromis-obliquidens-ID3
+2015-12-09 04:02:53,449 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cyathichromis-obliquidens-ID3
+2015-12-09 04:03:46,014 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cyathichromis-obliquidens-ID3
+2015-12-09 04:04:32,764 - phyluce_snp_bwa_align - INFO - Building BAM for cyathichromis-obliquidens-ID3
+2015-12-09 04:04:35,026 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cyathichromis-obliquidens-ID3
+2015-12-09 04:04:36,791 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cyathichromis-obliquidens-ID3
+2015-12-09 04:04:39,310 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cyathichromis-obliquidens-ID3
+2015-12-09 04:04:43,511 - phyluce_snp_bwa_align - INFO - Merging BAMs for cyathichromis-obliquidens-ID3
+2015-12-09 04:05:27,623 - phyluce_snp_bwa_align - INFO - --------------- Processing docimodus-evelynae-ID10 --------------
+2015-12-09 04:05:27,624 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:05:27,625 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:05:27,627 - phyluce_snp_bwa_align - INFO - Building BAM for docimodus-evelynae-ID10
+2015-12-09 04:06:43,041 - phyluce_snp_bwa_align - INFO - Cleaning BAM for docimodus-evelynae-ID10
+2015-12-09 04:07:21,806 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for docimodus-evelynae-ID10
+2015-12-09 04:08:21,028 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for docimodus-evelynae-ID10
+2015-12-09 04:09:13,200 - phyluce_snp_bwa_align - INFO - Building BAM for docimodus-evelynae-ID10
+2015-12-09 04:09:15,452 - phyluce_snp_bwa_align - INFO - Cleaning BAM for docimodus-evelynae-ID10
+2015-12-09 04:09:17,207 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for docimodus-evelynae-ID10
+2015-12-09 04:09:19,609 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for docimodus-evelynae-ID10
+2015-12-09 04:09:23,825 - phyluce_snp_bwa_align - INFO - Merging BAMs for docimodus-evelynae-ID10
+2015-12-09 04:10:13,276 - phyluce_snp_bwa_align - INFO - ------------ Processing fossorichromis-rostratus-ID28 -----------
+2015-12-09 04:10:13,277 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:10:13,278 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:10:13,280 - phyluce_snp_bwa_align - INFO - Building BAM for fossorichromis-rostratus-ID28
+2015-12-09 04:11:06,564 - phyluce_snp_bwa_align - INFO - Cleaning BAM for fossorichromis-rostratus-ID28
+2015-12-09 04:11:34,327 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for fossorichromis-rostratus-ID28
+2015-12-09 04:12:17,959 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for fossorichromis-rostratus-ID28
+2015-12-09 04:12:56,061 - phyluce_snp_bwa_align - INFO - Building BAM for fossorichromis-rostratus-ID28
+2015-12-09 04:12:57,687 - phyluce_snp_bwa_align - INFO - Cleaning BAM for fossorichromis-rostratus-ID28
+2015-12-09 04:12:59,175 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for fossorichromis-rostratus-ID28
+2015-12-09 04:13:01,587 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for fossorichromis-rostratus-ID28
+2015-12-09 04:13:05,662 - phyluce_snp_bwa_align - INFO - Merging BAMs for fossorichromis-rostratus-ID28
+2015-12-09 04:13:40,740 - phyluce_snp_bwa_align - INFO - --------------- Processing genyochromis-mento-ID7 ---------------
+2015-12-09 04:13:40,741 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:13:40,742 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:13:40,745 - phyluce_snp_bwa_align - INFO - Building BAM for genyochromis-mento-ID7
+2015-12-09 04:14:58,134 - phyluce_snp_bwa_align - INFO - Cleaning BAM for genyochromis-mento-ID7
+2015-12-09 04:15:38,073 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for genyochromis-mento-ID7
+2015-12-09 04:16:39,812 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for genyochromis-mento-ID7
+2015-12-09 04:17:33,591 - phyluce_snp_bwa_align - INFO - Building BAM for genyochromis-mento-ID7
+2015-12-09 04:17:35,872 - phyluce_snp_bwa_align - INFO - Cleaning BAM for genyochromis-mento-ID7
+2015-12-09 04:17:37,738 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for genyochromis-mento-ID7
+2015-12-09 04:17:40,361 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for genyochromis-mento-ID7
+2015-12-09 04:17:44,872 - phyluce_snp_bwa_align - INFO - Merging BAMs for genyochromis-mento-ID7
+2015-12-09 04:18:35,280 - phyluce_snp_bwa_align - INFO - ------------ Processing hemitilapia-oxyrhynchus-ID15 ------------
+2015-12-09 04:18:35,281 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:18:35,282 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:18:35,284 - phyluce_snp_bwa_align - INFO - Building BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:19:54,545 - phyluce_snp_bwa_align - INFO - Cleaning BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:20:35,949 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:21:39,879 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:22:35,299 - phyluce_snp_bwa_align - INFO - Building BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:22:37,611 - phyluce_snp_bwa_align - INFO - Cleaning BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:22:39,409 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:22:42,016 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:22:46,497 - phyluce_snp_bwa_align - INFO - Merging BAMs for hemitilapia-oxyrhynchus-ID15
+2015-12-09 04:23:39,354 - phyluce_snp_bwa_align - INFO - ------------ Processing labeotropheus-fullbornei-ID8 ------------
+2015-12-09 04:23:39,355 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:23:39,356 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:23:39,358 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-fullbornei-ID8
+2015-12-09 04:25:02,856 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-fullbornei-ID8
+2015-12-09 04:25:46,064 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-fullbornei-ID8
+2015-12-09 04:26:52,599 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-fullbornei-ID8
+2015-12-09 04:27:51,161 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-fullbornei-ID8
+2015-12-09 04:27:53,495 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-fullbornei-ID8
+2015-12-09 04:27:55,354 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-fullbornei-ID8
+2015-12-09 04:27:58,021 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-fullbornei-ID8
+2015-12-09 04:28:02,673 - phyluce_snp_bwa_align - INFO - Merging BAMs for labeotropheus-fullbornei-ID8
+2015-12-09 04:28:58,855 - phyluce_snp_bwa_align - INFO - ------------- Processing labeotropheus-trewavase-ID6 ------------
+2015-12-09 04:28:58,856 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:28:58,857 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:28:58,862 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-trewavase-ID6
+2015-12-09 04:30:12,284 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-trewavase-ID6
+2015-12-09 04:30:50,214 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-trewavase-ID6
+2015-12-09 04:31:48,897 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-trewavase-ID6
+2015-12-09 04:32:41,252 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-trewavase-ID6
+2015-12-09 04:32:43,624 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-trewavase-ID6
+2015-12-09 04:32:45,466 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-trewavase-ID6
+2015-12-09 04:32:48,175 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-trewavase-ID6
+2015-12-09 04:32:52,498 - phyluce_snp_bwa_align - INFO - Merging BAMs for labeotropheus-trewavase-ID6
+2015-12-09 04:33:41,661 - phyluce_snp_bwa_align - INFO - -------------- Processing labidochromis-gigas-ID30 --------------
+2015-12-09 04:33:41,661 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:33:41,662 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:33:41,665 - phyluce_snp_bwa_align - INFO - Building BAM for labidochromis-gigas-ID30
+2015-12-09 04:34:46,039 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labidochromis-gigas-ID30
+2015-12-09 04:35:18,745 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labidochromis-gigas-ID30
+2015-12-09 04:36:08,519 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labidochromis-gigas-ID30
+2015-12-09 04:36:53,864 - phyluce_snp_bwa_align - INFO - Building BAM for labidochromis-gigas-ID30
+2015-12-09 04:36:55,802 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labidochromis-gigas-ID30
+2015-12-09 04:36:57,511 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labidochromis-gigas-ID30
+2015-12-09 04:36:59,944 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labidochromis-gigas-ID30
+2015-12-09 04:37:04,127 - phyluce_snp_bwa_align - INFO - Merging BAMs for labidochromis-gigas-ID30
+2015-12-09 04:37:46,309 - phyluce_snp_bwa_align - INFO - -------------- Processing melanochromis-auratus-ID4 -------------
+2015-12-09 04:37:46,309 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:37:46,310 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:37:46,313 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-auratus-ID4
+2015-12-09 04:39:06,937 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-auratus-ID4
+2015-12-09 04:39:49,089 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-auratus-ID4
+2015-12-09 04:40:52,416 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-auratus-ID4
+2015-12-09 04:41:48,950 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-auratus-ID4
+2015-12-09 04:41:51,630 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-auratus-ID4
+2015-12-09 04:41:53,628 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-auratus-ID4
+2015-12-09 04:41:56,487 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-auratus-ID4
+2015-12-09 04:42:01,078 - phyluce_snp_bwa_align - INFO - Merging BAMs for melanochromis-auratus-ID4
+2015-12-09 04:42:55,192 - phyluce_snp_bwa_align - INFO - ------------ Processing melanochromis-kaskazini-ID33 ------------
+2015-12-09 04:42:55,193 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:42:55,194 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:42:55,197 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-kaskazini-ID33
+2015-12-09 04:44:10,588 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-kaskazini-ID33
+2015-12-09 04:44:49,952 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-kaskazini-ID33
+2015-12-09 04:45:50,641 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-kaskazini-ID33
+2015-12-09 04:46:44,052 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-kaskazini-ID33
+2015-12-09 04:46:46,274 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-kaskazini-ID33
+2015-12-09 04:46:48,184 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-kaskazini-ID33
+2015-12-09 04:46:50,770 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-kaskazini-ID33
+2015-12-09 04:46:55,353 - phyluce_snp_bwa_align - INFO - Merging BAMs for melanochromis-kaskazini-ID33
+2015-12-09 04:47:45,950 - phyluce_snp_bwa_align - INFO - ------------- Processing metriaclima-greshakae-ID11 -------------
+2015-12-09 04:47:45,951 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:47:45,952 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:47:45,955 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-greshakae-ID11
+2015-12-09 04:49:03,203 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-greshakae-ID11
+2015-12-09 04:49:44,157 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-greshakae-ID11
+2015-12-09 04:50:45,507 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-greshakae-ID11
+2015-12-09 04:51:41,180 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-greshakae-ID11
+2015-12-09 04:51:43,482 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-greshakae-ID11
+2015-12-09 04:51:45,304 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-greshakae-ID11
+2015-12-09 04:51:47,999 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-greshakae-ID11
+2015-12-09 04:51:52,596 - phyluce_snp_bwa_align - INFO - Merging BAMs for metriaclima-greshakae-ID11
+2015-12-09 04:52:44,646 - phyluce_snp_bwa_align - INFO - -------------- Processing metriaclima-patricki-ID22 -------------
+2015-12-09 04:52:44,646 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:52:44,647 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:52:44,650 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-patricki-ID22
+2015-12-09 04:54:01,235 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-patricki-ID22
+2015-12-09 04:54:41,043 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-patricki-ID22
+2015-12-09 04:55:42,543 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-patricki-ID22
+2015-12-09 04:56:36,963 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-patricki-ID22
+2015-12-09 04:56:39,198 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-patricki-ID22
+2015-12-09 04:56:40,958 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-patricki-ID22
+2015-12-09 04:56:44,087 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-patricki-ID22
+2015-12-09 04:56:48,599 - phyluce_snp_bwa_align - INFO - Merging BAMs for metriaclima-patricki-ID22
+2015-12-09 04:57:40,145 - phyluce_snp_bwa_align - INFO - ------------- Processing nimbochromis-polystigma-ID2 ------------
+2015-12-09 04:57:40,146 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 04:57:40,147 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 04:57:40,149 - phyluce_snp_bwa_align - INFO - Building BAM for nimbochromis-polystigma-ID2
+2015-12-09 04:58:57,755 - phyluce_snp_bwa_align - INFO - Cleaning BAM for nimbochromis-polystigma-ID2
+2015-12-09 04:59:37,344 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for nimbochromis-polystigma-ID2
+2015-12-09 05:00:38,369 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for nimbochromis-polystigma-ID2
+2015-12-09 05:01:32,840 - phyluce_snp_bwa_align - INFO - Building BAM for nimbochromis-polystigma-ID2
+2015-12-09 05:01:35,142 - phyluce_snp_bwa_align - INFO - Cleaning BAM for nimbochromis-polystigma-ID2
+2015-12-09 05:01:36,903 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for nimbochromis-polystigma-ID2
+2015-12-09 05:01:39,361 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for nimbochromis-polystigma-ID2
+2015-12-09 05:01:43,899 - phyluce_snp_bwa_align - INFO - Merging BAMs for nimbochromis-polystigma-ID2
+2015-12-09 05:02:35,029 - phyluce_snp_bwa_align - INFO - -------------- Processing otopharynx-heterodon-ID13 -------------
+2015-12-09 05:02:35,029 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:02:35,031 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:02:35,033 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-heterodon-ID13
+2015-12-09 05:03:47,046 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-heterodon-ID13
+2015-12-09 05:04:24,103 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-heterodon-ID13
+2015-12-09 05:05:21,964 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-heterodon-ID13
+2015-12-09 05:06:12,466 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-heterodon-ID13
+2015-12-09 05:06:14,794 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-heterodon-ID13
+2015-12-09 05:06:16,700 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-heterodon-ID13
+2015-12-09 05:06:19,193 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-heterodon-ID13
+2015-12-09 05:06:24,294 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-heterodon-ID13
+2015-12-09 05:07:12,456 - phyluce_snp_bwa_align - INFO - ------------- Processing otopharynx-lithobates-ID16 -------------
+2015-12-09 05:07:12,457 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:07:12,458 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:07:12,460 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-lithobates-ID16
+2015-12-09 05:08:17,988 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-lithobates-ID16
+2015-12-09 05:08:52,079 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-lithobates-ID16
+2015-12-09 05:09:43,802 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-lithobates-ID16
+2015-12-09 05:10:30,507 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-lithobates-ID16
+2015-12-09 05:10:32,494 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-lithobates-ID16
+2015-12-09 05:10:34,158 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-lithobates-ID16
+2015-12-09 05:10:36,576 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-lithobates-ID16
+2015-12-09 05:10:40,990 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-lithobates-ID16
+2015-12-09 05:11:24,343 - phyluce_snp_bwa_align - INFO - ---------------- Processing otopharynx-picta-ID14 ---------------
+2015-12-09 05:11:24,344 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:11:24,345 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:11:24,348 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-picta-ID14
+2015-12-09 05:12:26,693 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-picta-ID14
+2015-12-09 05:12:59,862 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-picta-ID14
+2015-12-09 05:13:50,252 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-picta-ID14
+2015-12-09 05:14:36,117 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-picta-ID14
+2015-12-09 05:14:37,976 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-picta-ID14
+2015-12-09 05:14:39,584 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-picta-ID14
+2015-12-09 05:14:42,011 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-picta-ID14
+2015-12-09 05:14:46,336 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-picta-ID14
+2015-12-09 05:15:28,941 - phyluce_snp_bwa_align - INFO - --------------- Processing petrotilapia-nigra-ID9 ---------------
+2015-12-09 05:15:28,942 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:15:28,945 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:15:28,948 - phyluce_snp_bwa_align - INFO - Building BAM for petrotilapia-nigra-ID9
+2015-12-09 05:16:49,035 - phyluce_snp_bwa_align - INFO - Cleaning BAM for petrotilapia-nigra-ID9
+2015-12-09 05:17:30,017 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for petrotilapia-nigra-ID9
+2015-12-09 05:18:32,717 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for petrotilapia-nigra-ID9
+2015-12-09 05:19:28,580 - phyluce_snp_bwa_align - INFO - Building BAM for petrotilapia-nigra-ID9
+2015-12-09 05:19:31,095 - phyluce_snp_bwa_align - INFO - Cleaning BAM for petrotilapia-nigra-ID9
+2015-12-09 05:19:32,990 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for petrotilapia-nigra-ID9
+2015-12-09 05:19:35,677 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for petrotilapia-nigra-ID9
+2015-12-09 05:19:40,324 - phyluce_snp_bwa_align - INFO - Merging BAMs for petrotilapia-nigra-ID9
+2015-12-09 05:20:33,434 - phyluce_snp_bwa_align - INFO - ------------- Processing placidochromis-electra-ID21 ------------
+2015-12-09 05:20:33,434 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:20:33,435 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:20:33,438 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-electra-ID21
+2015-12-09 05:21:46,357 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-electra-ID21
+2015-12-09 05:22:24,803 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-electra-ID21
+2015-12-09 05:23:23,676 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-electra-ID21
+2015-12-09 05:24:15,574 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-electra-ID21
+2015-12-09 05:24:17,680 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-electra-ID21
+2015-12-09 05:24:19,418 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-electra-ID21
+2015-12-09 05:24:21,936 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-electra-ID21
+2015-12-09 05:24:26,551 - phyluce_snp_bwa_align - INFO - Merging BAMs for placidochromis-electra-ID21
+2015-12-09 05:25:15,515 - phyluce_snp_bwa_align - INFO - ------------- Processing placidochromis-milomo-ID17 -------------
+2015-12-09 05:25:15,516 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:25:15,517 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:25:15,520 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-milomo-ID17
+2015-12-09 05:26:15,759 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-milomo-ID17
+2015-12-09 05:26:47,085 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-milomo-ID17
+2015-12-09 05:27:36,281 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-milomo-ID17
+2015-12-09 05:28:19,959 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-milomo-ID17
+2015-12-09 05:28:21,581 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-milomo-ID17
+2015-12-09 05:28:23,089 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-milomo-ID17
+2015-12-09 05:28:25,393 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-milomo-ID17
+2015-12-09 05:28:29,570 - phyluce_snp_bwa_align - INFO - Merging BAMs for placidochromis-milomo-ID17
+2015-12-09 05:29:10,841 - phyluce_snp_bwa_align - INFO - -------------- Processing psedotropheus-crabro-ID27 -------------
+2015-12-09 05:29:10,841 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:29:10,842 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:29:10,845 - phyluce_snp_bwa_align - INFO - Building BAM for psedotropheus-crabro-ID27
+2015-12-09 05:30:11,855 - phyluce_snp_bwa_align - INFO - Cleaning BAM for psedotropheus-crabro-ID27
+2015-12-09 05:30:44,049 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for psedotropheus-crabro-ID27
+2015-12-09 05:31:33,140 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for psedotropheus-crabro-ID27
+2015-12-09 05:32:17,440 - phyluce_snp_bwa_align - INFO - Building BAM for psedotropheus-crabro-ID27
+2015-12-09 05:32:19,400 - phyluce_snp_bwa_align - INFO - Cleaning BAM for psedotropheus-crabro-ID27
+2015-12-09 05:32:21,055 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for psedotropheus-crabro-ID27
+2015-12-09 05:32:23,286 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for psedotropheus-crabro-ID27
+2015-12-09 05:32:27,495 - phyluce_snp_bwa_align - INFO - Merging BAMs for psedotropheus-crabro-ID27
+2015-12-09 05:33:09,302 - phyluce_snp_bwa_align - INFO - ------------- Processing pseudotropheus-flavus-ID19 -------------
+2015-12-09 05:33:09,303 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:33:09,304 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:33:09,306 - phyluce_snp_bwa_align - INFO - Building BAM for pseudotropheus-flavus-ID19
+2015-12-09 05:34:21,295 - phyluce_snp_bwa_align - INFO - Cleaning BAM for pseudotropheus-flavus-ID19
+2015-12-09 05:34:58,434 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for pseudotropheus-flavus-ID19
+2015-12-09 05:35:55,853 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for pseudotropheus-flavus-ID19
+2015-12-09 05:36:47,172 - phyluce_snp_bwa_align - INFO - Building BAM for pseudotropheus-flavus-ID19
+2015-12-09 05:36:49,252 - phyluce_snp_bwa_align - INFO - Cleaning BAM for pseudotropheus-flavus-ID19
+2015-12-09 05:36:51,062 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for pseudotropheus-flavus-ID19
+2015-12-09 05:36:54,088 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for pseudotropheus-flavus-ID19
+2015-12-09 05:36:58,467 - phyluce_snp_bwa_align - INFO - Merging BAMs for pseudotropheus-flavus-ID19
+2015-12-09 05:37:46,438 - phyluce_snp_bwa_align - INFO - ------------ Processing rhamphochromis-longiceps-ID81 -----------
+2015-12-09 05:37:46,438 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:37:46,439 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:37:46,442 - phyluce_snp_bwa_align - INFO - Building BAM for rhamphochromis-longiceps-ID81
+2015-12-09 05:39:00,590 - phyluce_snp_bwa_align - INFO - Cleaning BAM for rhamphochromis-longiceps-ID81
+2015-12-09 05:39:39,048 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for rhamphochromis-longiceps-ID81
+2015-12-09 05:40:39,257 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for rhamphochromis-longiceps-ID81
+2015-12-09 05:41:31,981 - phyluce_snp_bwa_align - INFO - Building BAM for rhamphochromis-longiceps-ID81
+2015-12-09 05:41:34,342 - phyluce_snp_bwa_align - INFO - Cleaning BAM for rhamphochromis-longiceps-ID81
+2015-12-09 05:41:36,200 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for rhamphochromis-longiceps-ID81
+2015-12-09 05:41:38,851 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for rhamphochromis-longiceps-ID81
+2015-12-09 05:41:43,581 - phyluce_snp_bwa_align - INFO - Merging BAMs for rhamphochromis-longiceps-ID81
+2015-12-09 05:42:33,516 - phyluce_snp_bwa_align - INFO - -------------- Processing simochromis-babaulti-ID48 -------------
+2015-12-09 05:42:33,517 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:42:33,518 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:42:33,520 - phyluce_snp_bwa_align - INFO - Building BAM for simochromis-babaulti-ID48
+2015-12-09 05:43:35,952 - phyluce_snp_bwa_align - INFO - Cleaning BAM for simochromis-babaulti-ID48
+2015-12-09 05:44:08,877 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for simochromis-babaulti-ID48
+2015-12-09 05:44:59,331 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for simochromis-babaulti-ID48
+2015-12-09 05:45:47,288 - phyluce_snp_bwa_align - INFO - Building BAM for simochromis-babaulti-ID48
+2015-12-09 05:45:48,825 - phyluce_snp_bwa_align - INFO - Cleaning BAM for simochromis-babaulti-ID48
+2015-12-09 05:45:50,268 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for simochromis-babaulti-ID48
+2015-12-09 05:45:52,720 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for simochromis-babaulti-ID48
+2015-12-09 05:45:56,823 - phyluce_snp_bwa_align - INFO - Merging BAMs for simochromis-babaulti-ID48
+2015-12-09 05:46:39,297 - phyluce_snp_bwa_align - INFO - ------------- Processing stigmatochromis-woodei-ID20 ------------
+2015-12-09 05:46:39,298 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:46:39,299 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:46:39,301 - phyluce_snp_bwa_align - INFO - Building BAM for stigmatochromis-woodei-ID20
+2015-12-09 05:47:52,910 - phyluce_snp_bwa_align - INFO - Cleaning BAM for stigmatochromis-woodei-ID20
+2015-12-09 05:48:31,914 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for stigmatochromis-woodei-ID20
+2015-12-09 05:49:30,862 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for stigmatochromis-woodei-ID20
+2015-12-09 05:50:23,396 - phyluce_snp_bwa_align - INFO - Building BAM for stigmatochromis-woodei-ID20
+2015-12-09 05:50:25,574 - phyluce_snp_bwa_align - INFO - Cleaning BAM for stigmatochromis-woodei-ID20
+2015-12-09 05:50:27,378 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for stigmatochromis-woodei-ID20
+2015-12-09 05:50:30,061 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for stigmatochromis-woodei-ID20
+2015-12-09 05:50:34,756 - phyluce_snp_bwa_align - INFO - Merging BAMs for stigmatochromis-woodei-ID20
+2015-12-09 05:51:24,647 - phyluce_snp_bwa_align - INFO - --------- Processing taeniolethrinops-preorbitalis-ID29 ---------
+2015-12-09 05:51:24,647 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:51:24,648 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:51:24,651 - phyluce_snp_bwa_align - INFO - Building BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:52:20,795 - phyluce_snp_bwa_align - INFO - Cleaning BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:52:49,698 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:53:35,070 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:54:15,031 - phyluce_snp_bwa_align - INFO - Building BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:54:16,954 - phyluce_snp_bwa_align - INFO - Cleaning BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:54:18,545 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:54:20,872 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:54:25,144 - phyluce_snp_bwa_align - INFO - Merging BAMs for taeniolethrinops-preorbitalis-ID29
+2015-12-09 05:55:02,544 - phyluce_snp_bwa_align - INFO - -------------- Processing tropheops-microstoma-ID1 --------------
+2015-12-09 05:55:02,544 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:55:02,545 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:55:02,548 - phyluce_snp_bwa_align - INFO - Building BAM for tropheops-microstoma-ID1
+2015-12-09 05:56:19,399 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tropheops-microstoma-ID1
+2015-12-09 05:56:59,383 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tropheops-microstoma-ID1
+2015-12-09 05:57:59,943 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tropheops-microstoma-ID1
+2015-12-09 05:58:53,994 - phyluce_snp_bwa_align - INFO - Building BAM for tropheops-microstoma-ID1
+2015-12-09 05:58:56,009 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tropheops-microstoma-ID1
+2015-12-09 05:58:57,673 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tropheops-microstoma-ID1
+2015-12-09 05:59:00,080 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tropheops-microstoma-ID1
+2015-12-09 05:59:04,868 - phyluce_snp_bwa_align - INFO - Merging BAMs for tropheops-microstoma-ID1
+2015-12-09 05:59:55,397 - phyluce_snp_bwa_align - INFO - ----------- Processing tyrannochromis-nigriventer-ID5 -----------
+2015-12-09 05:59:55,398 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 05:59:55,399 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 05:59:55,402 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 06:01:18,966 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 06:02:02,989 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 06:03:10,299 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 06:04:09,910 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 06:04:12,157 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 06:04:14,101 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 06:04:16,760 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 06:04:21,479 - phyluce_snp_bwa_align - INFO - Merging BAMs for tyrannochromis-nigriventer-ID5
+2015-12-09 06:05:17,516 - phyluce_snp_bwa_align - INFO - ================ Completed phyluce_snp_bwa_align ================
+2015-12-09 16:45:44,427 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 16:45:44,427 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-09 16:45:44,427 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-09 16:45:44,428 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-09 16:45:44,428 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-09 16:45:44,428 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-09 16:45:44,428 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-09 16:45:44,428 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final
+2015-12-09 16:45:44,428 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-09 16:45:44,429 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-09 16:45:44,429 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 16:45:44,430 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-09 16:45:44,431 - phyluce_snp_bwa_align - INFO - You are running BWA-MEM
+2015-12-09 16:45:44,431 - phyluce_snp_bwa_align - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-09 16:46:11,334 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 16:46:11,334 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-09 16:46:11,335 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-09 16:46:11,335 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-09 16:46:11,335 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-09 16:46:11,335 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-09 16:46:11,335 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-09 16:46:11,336 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final
+2015-12-09 16:46:11,336 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-09 16:46:11,336 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-09 16:46:11,336 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-09 16:46:11,338 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-09 16:46:11,339 - phyluce_snp_bwa_align - INFO - You are running BWA-MEM
+2015-12-09 16:46:11,340 - phyluce_snp_bwa_align - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-09 16:46:11,340 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 16:46:11,344 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 16:46:11,348 - phyluce_snp_bwa_align - INFO - Building BAM for aristochromis-christiae-ID25
+2015-12-09 16:47:40,927 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aristochromis-christiae-ID25
+2015-12-09 16:48:27,669 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aristochromis-christiae-ID25
+2015-12-09 16:49:39,359 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aristochromis-christiae-ID25
+2015-12-09 16:50:42,157 - phyluce_snp_bwa_align - INFO - Building BAM for aristochromis-christiae-ID25
+2015-12-09 16:50:44,533 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aristochromis-christiae-ID25
+2015-12-09 16:50:46,498 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aristochromis-christiae-ID25
+2015-12-09 16:50:49,199 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aristochromis-christiae-ID25
+2015-12-09 16:50:53,780 - phyluce_snp_bwa_align - INFO - Merging BAMs for aristochromis-christiae-ID25
+2015-12-09 16:51:53,288 - phyluce_snp_bwa_align - INFO - ------------ Processing aulonocara-stuartgranti-ID26 ------------
+2015-12-09 16:51:53,288 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 16:51:53,289 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 16:51:53,291 - phyluce_snp_bwa_align - INFO - Building BAM for aulonocara-stuartgranti-ID26
+2015-12-09 16:53:01,596 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aulonocara-stuartgranti-ID26
+2015-12-09 16:53:37,179 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aulonocara-stuartgranti-ID26
+2015-12-09 16:54:30,578 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aulonocara-stuartgranti-ID26
+2015-12-09 16:55:17,752 - phyluce_snp_bwa_align - INFO - Building BAM for aulonocara-stuartgranti-ID26
+2015-12-09 16:55:19,798 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aulonocara-stuartgranti-ID26
+2015-12-09 16:55:21,492 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aulonocara-stuartgranti-ID26
+2015-12-09 16:55:24,030 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aulonocara-stuartgranti-ID26
+2015-12-09 16:55:28,202 - phyluce_snp_bwa_align - INFO - Merging BAMs for aulonocara-stuartgranti-ID26
+2015-12-09 16:56:14,260 - phyluce_snp_bwa_align - INFO - ---------------- Processing bathybates-minor-ID90 ---------------
+2015-12-09 16:56:14,260 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 16:56:14,261 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 16:56:14,263 - phyluce_snp_bwa_align - INFO - Building BAM for bathybates-minor-ID90
+2015-12-09 16:57:25,479 - phyluce_snp_bwa_align - INFO - Cleaning BAM for bathybates-minor-ID90
+2015-12-09 16:58:02,789 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for bathybates-minor-ID90
+2015-12-09 16:59:01,590 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for bathybates-minor-ID90
+2015-12-09 16:59:51,305 - phyluce_snp_bwa_align - INFO - Building BAM for bathybates-minor-ID90
+2015-12-09 16:59:53,345 - phyluce_snp_bwa_align - INFO - Cleaning BAM for bathybates-minor-ID90
+2015-12-09 16:59:55,224 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for bathybates-minor-ID90
+2015-12-09 16:59:57,770 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for bathybates-minor-ID90
+2015-12-09 17:00:02,113 - phyluce_snp_bwa_align - INFO - Merging BAMs for bathybates-minor-ID90
+2015-12-09 17:00:49,730 - phyluce_snp_bwa_align - INFO - ----------- Processing capidochromis-eucinostomus-ID12 ----------
+2015-12-09 17:00:49,730 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:00:49,731 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:00:49,733 - phyluce_snp_bwa_align - INFO - Building BAM for capidochromis-eucinostomus-ID12
+2015-12-09 17:02:28,443 - phyluce_snp_bwa_align - INFO - Cleaning BAM for capidochromis-eucinostomus-ID12
+2015-12-09 17:03:18,699 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for capidochromis-eucinostomus-ID12
+2015-12-09 17:04:35,364 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for capidochromis-eucinostomus-ID12
+2015-12-09 17:05:41,322 - phyluce_snp_bwa_align - INFO - Building BAM for capidochromis-eucinostomus-ID12
+2015-12-09 17:05:44,095 - phyluce_snp_bwa_align - INFO - Cleaning BAM for capidochromis-eucinostomus-ID12
+2015-12-09 17:05:46,260 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for capidochromis-eucinostomus-ID12
+2015-12-09 17:05:49,152 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for capidochromis-eucinostomus-ID12
+2015-12-09 17:05:53,843 - phyluce_snp_bwa_align - INFO - Merging BAMs for capidochromis-eucinostomus-ID12
+2015-12-09 17:06:59,517 - phyluce_snp_bwa_align - INFO - ------------- Processing cheilotilapia-euchilus-ID23 ------------
+2015-12-09 17:06:59,518 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:06:59,519 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:06:59,522 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-euchilus-ID23
+2015-12-09 17:08:14,327 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-euchilus-ID23
+2015-12-09 17:08:53,349 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-euchilus-ID23
+2015-12-09 17:09:52,822 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-euchilus-ID23
+2015-12-09 17:10:44,930 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-euchilus-ID23
+2015-12-09 17:10:47,051 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-euchilus-ID23
+2015-12-09 17:10:48,791 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-euchilus-ID23
+2015-12-09 17:10:51,238 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-euchilus-ID23
+2015-12-09 17:10:55,625 - phyluce_snp_bwa_align - INFO - Merging BAMs for cheilotilapia-euchilus-ID23
+2015-12-09 17:11:45,686 - phyluce_snp_bwa_align - INFO - ------------- Processing cheilotilapia-rhodessi-ID24 ------------
+2015-12-09 17:11:45,686 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:11:45,687 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:11:45,689 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 17:13:08,573 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 17:13:56,717 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 17:15:03,038 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 17:16:00,371 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 17:16:02,698 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 17:16:04,567 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 17:16:07,325 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-rhodessi-ID24
+2015-12-09 17:16:11,783 - phyluce_snp_bwa_align - INFO - Merging BAMs for cheilotilapia-rhodessi-ID24
+2015-12-09 17:17:07,750 - phyluce_snp_bwa_align - INFO - ----------- Processing copadichromis-trimaculatus-ID18 ----------
+2015-12-09 17:17:07,750 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:17:07,751 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:17:07,754 - phyluce_snp_bwa_align - INFO - Building BAM for copadichromis-trimaculatus-ID18
+2015-12-09 17:18:02,314 - phyluce_snp_bwa_align - INFO - Cleaning BAM for copadichromis-trimaculatus-ID18
+2015-12-09 17:18:31,102 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for copadichromis-trimaculatus-ID18
+2015-12-09 17:19:15,720 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for copadichromis-trimaculatus-ID18
+2015-12-09 17:19:54,964 - phyluce_snp_bwa_align - INFO - Building BAM for copadichromis-trimaculatus-ID18
+2015-12-09 17:19:56,693 - phyluce_snp_bwa_align - INFO - Cleaning BAM for copadichromis-trimaculatus-ID18
+2015-12-09 17:19:58,207 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for copadichromis-trimaculatus-ID18
+2015-12-09 17:20:00,724 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for copadichromis-trimaculatus-ID18
+2015-12-09 17:20:04,659 - phyluce_snp_bwa_align - INFO - Merging BAMs for copadichromis-trimaculatus-ID18
+2015-12-09 17:20:42,209 - phyluce_snp_bwa_align - INFO - ------------ Processing cyathichromis-obliquidens-ID3 -----------
+2015-12-09 17:20:42,210 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:20:42,211 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:20:42,213 - phyluce_snp_bwa_align - INFO - Building BAM for cyathichromis-obliquidens-ID3
+2015-12-09 17:21:50,478 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cyathichromis-obliquidens-ID3
+2015-12-09 17:22:24,383 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cyathichromis-obliquidens-ID3
+2015-12-09 17:23:16,928 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cyathichromis-obliquidens-ID3
+2015-12-09 17:24:02,821 - phyluce_snp_bwa_align - INFO - Building BAM for cyathichromis-obliquidens-ID3
+2015-12-09 17:24:04,993 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cyathichromis-obliquidens-ID3
+2015-12-09 17:24:06,714 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cyathichromis-obliquidens-ID3
+2015-12-09 17:24:09,260 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cyathichromis-obliquidens-ID3
+2015-12-09 17:24:13,502 - phyluce_snp_bwa_align - INFO - Merging BAMs for cyathichromis-obliquidens-ID3
+2015-12-09 17:24:57,350 - phyluce_snp_bwa_align - INFO - --------------- Processing docimodus-evelynae-ID10 --------------
+2015-12-09 17:24:57,351 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:24:57,352 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:24:57,354 - phyluce_snp_bwa_align - INFO - Building BAM for docimodus-evelynae-ID10
+2015-12-09 17:26:12,731 - phyluce_snp_bwa_align - INFO - Cleaning BAM for docimodus-evelynae-ID10
+2015-12-09 17:26:51,527 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for docimodus-evelynae-ID10
+2015-12-09 17:27:51,413 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for docimodus-evelynae-ID10
+2015-12-09 17:28:43,190 - phyluce_snp_bwa_align - INFO - Building BAM for docimodus-evelynae-ID10
+2015-12-09 17:28:45,404 - phyluce_snp_bwa_align - INFO - Cleaning BAM for docimodus-evelynae-ID10
+2015-12-09 17:28:47,194 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for docimodus-evelynae-ID10
+2015-12-09 17:28:49,794 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for docimodus-evelynae-ID10
+2015-12-09 17:28:54,093 - phyluce_snp_bwa_align - INFO - Merging BAMs for docimodus-evelynae-ID10
+2015-12-09 17:29:44,150 - phyluce_snp_bwa_align - INFO - ------------ Processing fossorichromis-rostratus-ID28 -----------
+2015-12-09 17:29:44,151 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:29:44,152 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:29:44,154 - phyluce_snp_bwa_align - INFO - Building BAM for fossorichromis-rostratus-ID28
+2015-12-09 17:30:37,565 - phyluce_snp_bwa_align - INFO - Cleaning BAM for fossorichromis-rostratus-ID28
+2015-12-09 17:31:05,117 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for fossorichromis-rostratus-ID28
+2015-12-09 17:31:47,683 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for fossorichromis-rostratus-ID28
+2015-12-09 17:32:24,587 - phyluce_snp_bwa_align - INFO - Building BAM for fossorichromis-rostratus-ID28
+2015-12-09 17:32:26,117 - phyluce_snp_bwa_align - INFO - Cleaning BAM for fossorichromis-rostratus-ID28
+2015-12-09 17:32:27,600 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for fossorichromis-rostratus-ID28
+2015-12-09 17:32:29,947 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for fossorichromis-rostratus-ID28
+2015-12-09 17:32:34,269 - phyluce_snp_bwa_align - INFO - Merging BAMs for fossorichromis-rostratus-ID28
+2015-12-09 17:33:09,611 - phyluce_snp_bwa_align - INFO - --------------- Processing genyochromis-mento-ID7 ---------------
+2015-12-09 17:33:09,612 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:33:09,613 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:33:09,615 - phyluce_snp_bwa_align - INFO - Building BAM for genyochromis-mento-ID7
+2015-12-09 17:34:27,843 - phyluce_snp_bwa_align - INFO - Cleaning BAM for genyochromis-mento-ID7
+2015-12-09 17:35:06,840 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for genyochromis-mento-ID7
+2015-12-09 17:36:06,937 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for genyochromis-mento-ID7
+2015-12-09 17:36:59,236 - phyluce_snp_bwa_align - INFO - Building BAM for genyochromis-mento-ID7
+2015-12-09 17:37:01,573 - phyluce_snp_bwa_align - INFO - Cleaning BAM for genyochromis-mento-ID7
+2015-12-09 17:37:03,401 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for genyochromis-mento-ID7
+2015-12-09 17:37:05,986 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for genyochromis-mento-ID7
+2015-12-09 17:37:10,478 - phyluce_snp_bwa_align - INFO - Merging BAMs for genyochromis-mento-ID7
+2015-12-09 17:38:00,851 - phyluce_snp_bwa_align - INFO - ------------ Processing hemitilapia-oxyrhynchus-ID15 ------------
+2015-12-09 17:38:00,852 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:38:00,853 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:38:00,855 - phyluce_snp_bwa_align - INFO - Building BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:39:20,642 - phyluce_snp_bwa_align - INFO - Cleaning BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:40:01,266 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:41:04,682 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:41:59,512 - phyluce_snp_bwa_align - INFO - Building BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:42:01,878 - phyluce_snp_bwa_align - INFO - Cleaning BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:42:03,810 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:42:06,510 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:42:11,658 - phyluce_snp_bwa_align - INFO - Merging BAMs for hemitilapia-oxyrhynchus-ID15
+2015-12-09 17:43:04,708 - phyluce_snp_bwa_align - INFO - ------------ Processing labeotropheus-fullbornei-ID8 ------------
+2015-12-09 17:43:04,709 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:43:04,710 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:43:04,712 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-fullbornei-ID8
+2015-12-09 17:44:29,048 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-fullbornei-ID8
+2015-12-09 17:45:12,561 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-fullbornei-ID8
+2015-12-09 17:46:19,219 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-fullbornei-ID8
+2015-12-09 17:47:16,554 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-fullbornei-ID8
+2015-12-09 17:47:18,985 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-fullbornei-ID8
+2015-12-09 17:47:21,088 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-fullbornei-ID8
+2015-12-09 17:47:23,612 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-fullbornei-ID8
+2015-12-09 17:47:28,050 - phyluce_snp_bwa_align - INFO - Merging BAMs for labeotropheus-fullbornei-ID8
+2015-12-09 17:48:24,171 - phyluce_snp_bwa_align - INFO - ------------- Processing labeotropheus-trewavase-ID6 ------------
+2015-12-09 17:48:24,172 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:48:24,173 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:48:24,176 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-trewavase-ID6
+2015-12-09 17:49:38,441 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-trewavase-ID6
+2015-12-09 17:50:16,661 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-trewavase-ID6
+2015-12-09 17:51:16,515 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-trewavase-ID6
+2015-12-09 17:52:08,004 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-trewavase-ID6
+2015-12-09 17:52:10,341 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-trewavase-ID6
+2015-12-09 17:52:12,248 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-trewavase-ID6
+2015-12-09 17:52:14,915 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-trewavase-ID6
+2015-12-09 17:52:19,347 - phyluce_snp_bwa_align - INFO - Merging BAMs for labeotropheus-trewavase-ID6
+2015-12-09 17:53:09,218 - phyluce_snp_bwa_align - INFO - -------------- Processing labidochromis-gigas-ID30 --------------
+2015-12-09 17:53:09,219 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:53:09,220 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:53:09,223 - phyluce_snp_bwa_align - INFO - Building BAM for labidochromis-gigas-ID30
+2015-12-09 17:54:11,731 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labidochromis-gigas-ID30
+2015-12-09 17:54:44,718 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labidochromis-gigas-ID30
+2015-12-09 17:55:33,804 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labidochromis-gigas-ID30
+2015-12-09 17:56:17,938 - phyluce_snp_bwa_align - INFO - Building BAM for labidochromis-gigas-ID30
+2015-12-09 17:56:19,978 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labidochromis-gigas-ID30
+2015-12-09 17:56:21,617 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labidochromis-gigas-ID30
+2015-12-09 17:56:23,978 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labidochromis-gigas-ID30
+2015-12-09 17:56:28,189 - phyluce_snp_bwa_align - INFO - Merging BAMs for labidochromis-gigas-ID30
+2015-12-09 17:57:10,698 - phyluce_snp_bwa_align - INFO - -------------- Processing melanochromis-auratus-ID4 -------------
+2015-12-09 17:57:10,698 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 17:57:10,700 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 17:57:10,702 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-auratus-ID4
+2015-12-09 17:58:32,619 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-auratus-ID4
+2015-12-09 17:59:14,164 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-auratus-ID4
+2015-12-09 18:00:17,918 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-auratus-ID4
+2015-12-09 18:01:13,280 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-auratus-ID4
+2015-12-09 18:01:15,997 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-auratus-ID4
+2015-12-09 18:01:18,129 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-auratus-ID4
+2015-12-09 18:01:21,047 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-auratus-ID4
+2015-12-09 18:01:25,934 - phyluce_snp_bwa_align - INFO - Merging BAMs for melanochromis-auratus-ID4
+2015-12-09 18:02:19,760 - phyluce_snp_bwa_align - INFO - ------------ Processing melanochromis-kaskazini-ID33 ------------
+2015-12-09 18:02:19,761 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:02:19,762 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:02:19,764 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-kaskazini-ID33
+2015-12-09 18:03:36,857 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-kaskazini-ID33
+2015-12-09 18:04:16,121 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-kaskazini-ID33
+2015-12-09 18:05:15,373 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-kaskazini-ID33
+2015-12-09 18:06:07,202 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-kaskazini-ID33
+2015-12-09 18:06:09,450 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-kaskazini-ID33
+2015-12-09 18:06:11,397 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-kaskazini-ID33
+2015-12-09 18:06:13,987 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-kaskazini-ID33
+2015-12-09 18:06:18,457 - phyluce_snp_bwa_align - INFO - Merging BAMs for melanochromis-kaskazini-ID33
+2015-12-09 18:07:09,087 - phyluce_snp_bwa_align - INFO - ------------- Processing metriaclima-greshakae-ID11 -------------
+2015-12-09 18:07:09,088 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:07:09,089 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:07:09,092 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-greshakae-ID11
+2015-12-09 18:08:27,698 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-greshakae-ID11
+2015-12-09 18:09:08,090 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-greshakae-ID11
+2015-12-09 18:10:09,926 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-greshakae-ID11
+2015-12-09 18:11:04,009 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-greshakae-ID11
+2015-12-09 18:11:06,300 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-greshakae-ID11
+2015-12-09 18:11:08,124 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-greshakae-ID11
+2015-12-09 18:11:10,851 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-greshakae-ID11
+2015-12-09 18:11:15,273 - phyluce_snp_bwa_align - INFO - Merging BAMs for metriaclima-greshakae-ID11
+2015-12-09 18:12:07,794 - phyluce_snp_bwa_align - INFO - -------------- Processing metriaclima-patricki-ID22 -------------
+2015-12-09 18:12:07,796 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:12:07,797 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:12:07,799 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-patricki-ID22
+2015-12-09 18:13:25,649 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-patricki-ID22
+2015-12-09 18:14:05,363 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-patricki-ID22
+2015-12-09 18:15:07,428 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-patricki-ID22
+2015-12-09 18:16:00,507 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-patricki-ID22
+2015-12-09 18:16:02,712 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-patricki-ID22
+2015-12-09 18:16:04,461 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-patricki-ID22
+2015-12-09 18:16:07,125 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-patricki-ID22
+2015-12-09 18:16:11,466 - phyluce_snp_bwa_align - INFO - Merging BAMs for metriaclima-patricki-ID22
+2015-12-09 18:17:03,342 - phyluce_snp_bwa_align - INFO - ------------- Processing nimbochromis-polystigma-ID2 ------------
+2015-12-09 18:17:03,343 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:17:03,345 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:17:03,348 - phyluce_snp_bwa_align - INFO - Building BAM for nimbochromis-polystigma-ID2
+2015-12-09 18:18:21,619 - phyluce_snp_bwa_align - INFO - Cleaning BAM for nimbochromis-polystigma-ID2
+2015-12-09 18:19:01,219 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for nimbochromis-polystigma-ID2
+2015-12-09 18:20:02,796 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for nimbochromis-polystigma-ID2
+2015-12-09 18:20:56,134 - phyluce_snp_bwa_align - INFO - Building BAM for nimbochromis-polystigma-ID2
+2015-12-09 18:20:58,435 - phyluce_snp_bwa_align - INFO - Cleaning BAM for nimbochromis-polystigma-ID2
+2015-12-09 18:21:00,373 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for nimbochromis-polystigma-ID2
+2015-12-09 18:21:02,868 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for nimbochromis-polystigma-ID2
+2015-12-09 18:21:07,230 - phyluce_snp_bwa_align - INFO - Merging BAMs for nimbochromis-polystigma-ID2
+2015-12-09 18:21:58,305 - phyluce_snp_bwa_align - INFO - -------------- Processing otopharynx-heterodon-ID13 -------------
+2015-12-09 18:21:58,306 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:21:58,307 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:21:58,309 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-heterodon-ID13
+2015-12-09 18:23:09,937 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-heterodon-ID13
+2015-12-09 18:23:46,651 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-heterodon-ID13
+2015-12-09 18:24:43,274 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-heterodon-ID13
+2015-12-09 18:25:33,350 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-heterodon-ID13
+2015-12-09 18:25:35,492 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-heterodon-ID13
+2015-12-09 18:25:37,382 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-heterodon-ID13
+2015-12-09 18:25:39,873 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-heterodon-ID13
+2015-12-09 18:25:44,233 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-heterodon-ID13
+2015-12-09 18:26:32,072 - phyluce_snp_bwa_align - INFO - ------------- Processing otopharynx-lithobates-ID16 -------------
+2015-12-09 18:26:32,072 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:26:32,073 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:26:32,075 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-lithobates-ID16
+2015-12-09 18:27:36,534 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-lithobates-ID16
+2015-12-09 18:28:10,032 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-lithobates-ID16
+2015-12-09 18:29:01,458 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-lithobates-ID16
+2015-12-09 18:29:46,882 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-lithobates-ID16
+2015-12-09 18:29:48,914 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-lithobates-ID16
+2015-12-09 18:29:50,582 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-lithobates-ID16
+2015-12-09 18:29:52,972 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-lithobates-ID16
+2015-12-09 18:29:57,321 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-lithobates-ID16
+2015-12-09 18:30:41,210 - phyluce_snp_bwa_align - INFO - ---------------- Processing otopharynx-picta-ID14 ---------------
+2015-12-09 18:30:41,211 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:30:41,212 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:30:41,216 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-picta-ID14
+2015-12-09 18:31:44,088 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-picta-ID14
+2015-12-09 18:32:17,471 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-picta-ID14
+2015-12-09 18:33:07,052 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-picta-ID14
+2015-12-09 18:33:50,922 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-picta-ID14
+2015-12-09 18:33:52,967 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-picta-ID14
+2015-12-09 18:33:54,559 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-picta-ID14
+2015-12-09 18:33:56,946 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-picta-ID14
+2015-12-09 18:34:00,959 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-picta-ID14
+2015-12-09 18:34:43,869 - phyluce_snp_bwa_align - INFO - --------------- Processing petrotilapia-nigra-ID9 ---------------
+2015-12-09 18:34:43,870 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:34:43,871 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:34:43,874 - phyluce_snp_bwa_align - INFO - Building BAM for petrotilapia-nigra-ID9
+2015-12-09 18:36:03,413 - phyluce_snp_bwa_align - INFO - Cleaning BAM for petrotilapia-nigra-ID9
+2015-12-09 18:36:44,174 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for petrotilapia-nigra-ID9
+2015-12-09 18:37:47,284 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for petrotilapia-nigra-ID9
+2015-12-09 18:38:41,898 - phyluce_snp_bwa_align - INFO - Building BAM for petrotilapia-nigra-ID9
+2015-12-09 18:38:44,438 - phyluce_snp_bwa_align - INFO - Cleaning BAM for petrotilapia-nigra-ID9
+2015-12-09 18:38:46,422 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for petrotilapia-nigra-ID9
+2015-12-09 18:38:49,027 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for petrotilapia-nigra-ID9
+2015-12-09 18:38:53,792 - phyluce_snp_bwa_align - INFO - Merging BAMs for petrotilapia-nigra-ID9
+2015-12-09 18:39:46,349 - phyluce_snp_bwa_align - INFO - ------------- Processing placidochromis-electra-ID21 ------------
+2015-12-09 18:39:46,350 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:39:46,351 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:39:46,354 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-electra-ID21
+2015-12-09 18:40:59,321 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-electra-ID21
+2015-12-09 18:41:37,684 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-electra-ID21
+2015-12-09 18:42:37,283 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-electra-ID21
+2015-12-09 18:43:28,247 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-electra-ID21
+2015-12-09 18:43:30,325 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-electra-ID21
+2015-12-09 18:43:32,166 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-electra-ID21
+2015-12-09 18:43:34,673 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-electra-ID21
+2015-12-09 18:43:38,951 - phyluce_snp_bwa_align - INFO - Merging BAMs for placidochromis-electra-ID21
+2015-12-09 18:44:27,789 - phyluce_snp_bwa_align - INFO - ------------- Processing placidochromis-milomo-ID17 -------------
+2015-12-09 18:44:27,790 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:44:27,791 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:44:27,793 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-milomo-ID17
+2015-12-09 18:45:28,000 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-milomo-ID17
+2015-12-09 18:45:59,649 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-milomo-ID17
+2015-12-09 18:46:49,112 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-milomo-ID17
+2015-12-09 18:47:31,921 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-milomo-ID17
+2015-12-09 18:47:33,763 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-milomo-ID17
+2015-12-09 18:47:35,286 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-milomo-ID17
+2015-12-09 18:47:37,503 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-milomo-ID17
+2015-12-09 18:47:41,417 - phyluce_snp_bwa_align - INFO - Merging BAMs for placidochromis-milomo-ID17
+2015-12-09 18:48:22,047 - phyluce_snp_bwa_align - INFO - -------------- Processing psedotropheus-crabro-ID27 -------------
+2015-12-09 18:48:22,048 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:48:22,050 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:48:22,053 - phyluce_snp_bwa_align - INFO - Building BAM for psedotropheus-crabro-ID27
+2015-12-09 18:49:23,042 - phyluce_snp_bwa_align - INFO - Cleaning BAM for psedotropheus-crabro-ID27
+2015-12-09 18:49:55,368 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for psedotropheus-crabro-ID27
+2015-12-09 18:50:45,162 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for psedotropheus-crabro-ID27
+2015-12-09 18:51:29,021 - phyluce_snp_bwa_align - INFO - Building BAM for psedotropheus-crabro-ID27
+2015-12-09 18:51:31,006 - phyluce_snp_bwa_align - INFO - Cleaning BAM for psedotropheus-crabro-ID27
+2015-12-09 18:51:32,661 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for psedotropheus-crabro-ID27
+2015-12-09 18:51:34,852 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for psedotropheus-crabro-ID27
+2015-12-09 18:51:39,009 - phyluce_snp_bwa_align - INFO - Merging BAMs for psedotropheus-crabro-ID27
+2015-12-09 18:52:20,403 - phyluce_snp_bwa_align - INFO - ------------- Processing pseudotropheus-flavus-ID19 -------------
+2015-12-09 18:52:20,404 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:52:20,405 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:52:20,408 - phyluce_snp_bwa_align - INFO - Building BAM for pseudotropheus-flavus-ID19
+2015-12-09 18:53:32,254 - phyluce_snp_bwa_align - INFO - Cleaning BAM for pseudotropheus-flavus-ID19
+2015-12-09 18:54:09,598 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for pseudotropheus-flavus-ID19
+2015-12-09 18:55:07,462 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for pseudotropheus-flavus-ID19
+2015-12-09 18:55:57,143 - phyluce_snp_bwa_align - INFO - Building BAM for pseudotropheus-flavus-ID19
+2015-12-09 18:55:59,210 - phyluce_snp_bwa_align - INFO - Cleaning BAM for pseudotropheus-flavus-ID19
+2015-12-09 18:56:00,867 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for pseudotropheus-flavus-ID19
+2015-12-09 18:56:03,321 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for pseudotropheus-flavus-ID19
+2015-12-09 18:56:07,404 - phyluce_snp_bwa_align - INFO - Merging BAMs for pseudotropheus-flavus-ID19
+2015-12-09 18:56:55,378 - phyluce_snp_bwa_align - INFO - ------------ Processing rhamphochromis-longiceps-ID81 -----------
+2015-12-09 18:56:55,379 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 18:56:55,380 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 18:56:55,384 - phyluce_snp_bwa_align - INFO - Building BAM for rhamphochromis-longiceps-ID81
+2015-12-09 18:58:09,701 - phyluce_snp_bwa_align - INFO - Cleaning BAM for rhamphochromis-longiceps-ID81
+2015-12-09 18:58:48,851 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for rhamphochromis-longiceps-ID81
+2015-12-09 18:59:48,602 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for rhamphochromis-longiceps-ID81
+2015-12-09 19:00:40,292 - phyluce_snp_bwa_align - INFO - Building BAM for rhamphochromis-longiceps-ID81
+2015-12-09 19:00:42,618 - phyluce_snp_bwa_align - INFO - Cleaning BAM for rhamphochromis-longiceps-ID81
+2015-12-09 19:00:44,470 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for rhamphochromis-longiceps-ID81
+2015-12-09 19:00:47,048 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for rhamphochromis-longiceps-ID81
+2015-12-09 19:00:51,464 - phyluce_snp_bwa_align - INFO - Merging BAMs for rhamphochromis-longiceps-ID81
+2015-12-09 19:01:41,951 - phyluce_snp_bwa_align - INFO - -------------- Processing simochromis-babaulti-ID48 -------------
+2015-12-09 19:01:41,953 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 19:01:41,954 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 19:01:41,956 - phyluce_snp_bwa_align - INFO - Building BAM for simochromis-babaulti-ID48
+2015-12-09 19:02:44,803 - phyluce_snp_bwa_align - INFO - Cleaning BAM for simochromis-babaulti-ID48
+2015-12-09 19:03:17,985 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for simochromis-babaulti-ID48
+2015-12-09 19:04:08,178 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for simochromis-babaulti-ID48
+2015-12-09 19:04:52,767 - phyluce_snp_bwa_align - INFO - Building BAM for simochromis-babaulti-ID48
+2015-12-09 19:04:54,314 - phyluce_snp_bwa_align - INFO - Cleaning BAM for simochromis-babaulti-ID48
+2015-12-09 19:04:55,801 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for simochromis-babaulti-ID48
+2015-12-09 19:04:58,133 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for simochromis-babaulti-ID48
+2015-12-09 19:05:01,930 - phyluce_snp_bwa_align - INFO - Merging BAMs for simochromis-babaulti-ID48
+2015-12-09 19:05:44,461 - phyluce_snp_bwa_align - INFO - ------------- Processing stigmatochromis-woodei-ID20 ------------
+2015-12-09 19:05:44,462 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 19:05:44,464 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 19:05:44,467 - phyluce_snp_bwa_align - INFO - Building BAM for stigmatochromis-woodei-ID20
+2015-12-09 19:06:58,118 - phyluce_snp_bwa_align - INFO - Cleaning BAM for stigmatochromis-woodei-ID20
+2015-12-09 19:07:37,351 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for stigmatochromis-woodei-ID20
+2015-12-09 19:08:36,618 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for stigmatochromis-woodei-ID20
+2015-12-09 19:09:27,963 - phyluce_snp_bwa_align - INFO - Building BAM for stigmatochromis-woodei-ID20
+2015-12-09 19:09:30,151 - phyluce_snp_bwa_align - INFO - Cleaning BAM for stigmatochromis-woodei-ID20
+2015-12-09 19:09:31,944 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for stigmatochromis-woodei-ID20
+2015-12-09 19:09:34,561 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for stigmatochromis-woodei-ID20
+2015-12-09 19:09:38,943 - phyluce_snp_bwa_align - INFO - Merging BAMs for stigmatochromis-woodei-ID20
+2015-12-09 19:10:28,980 - phyluce_snp_bwa_align - INFO - --------- Processing taeniolethrinops-preorbitalis-ID29 ---------
+2015-12-09 19:10:28,981 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 19:10:28,982 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 19:10:28,985 - phyluce_snp_bwa_align - INFO - Building BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:11:24,610 - phyluce_snp_bwa_align - INFO - Cleaning BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:11:53,565 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:12:38,879 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:13:17,705 - phyluce_snp_bwa_align - INFO - Building BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:13:19,577 - phyluce_snp_bwa_align - INFO - Cleaning BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:13:21,186 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:13:23,410 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:13:27,453 - phyluce_snp_bwa_align - INFO - Merging BAMs for taeniolethrinops-preorbitalis-ID29
+2015-12-09 19:14:04,875 - phyluce_snp_bwa_align - INFO - -------------- Processing tropheops-microstoma-ID1 --------------
+2015-12-09 19:14:04,877 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 19:14:04,878 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 19:14:04,881 - phyluce_snp_bwa_align - INFO - Building BAM for tropheops-microstoma-ID1
+2015-12-09 19:15:21,559 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tropheops-microstoma-ID1
+2015-12-09 19:16:01,278 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tropheops-microstoma-ID1
+2015-12-09 19:17:01,906 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tropheops-microstoma-ID1
+2015-12-09 19:17:54,977 - phyluce_snp_bwa_align - INFO - Building BAM for tropheops-microstoma-ID1
+2015-12-09 19:17:56,935 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tropheops-microstoma-ID1
+2015-12-09 19:17:58,636 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tropheops-microstoma-ID1
+2015-12-09 19:18:00,941 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tropheops-microstoma-ID1
+2015-12-09 19:18:05,249 - phyluce_snp_bwa_align - INFO - Merging BAMs for tropheops-microstoma-ID1
+2015-12-09 19:18:56,151 - phyluce_snp_bwa_align - INFO - ----------- Processing tyrannochromis-nigriventer-ID5 -----------
+2015-12-09 19:18:56,152 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-09 19:18:56,153 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-09 19:18:56,156 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 19:20:19,839 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 19:21:03,047 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 19:22:10,521 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 19:23:08,003 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 19:23:10,252 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 19:23:12,072 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 19:23:14,833 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tyrannochromis-nigriventer-ID5
+2015-12-09 19:23:19,004 - phyluce_snp_bwa_align - INFO - Merging BAMs for tyrannochromis-nigriventer-ID5
+2015-12-09 19:24:15,377 - phyluce_snp_bwa_align - INFO - ================ Completed phyluce_snp_bwa_align ================
+2015-12-10 14:03:14,354 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-10 14:03:14,354 - phyluce_snp_bwa_align - INFO - Version: 1.5.0
+2015-12-10 14:03:14,355 - phyluce_snp_bwa_align - INFO - Argument --config: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/reference/tyr-nig-snps.conf
+2015-12-10 14:03:14,355 - phyluce_snp_bwa_align - INFO - Argument --cores: 12
+2015-12-10 14:03:14,355 - phyluce_snp_bwa_align - INFO - Argument --log_path: None
+2015-12-10 14:03:14,355 - phyluce_snp_bwa_align - INFO - Argument --mem: True
+2015-12-10 14:03:14,355 - phyluce_snp_bwa_align - INFO - Argument --no_remove_duplicates: False
+2015-12-10 14:03:14,356 - phyluce_snp_bwa_align - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final
+2015-12-10 14:03:14,356 - phyluce_snp_bwa_align - INFO - Argument --subfolder: split-adapter-quality-trimmed
+2015-12-10 14:03:14,356 - phyluce_snp_bwa_align - INFO - Argument --verbosity: INFO
+2015-12-10 14:03:14,356 - phyluce_snp_bwa_align - INFO - ================= Starting phyluce_snp_bwa_align ================
+2015-12-10 14:03:14,358 - phyluce_snp_bwa_align - INFO - Getting input filenames and creating output directories
+2015-12-10 14:03:14,360 - phyluce_snp_bwa_align - INFO - You are running BWA-MEM
+2015-12-10 14:03:14,360 - phyluce_snp_bwa_align - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-10 14:03:14,360 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:03:14,364 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:03:14,368 - phyluce_snp_bwa_align - INFO - Building BAM for aristochromis-christiae-ID25
+2015-12-10 14:04:42,864 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aristochromis-christiae-ID25
+2015-12-10 14:05:29,671 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aristochromis-christiae-ID25
+2015-12-10 14:06:40,112 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aristochromis-christiae-ID25
+2015-12-10 14:07:41,570 - phyluce_snp_bwa_align - INFO - Building BAM for aristochromis-christiae-ID25
+2015-12-10 14:07:43,877 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aristochromis-christiae-ID25
+2015-12-10 14:07:45,758 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aristochromis-christiae-ID25
+2015-12-10 14:07:48,475 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aristochromis-christiae-ID25
+2015-12-10 14:07:52,877 - phyluce_snp_bwa_align - INFO - Merging BAMs for aristochromis-christiae-ID25
+2015-12-10 14:08:52,368 - phyluce_snp_bwa_align - INFO - ------------- Processing astatotilapia-burtoni-ID32 -------------
+2015-12-10 14:08:52,369 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:08:52,370 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:08:52,372 - phyluce_snp_bwa_align - INFO - Building BAM for astatotilapia-burtoni-ID32
+2015-12-10 14:10:02,538 - phyluce_snp_bwa_align - INFO - Cleaning BAM for astatotilapia-burtoni-ID32
+2015-12-10 14:10:39,850 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for astatotilapia-burtoni-ID32
+2015-12-10 14:11:36,572 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for astatotilapia-burtoni-ID32
+2015-12-10 14:12:25,457 - phyluce_snp_bwa_align - INFO - Building BAM for astatotilapia-burtoni-ID32
+2015-12-10 14:12:27,389 - phyluce_snp_bwa_align - INFO - Cleaning BAM for astatotilapia-burtoni-ID32
+2015-12-10 14:12:29,072 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for astatotilapia-burtoni-ID32
+2015-12-10 14:12:31,518 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for astatotilapia-burtoni-ID32
+2015-12-10 14:12:35,867 - phyluce_snp_bwa_align - INFO - Merging BAMs for astatotilapia-burtoni-ID32
+2015-12-10 14:13:22,443 - phyluce_snp_bwa_align - INFO - ------------ Processing aulonocara-stuartgranti-ID26 ------------
+2015-12-10 14:13:22,444 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:13:22,445 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:13:22,447 - phyluce_snp_bwa_align - INFO - Building BAM for aulonocara-stuartgranti-ID26
+2015-12-10 14:14:29,734 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aulonocara-stuartgranti-ID26
+2015-12-10 14:15:04,364 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aulonocara-stuartgranti-ID26
+2015-12-10 14:15:57,885 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aulonocara-stuartgranti-ID26
+2015-12-10 14:16:44,629 - phyluce_snp_bwa_align - INFO - Building BAM for aulonocara-stuartgranti-ID26
+2015-12-10 14:16:46,658 - phyluce_snp_bwa_align - INFO - Cleaning BAM for aulonocara-stuartgranti-ID26
+2015-12-10 14:16:48,339 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for aulonocara-stuartgranti-ID26
+2015-12-10 14:16:50,862 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for aulonocara-stuartgranti-ID26
+2015-12-10 14:16:54,845 - phyluce_snp_bwa_align - INFO - Merging BAMs for aulonocara-stuartgranti-ID26
+2015-12-10 14:17:39,872 - phyluce_snp_bwa_align - INFO - ---------------- Processing bathybates-minor-ID90 ---------------
+2015-12-10 14:17:39,873 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:17:39,875 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:17:39,877 - phyluce_snp_bwa_align - INFO - Building BAM for bathybates-minor-ID90
+2015-12-10 14:18:50,529 - phyluce_snp_bwa_align - INFO - Cleaning BAM for bathybates-minor-ID90
+2015-12-10 14:19:27,589 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for bathybates-minor-ID90
+2015-12-10 14:20:24,018 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for bathybates-minor-ID90
+2015-12-10 14:21:13,074 - phyluce_snp_bwa_align - INFO - Building BAM for bathybates-minor-ID90
+2015-12-10 14:21:15,154 - phyluce_snp_bwa_align - INFO - Cleaning BAM for bathybates-minor-ID90
+2015-12-10 14:21:16,916 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for bathybates-minor-ID90
+2015-12-10 14:21:19,371 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for bathybates-minor-ID90
+2015-12-10 14:21:23,696 - phyluce_snp_bwa_align - INFO - Merging BAMs for bathybates-minor-ID90
+2015-12-10 14:22:11,240 - phyluce_snp_bwa_align - INFO - ----------- Processing capidochromis-eucinostomus-ID12 ----------
+2015-12-10 14:22:11,241 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:22:11,242 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:22:11,244 - phyluce_snp_bwa_align - INFO - Building BAM for capidochromis-eucinostomus-ID12
+2015-12-10 14:23:48,296 - phyluce_snp_bwa_align - INFO - Cleaning BAM for capidochromis-eucinostomus-ID12
+2015-12-10 14:24:39,246 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for capidochromis-eucinostomus-ID12
+2015-12-10 14:25:56,021 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for capidochromis-eucinostomus-ID12
+2015-12-10 14:27:02,255 - phyluce_snp_bwa_align - INFO - Building BAM for capidochromis-eucinostomus-ID12
+2015-12-10 14:27:05,004 - phyluce_snp_bwa_align - INFO - Cleaning BAM for capidochromis-eucinostomus-ID12
+2015-12-10 14:27:07,090 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for capidochromis-eucinostomus-ID12
+2015-12-10 14:27:10,112 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for capidochromis-eucinostomus-ID12
+2015-12-10 14:27:14,758 - phyluce_snp_bwa_align - INFO - Merging BAMs for capidochromis-eucinostomus-ID12
+2015-12-10 14:28:19,592 - phyluce_snp_bwa_align - INFO - ------------ Processing chalinochromis-brichardi-ID57 -----------
+2015-12-10 14:28:19,592 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:28:19,593 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:28:19,595 - phyluce_snp_bwa_align - INFO - Building BAM for chalinochromis-brichardi-ID57
+2015-12-10 14:29:47,444 - phyluce_snp_bwa_align - INFO - Cleaning BAM for chalinochromis-brichardi-ID57
+2015-12-10 14:30:32,002 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for chalinochromis-brichardi-ID57
+2015-12-10 14:31:40,279 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for chalinochromis-brichardi-ID57
+2015-12-10 14:32:39,643 - phyluce_snp_bwa_align - INFO - Building BAM for chalinochromis-brichardi-ID57
+2015-12-10 14:32:42,141 - phyluce_snp_bwa_align - INFO - Cleaning BAM for chalinochromis-brichardi-ID57
+2015-12-10 14:32:44,114 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for chalinochromis-brichardi-ID57
+2015-12-10 14:32:46,741 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for chalinochromis-brichardi-ID57
+2015-12-10 14:32:52,228 - phyluce_snp_bwa_align - INFO - Merging BAMs for chalinochromis-brichardi-ID57
+2015-12-10 14:33:49,543 - phyluce_snp_bwa_align - INFO - ------------- Processing cheilotilapia-euchilus-ID23 ------------
+2015-12-10 14:33:49,543 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:33:49,544 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:33:49,546 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-euchilus-ID23
+2015-12-10 14:35:04,198 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-euchilus-ID23
+2015-12-10 14:35:42,631 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-euchilus-ID23
+2015-12-10 14:36:42,777 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-euchilus-ID23
+2015-12-10 14:37:35,297 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-euchilus-ID23
+2015-12-10 14:37:37,462 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-euchilus-ID23
+2015-12-10 14:37:39,163 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-euchilus-ID23
+2015-12-10 14:37:41,773 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-euchilus-ID23
+2015-12-10 14:37:46,143 - phyluce_snp_bwa_align - INFO - Merging BAMs for cheilotilapia-euchilus-ID23
+2015-12-10 14:38:36,112 - phyluce_snp_bwa_align - INFO - ------------- Processing cheilotilapia-rhodessi-ID24 ------------
+2015-12-10 14:38:36,113 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:38:36,114 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:38:36,116 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-rhodessi-ID24
+2015-12-10 14:39:59,218 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-rhodessi-ID24
+2015-12-10 14:40:42,425 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-rhodessi-ID24
+2015-12-10 14:41:48,760 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-rhodessi-ID24
+2015-12-10 14:42:46,356 - phyluce_snp_bwa_align - INFO - Building BAM for cheilotilapia-rhodessi-ID24
+2015-12-10 14:42:48,725 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cheilotilapia-rhodessi-ID24
+2015-12-10 14:42:50,648 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cheilotilapia-rhodessi-ID24
+2015-12-10 14:42:53,354 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cheilotilapia-rhodessi-ID24
+2015-12-10 14:42:57,731 - phyluce_snp_bwa_align - INFO - Merging BAMs for cheilotilapia-rhodessi-ID24
+2015-12-10 14:43:53,245 - phyluce_snp_bwa_align - INFO - ----------- Processing copadichromis-trimaculatus-ID18 ----------
+2015-12-10 14:43:53,246 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:43:53,247 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:43:53,249 - phyluce_snp_bwa_align - INFO - Building BAM for copadichromis-trimaculatus-ID18
+2015-12-10 14:44:47,748 - phyluce_snp_bwa_align - INFO - Cleaning BAM for copadichromis-trimaculatus-ID18
+2015-12-10 14:45:17,272 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for copadichromis-trimaculatus-ID18
+2015-12-10 14:46:02,150 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for copadichromis-trimaculatus-ID18
+2015-12-10 14:46:40,871 - phyluce_snp_bwa_align - INFO - Building BAM for copadichromis-trimaculatus-ID18
+2015-12-10 14:46:42,548 - phyluce_snp_bwa_align - INFO - Cleaning BAM for copadichromis-trimaculatus-ID18
+2015-12-10 14:46:44,047 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for copadichromis-trimaculatus-ID18
+2015-12-10 14:46:46,435 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for copadichromis-trimaculatus-ID18
+2015-12-10 14:46:50,268 - phyluce_snp_bwa_align - INFO - Merging BAMs for copadichromis-trimaculatus-ID18
+2015-12-10 14:47:27,331 - phyluce_snp_bwa_align - INFO - ------------ Processing cyathichromis-obliquidens-ID3 -----------
+2015-12-10 14:47:27,332 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:47:27,333 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:47:27,335 - phyluce_snp_bwa_align - INFO - Building BAM for cyathichromis-obliquidens-ID3
+2015-12-10 14:48:33,291 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cyathichromis-obliquidens-ID3
+2015-12-10 14:49:07,306 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cyathichromis-obliquidens-ID3
+2015-12-10 14:49:59,573 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cyathichromis-obliquidens-ID3
+2015-12-10 14:50:46,458 - phyluce_snp_bwa_align - INFO - Building BAM for cyathichromis-obliquidens-ID3
+2015-12-10 14:50:48,649 - phyluce_snp_bwa_align - INFO - Cleaning BAM for cyathichromis-obliquidens-ID3
+2015-12-10 14:50:50,411 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for cyathichromis-obliquidens-ID3
+2015-12-10 14:50:53,046 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for cyathichromis-obliquidens-ID3
+2015-12-10 14:50:57,381 - phyluce_snp_bwa_align - INFO - Merging BAMs for cyathichromis-obliquidens-ID3
+2015-12-10 14:51:41,620 - phyluce_snp_bwa_align - INFO - --------------- Processing docimodus-evelynae-ID10 --------------
+2015-12-10 14:51:41,620 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:51:41,621 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:51:41,624 - phyluce_snp_bwa_align - INFO - Building BAM for docimodus-evelynae-ID10
+2015-12-10 14:52:56,471 - phyluce_snp_bwa_align - INFO - Cleaning BAM for docimodus-evelynae-ID10
+2015-12-10 14:53:34,935 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for docimodus-evelynae-ID10
+2015-12-10 14:54:34,179 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for docimodus-evelynae-ID10
+2015-12-10 14:55:25,387 - phyluce_snp_bwa_align - INFO - Building BAM for docimodus-evelynae-ID10
+2015-12-10 14:55:27,590 - phyluce_snp_bwa_align - INFO - Cleaning BAM for docimodus-evelynae-ID10
+2015-12-10 14:55:29,356 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for docimodus-evelynae-ID10
+2015-12-10 14:55:31,964 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for docimodus-evelynae-ID10
+2015-12-10 14:55:36,226 - phyluce_snp_bwa_align - INFO - Merging BAMs for docimodus-evelynae-ID10
+2015-12-10 14:56:25,599 - phyluce_snp_bwa_align - INFO - ------------ Processing fossorichromis-rostratus-ID28 -----------
+2015-12-10 14:56:25,600 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:56:25,601 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:56:25,603 - phyluce_snp_bwa_align - INFO - Building BAM for fossorichromis-rostratus-ID28
+2015-12-10 14:57:17,917 - phyluce_snp_bwa_align - INFO - Cleaning BAM for fossorichromis-rostratus-ID28
+2015-12-10 14:57:45,703 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for fossorichromis-rostratus-ID28
+2015-12-10 14:58:29,158 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for fossorichromis-rostratus-ID28
+2015-12-10 14:59:06,296 - phyluce_snp_bwa_align - INFO - Building BAM for fossorichromis-rostratus-ID28
+2015-12-10 14:59:08,055 - phyluce_snp_bwa_align - INFO - Cleaning BAM for fossorichromis-rostratus-ID28
+2015-12-10 14:59:09,545 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for fossorichromis-rostratus-ID28
+2015-12-10 14:59:12,062 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for fossorichromis-rostratus-ID28
+2015-12-10 14:59:16,083 - phyluce_snp_bwa_align - INFO - Merging BAMs for fossorichromis-rostratus-ID28
+2015-12-10 14:59:51,307 - phyluce_snp_bwa_align - INFO - --------------- Processing genyochromis-mento-ID7 ---------------
+2015-12-10 14:59:51,307 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 14:59:51,309 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 14:59:51,311 - phyluce_snp_bwa_align - INFO - Building BAM for genyochromis-mento-ID7
+2015-12-10 15:01:07,047 - phyluce_snp_bwa_align - INFO - Cleaning BAM for genyochromis-mento-ID7
+2015-12-10 15:01:46,608 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for genyochromis-mento-ID7
+2015-12-10 15:02:47,074 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for genyochromis-mento-ID7
+2015-12-10 15:03:39,871 - phyluce_snp_bwa_align - INFO - Building BAM for genyochromis-mento-ID7
+2015-12-10 15:03:42,126 - phyluce_snp_bwa_align - INFO - Cleaning BAM for genyochromis-mento-ID7
+2015-12-10 15:03:44,169 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for genyochromis-mento-ID7
+2015-12-10 15:03:46,846 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for genyochromis-mento-ID7
+2015-12-10 15:03:51,237 - phyluce_snp_bwa_align - INFO - Merging BAMs for genyochromis-mento-ID7
+2015-12-10 15:04:41,567 - phyluce_snp_bwa_align - INFO - ------------ Processing hemitilapia-oxyrhynchus-ID15 ------------
+2015-12-10 15:04:41,568 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:04:41,569 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:04:41,573 - phyluce_snp_bwa_align - INFO - Building BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:06:00,660 - phyluce_snp_bwa_align - INFO - Cleaning BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:06:41,977 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:07:46,156 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:08:41,368 - phyluce_snp_bwa_align - INFO - Building BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:08:43,992 - phyluce_snp_bwa_align - INFO - Cleaning BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:08:45,878 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:08:48,532 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:08:53,086 - phyluce_snp_bwa_align - INFO - Merging BAMs for hemitilapia-oxyrhynchus-ID15
+2015-12-10 15:09:47,240 - phyluce_snp_bwa_align - INFO - ------------ Processing labeotropheus-fullbornei-ID8 ------------
+2015-12-10 15:09:47,241 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:09:47,242 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:09:47,244 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-fullbornei-ID8
+2015-12-10 15:11:10,720 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-fullbornei-ID8
+2015-12-10 15:11:53,910 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-fullbornei-ID8
+2015-12-10 15:12:59,950 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-fullbornei-ID8
+2015-12-10 15:13:57,986 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-fullbornei-ID8
+2015-12-10 15:14:00,366 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-fullbornei-ID8
+2015-12-10 15:14:02,185 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-fullbornei-ID8
+2015-12-10 15:14:04,839 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-fullbornei-ID8
+2015-12-10 15:14:09,233 - phyluce_snp_bwa_align - INFO - Merging BAMs for labeotropheus-fullbornei-ID8
+2015-12-10 15:15:04,306 - phyluce_snp_bwa_align - INFO - ------------- Processing labeotropheus-trewavase-ID6 ------------
+2015-12-10 15:15:04,306 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:15:04,307 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:15:04,309 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-trewavase-ID6
+2015-12-10 15:16:17,176 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-trewavase-ID6
+2015-12-10 15:16:55,744 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-trewavase-ID6
+2015-12-10 15:17:54,570 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-trewavase-ID6
+2015-12-10 15:18:45,996 - phyluce_snp_bwa_align - INFO - Building BAM for labeotropheus-trewavase-ID6
+2015-12-10 15:18:48,260 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labeotropheus-trewavase-ID6
+2015-12-10 15:18:50,074 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labeotropheus-trewavase-ID6
+2015-12-10 15:18:52,696 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labeotropheus-trewavase-ID6
+2015-12-10 15:18:57,141 - phyluce_snp_bwa_align - INFO - Merging BAMs for labeotropheus-trewavase-ID6
+2015-12-10 15:19:46,750 - phyluce_snp_bwa_align - INFO - -------------- Processing labidochromis-gigas-ID30 --------------
+2015-12-10 15:19:46,750 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:19:46,751 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:19:46,754 - phyluce_snp_bwa_align - INFO - Building BAM for labidochromis-gigas-ID30
+2015-12-10 15:20:49,153 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labidochromis-gigas-ID30
+2015-12-10 15:21:21,809 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labidochromis-gigas-ID30
+2015-12-10 15:22:11,791 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labidochromis-gigas-ID30
+2015-12-10 15:22:55,252 - phyluce_snp_bwa_align - INFO - Building BAM for labidochromis-gigas-ID30
+2015-12-10 15:22:57,298 - phyluce_snp_bwa_align - INFO - Cleaning BAM for labidochromis-gigas-ID30
+2015-12-10 15:22:58,950 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for labidochromis-gigas-ID30
+2015-12-10 15:23:01,399 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for labidochromis-gigas-ID30
+2015-12-10 15:23:05,504 - phyluce_snp_bwa_align - INFO - Merging BAMs for labidochromis-gigas-ID30
+2015-12-10 15:23:46,843 - phyluce_snp_bwa_align - INFO - -------------- Processing melanochromis-auratus-ID4 -------------
+2015-12-10 15:23:46,844 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:23:46,845 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:23:46,848 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-auratus-ID4
+2015-12-10 15:25:07,853 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-auratus-ID4
+2015-12-10 15:25:50,730 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-auratus-ID4
+2015-12-10 15:26:55,786 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-auratus-ID4
+2015-12-10 15:27:51,794 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-auratus-ID4
+2015-12-10 15:27:54,447 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-auratus-ID4
+2015-12-10 15:27:56,460 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-auratus-ID4
+2015-12-10 15:27:59,316 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-auratus-ID4
+2015-12-10 15:28:03,901 - phyluce_snp_bwa_align - INFO - Merging BAMs for melanochromis-auratus-ID4
+2015-12-10 15:28:57,603 - phyluce_snp_bwa_align - INFO - ------------ Processing melanochromis-kaskazini-ID33 ------------
+2015-12-10 15:28:57,604 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:28:57,605 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:28:57,607 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-kaskazini-ID33
+2015-12-10 15:30:12,331 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-kaskazini-ID33
+2015-12-10 15:30:51,134 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-kaskazini-ID33
+2015-12-10 15:31:50,506 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-kaskazini-ID33
+2015-12-10 15:32:41,981 - phyluce_snp_bwa_align - INFO - Building BAM for melanochromis-kaskazini-ID33
+2015-12-10 15:32:44,225 - phyluce_snp_bwa_align - INFO - Cleaning BAM for melanochromis-kaskazini-ID33
+2015-12-10 15:32:45,982 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for melanochromis-kaskazini-ID33
+2015-12-10 15:32:48,427 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for melanochromis-kaskazini-ID33
+2015-12-10 15:32:52,651 - phyluce_snp_bwa_align - INFO - Merging BAMs for melanochromis-kaskazini-ID33
+2015-12-10 15:33:42,918 - phyluce_snp_bwa_align - INFO - ------------- Processing metriaclima-greshakae-ID11 -------------
+2015-12-10 15:33:42,919 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:33:42,920 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:33:42,923 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-greshakae-ID11
+2015-12-10 15:35:00,107 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-greshakae-ID11
+2015-12-10 15:35:40,378 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-greshakae-ID11
+2015-12-10 15:36:42,369 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-greshakae-ID11
+2015-12-10 15:37:36,394 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-greshakae-ID11
+2015-12-10 15:37:38,677 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-greshakae-ID11
+2015-12-10 15:37:40,652 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-greshakae-ID11
+2015-12-10 15:37:43,346 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-greshakae-ID11
+2015-12-10 15:37:47,774 - phyluce_snp_bwa_align - INFO - Merging BAMs for metriaclima-greshakae-ID11
+2015-12-10 15:38:39,458 - phyluce_snp_bwa_align - INFO - -------------- Processing metriaclima-patricki-ID22 -------------
+2015-12-10 15:38:39,458 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:38:39,459 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:38:39,462 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-patricki-ID22
+2015-12-10 15:39:55,717 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-patricki-ID22
+2015-12-10 15:40:35,399 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-patricki-ID22
+2015-12-10 15:41:36,734 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-patricki-ID22
+2015-12-10 15:42:29,537 - phyluce_snp_bwa_align - INFO - Building BAM for metriaclima-patricki-ID22
+2015-12-10 15:42:31,689 - phyluce_snp_bwa_align - INFO - Cleaning BAM for metriaclima-patricki-ID22
+2015-12-10 15:42:33,447 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for metriaclima-patricki-ID22
+2015-12-10 15:42:36,301 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for metriaclima-patricki-ID22
+2015-12-10 15:42:40,610 - phyluce_snp_bwa_align - INFO - Merging BAMs for metriaclima-patricki-ID22
+2015-12-10 15:43:32,278 - phyluce_snp_bwa_align - INFO - ------------- Processing nimbochromis-polystigma-ID2 ------------
+2015-12-10 15:43:32,278 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:43:32,279 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:43:32,282 - phyluce_snp_bwa_align - INFO - Building BAM for nimbochromis-polystigma-ID2
+2015-12-10 15:44:49,448 - phyluce_snp_bwa_align - INFO - Cleaning BAM for nimbochromis-polystigma-ID2
+2015-12-10 15:45:30,348 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for nimbochromis-polystigma-ID2
+2015-12-10 15:46:31,642 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for nimbochromis-polystigma-ID2
+2015-12-10 15:47:25,534 - phyluce_snp_bwa_align - INFO - Building BAM for nimbochromis-polystigma-ID2
+2015-12-10 15:47:27,864 - phyluce_snp_bwa_align - INFO - Cleaning BAM for nimbochromis-polystigma-ID2
+2015-12-10 15:47:29,691 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for nimbochromis-polystigma-ID2
+2015-12-10 15:47:32,290 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for nimbochromis-polystigma-ID2
+2015-12-10 15:47:36,696 - phyluce_snp_bwa_align - INFO - Merging BAMs for nimbochromis-polystigma-ID2
+2015-12-10 15:48:28,676 - phyluce_snp_bwa_align - INFO - -------------- Processing otopharynx-heterodon-ID13 -------------
+2015-12-10 15:48:28,676 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:48:28,677 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:48:28,680 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-heterodon-ID13
+2015-12-10 15:49:39,495 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-heterodon-ID13
+2015-12-10 15:50:16,372 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-heterodon-ID13
+2015-12-10 15:51:13,462 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-heterodon-ID13
+2015-12-10 15:52:02,555 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-heterodon-ID13
+2015-12-10 15:52:04,728 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-heterodon-ID13
+2015-12-10 15:52:06,421 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-heterodon-ID13
+2015-12-10 15:52:08,883 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-heterodon-ID13
+2015-12-10 15:52:13,202 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-heterodon-ID13
+2015-12-10 15:53:00,387 - phyluce_snp_bwa_align - INFO - ------------- Processing otopharynx-lithobates-ID16 -------------
+2015-12-10 15:53:00,387 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:53:00,388 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:53:00,390 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-lithobates-ID16
+2015-12-10 15:54:04,745 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-lithobates-ID16
+2015-12-10 15:54:38,896 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-lithobates-ID16
+2015-12-10 15:55:30,872 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-lithobates-ID16
+2015-12-10 15:56:15,723 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-lithobates-ID16
+2015-12-10 15:56:17,716 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-lithobates-ID16
+2015-12-10 15:56:19,345 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-lithobates-ID16
+2015-12-10 15:56:21,657 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-lithobates-ID16
+2015-12-10 15:56:25,922 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-lithobates-ID16
+2015-12-10 15:57:09,067 - phyluce_snp_bwa_align - INFO - ---------------- Processing otopharynx-picta-ID14 ---------------
+2015-12-10 15:57:09,068 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 15:57:09,068 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 15:57:09,071 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-picta-ID14
+2015-12-10 15:58:11,592 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-picta-ID14
+2015-12-10 15:58:44,712 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-picta-ID14
+2015-12-10 15:59:34,846 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-picta-ID14
+2015-12-10 16:00:19,005 - phyluce_snp_bwa_align - INFO - Building BAM for otopharynx-picta-ID14
+2015-12-10 16:00:20,924 - phyluce_snp_bwa_align - INFO - Cleaning BAM for otopharynx-picta-ID14
+2015-12-10 16:00:22,605 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for otopharynx-picta-ID14
+2015-12-10 16:00:25,156 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for otopharynx-picta-ID14
+2015-12-10 16:00:29,281 - phyluce_snp_bwa_align - INFO - Merging BAMs for otopharynx-picta-ID14
+2015-12-10 16:01:11,914 - phyluce_snp_bwa_align - INFO - --------------- Processing petrotilapia-nigra-ID9 ---------------
+2015-12-10 16:01:11,915 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:01:11,916 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:01:11,919 - phyluce_snp_bwa_align - INFO - Building BAM for petrotilapia-nigra-ID9
+2015-12-10 16:02:31,066 - phyluce_snp_bwa_align - INFO - Cleaning BAM for petrotilapia-nigra-ID9
+2015-12-10 16:03:12,711 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for petrotilapia-nigra-ID9
+2015-12-10 16:04:15,711 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for petrotilapia-nigra-ID9
+2015-12-10 16:05:10,873 - phyluce_snp_bwa_align - INFO - Building BAM for petrotilapia-nigra-ID9
+2015-12-10 16:05:13,513 - phyluce_snp_bwa_align - INFO - Cleaning BAM for petrotilapia-nigra-ID9
+2015-12-10 16:05:15,443 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for petrotilapia-nigra-ID9
+2015-12-10 16:05:18,184 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for petrotilapia-nigra-ID9
+2015-12-10 16:05:22,667 - phyluce_snp_bwa_align - INFO - Merging BAMs for petrotilapia-nigra-ID9
+2015-12-10 16:06:15,767 - phyluce_snp_bwa_align - INFO - ------------- Processing placidochromis-electra-ID21 ------------
+2015-12-10 16:06:15,767 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:06:15,768 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:06:15,771 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-electra-ID21
+2015-12-10 16:07:28,673 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-electra-ID21
+2015-12-10 16:08:06,572 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-electra-ID21
+2015-12-10 16:09:04,507 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-electra-ID21
+2015-12-10 16:09:55,205 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-electra-ID21
+2015-12-10 16:09:57,339 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-electra-ID21
+2015-12-10 16:09:59,071 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-electra-ID21
+2015-12-10 16:10:01,385 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-electra-ID21
+2015-12-10 16:10:05,623 - phyluce_snp_bwa_align - INFO - Merging BAMs for placidochromis-electra-ID21
+2015-12-10 16:10:54,293 - phyluce_snp_bwa_align - INFO - ------------- Processing placidochromis-milomo-ID17 -------------
+2015-12-10 16:10:54,294 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:10:54,295 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:10:54,297 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-milomo-ID17
+2015-12-10 16:11:54,115 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-milomo-ID17
+2015-12-10 16:12:26,181 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-milomo-ID17
+2015-12-10 16:13:15,186 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-milomo-ID17
+2015-12-10 16:13:58,028 - phyluce_snp_bwa_align - INFO - Building BAM for placidochromis-milomo-ID17
+2015-12-10 16:13:59,744 - phyluce_snp_bwa_align - INFO - Cleaning BAM for placidochromis-milomo-ID17
+2015-12-10 16:14:01,263 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for placidochromis-milomo-ID17
+2015-12-10 16:14:03,458 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for placidochromis-milomo-ID17
+2015-12-10 16:14:07,406 - phyluce_snp_bwa_align - INFO - Merging BAMs for placidochromis-milomo-ID17
+2015-12-10 16:14:47,874 - phyluce_snp_bwa_align - INFO - -------------- Processing psedotropheus-crabro-ID27 -------------
+2015-12-10 16:14:47,875 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:14:47,876 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:14:47,879 - phyluce_snp_bwa_align - INFO - Building BAM for psedotropheus-crabro-ID27
+2015-12-10 16:15:49,022 - phyluce_snp_bwa_align - INFO - Cleaning BAM for psedotropheus-crabro-ID27
+2015-12-10 16:16:21,463 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for psedotropheus-crabro-ID27
+2015-12-10 16:17:10,888 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for psedotropheus-crabro-ID27
+2015-12-10 16:17:54,527 - phyluce_snp_bwa_align - INFO - Building BAM for psedotropheus-crabro-ID27
+2015-12-10 16:17:56,450 - phyluce_snp_bwa_align - INFO - Cleaning BAM for psedotropheus-crabro-ID27
+2015-12-10 16:17:58,250 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for psedotropheus-crabro-ID27
+2015-12-10 16:18:00,575 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for psedotropheus-crabro-ID27
+2015-12-10 16:18:04,686 - phyluce_snp_bwa_align - INFO - Merging BAMs for psedotropheus-crabro-ID27
+2015-12-10 16:18:46,383 - phyluce_snp_bwa_align - INFO - ------------- Processing pseudotropheus-flavus-ID19 -------------
+2015-12-10 16:18:46,384 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:18:46,385 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:18:46,386 - phyluce_snp_bwa_align - INFO - Building BAM for pseudotropheus-flavus-ID19
+2015-12-10 16:19:58,836 - phyluce_snp_bwa_align - INFO - Cleaning BAM for pseudotropheus-flavus-ID19
+2015-12-10 16:20:36,518 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for pseudotropheus-flavus-ID19
+2015-12-10 16:21:34,339 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for pseudotropheus-flavus-ID19
+2015-12-10 16:22:24,869 - phyluce_snp_bwa_align - INFO - Building BAM for pseudotropheus-flavus-ID19
+2015-12-10 16:22:26,842 - phyluce_snp_bwa_align - INFO - Cleaning BAM for pseudotropheus-flavus-ID19
+2015-12-10 16:22:28,528 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for pseudotropheus-flavus-ID19
+2015-12-10 16:22:31,011 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for pseudotropheus-flavus-ID19
+2015-12-10 16:22:35,211 - phyluce_snp_bwa_align - INFO - Merging BAMs for pseudotropheus-flavus-ID19
+2015-12-10 16:23:23,227 - phyluce_snp_bwa_align - INFO - ------------ Processing rhamphochromis-longiceps-ID81 -----------
+2015-12-10 16:23:23,227 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:23:23,228 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:23:23,231 - phyluce_snp_bwa_align - INFO - Building BAM for rhamphochromis-longiceps-ID81
+2015-12-10 16:24:37,525 - phyluce_snp_bwa_align - INFO - Cleaning BAM for rhamphochromis-longiceps-ID81
+2015-12-10 16:25:15,991 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for rhamphochromis-longiceps-ID81
+2015-12-10 16:26:15,062 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for rhamphochromis-longiceps-ID81
+2015-12-10 16:27:06,671 - phyluce_snp_bwa_align - INFO - Building BAM for rhamphochromis-longiceps-ID81
+2015-12-10 16:27:09,022 - phyluce_snp_bwa_align - INFO - Cleaning BAM for rhamphochromis-longiceps-ID81
+2015-12-10 16:27:10,838 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for rhamphochromis-longiceps-ID81
+2015-12-10 16:27:13,352 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for rhamphochromis-longiceps-ID81
+2015-12-10 16:27:17,765 - phyluce_snp_bwa_align - INFO - Merging BAMs for rhamphochromis-longiceps-ID81
+2015-12-10 16:28:07,217 - phyluce_snp_bwa_align - INFO - -------------- Processing simochromis-babaulti-ID48 -------------
+2015-12-10 16:28:07,217 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:28:07,219 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:28:07,221 - phyluce_snp_bwa_align - INFO - Building BAM for simochromis-babaulti-ID48
+2015-12-10 16:29:10,284 - phyluce_snp_bwa_align - INFO - Cleaning BAM for simochromis-babaulti-ID48
+2015-12-10 16:29:43,477 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for simochromis-babaulti-ID48
+2015-12-10 16:30:33,939 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for simochromis-babaulti-ID48
+2015-12-10 16:31:18,463 - phyluce_snp_bwa_align - INFO - Building BAM for simochromis-babaulti-ID48
+2015-12-10 16:31:20,032 - phyluce_snp_bwa_align - INFO - Cleaning BAM for simochromis-babaulti-ID48
+2015-12-10 16:31:21,454 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for simochromis-babaulti-ID48
+2015-12-10 16:31:23,813 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for simochromis-babaulti-ID48
+2015-12-10 16:31:27,748 - phyluce_snp_bwa_align - INFO - Merging BAMs for simochromis-babaulti-ID48
+2015-12-10 16:32:09,721 - phyluce_snp_bwa_align - INFO - ------------- Processing stigmatochromis-woodei-ID20 ------------
+2015-12-10 16:32:09,721 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:32:09,722 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:32:09,725 - phyluce_snp_bwa_align - INFO - Building BAM for stigmatochromis-woodei-ID20
+2015-12-10 16:33:23,157 - phyluce_snp_bwa_align - INFO - Cleaning BAM for stigmatochromis-woodei-ID20
+2015-12-10 16:34:01,569 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for stigmatochromis-woodei-ID20
+2015-12-10 16:35:00,304 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for stigmatochromis-woodei-ID20
+2015-12-10 16:35:50,709 - phyluce_snp_bwa_align - INFO - Building BAM for stigmatochromis-woodei-ID20
+2015-12-10 16:35:52,906 - phyluce_snp_bwa_align - INFO - Cleaning BAM for stigmatochromis-woodei-ID20
+2015-12-10 16:35:54,660 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for stigmatochromis-woodei-ID20
+2015-12-10 16:35:57,092 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for stigmatochromis-woodei-ID20
+2015-12-10 16:36:01,358 - phyluce_snp_bwa_align - INFO - Merging BAMs for stigmatochromis-woodei-ID20
+2015-12-10 16:36:50,819 - phyluce_snp_bwa_align - INFO - --------- Processing taeniolethrinops-preorbitalis-ID29 ---------
+2015-12-10 16:36:50,819 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:36:50,820 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:36:50,823 - phyluce_snp_bwa_align - INFO - Building BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:37:47,499 - phyluce_snp_bwa_align - INFO - Cleaning BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:38:16,575 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:39:01,915 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:39:41,392 - phyluce_snp_bwa_align - INFO - Building BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:39:43,303 - phyluce_snp_bwa_align - INFO - Cleaning BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:39:45,095 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:39:47,395 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:39:51,624 - phyluce_snp_bwa_align - INFO - Merging BAMs for taeniolethrinops-preorbitalis-ID29
+2015-12-10 16:40:29,531 - phyluce_snp_bwa_align - INFO - -------------- Processing tropheops-microstoma-ID1 --------------
+2015-12-10 16:40:29,531 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:40:29,532 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:40:29,535 - phyluce_snp_bwa_align - INFO - Building BAM for tropheops-microstoma-ID1
+2015-12-10 16:41:45,566 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tropheops-microstoma-ID1
+2015-12-10 16:42:25,004 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tropheops-microstoma-ID1
+2015-12-10 16:43:25,401 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tropheops-microstoma-ID1
+2015-12-10 16:44:18,167 - phyluce_snp_bwa_align - INFO - Building BAM for tropheops-microstoma-ID1
+2015-12-10 16:44:20,201 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tropheops-microstoma-ID1
+2015-12-10 16:44:21,822 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tropheops-microstoma-ID1
+2015-12-10 16:44:24,238 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tropheops-microstoma-ID1
+2015-12-10 16:44:28,299 - phyluce_snp_bwa_align - INFO - Merging BAMs for tropheops-microstoma-ID1
+2015-12-10 16:45:18,407 - phyluce_snp_bwa_align - INFO - ----------- Processing tyrannochromis-nigriventer-ID5 -----------
+2015-12-10 16:45:18,408 - phyluce_snp_bwa_align - INFO - Finding fastq/fasta files
+2015-12-10 16:45:18,409 - phyluce_snp_bwa_align - INFO - File type is fastq
+2015-12-10 16:45:18,411 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-10 16:46:42,756 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-10 16:47:26,537 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tyrannochromis-nigriventer-ID5
+2015-12-10 16:48:33,500 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tyrannochromis-nigriventer-ID5
+2015-12-10 16:49:31,275 - phyluce_snp_bwa_align - INFO - Building BAM for tyrannochromis-nigriventer-ID5
+2015-12-10 16:49:33,505 - phyluce_snp_bwa_align - INFO - Cleaning BAM for tyrannochromis-nigriventer-ID5
+2015-12-10 16:49:35,308 - phyluce_snp_bwa_align - INFO - Adding RG header to BAM for tyrannochromis-nigriventer-ID5
+2015-12-10 16:49:37,903 - phyluce_snp_bwa_align - INFO - Marking read duplicates from BAM for tyrannochromis-nigriventer-ID5
+2015-12-10 16:49:42,366 - phyluce_snp_bwa_align - INFO - Merging BAMs for tyrannochromis-nigriventer-ID5
+2015-12-10 16:50:37,632 - phyluce_snp_bwa_align - INFO - ================ Completed phyluce_snp_bwa_align ================

@@ -1,0 +1,26 @@
+2015-12-07 20:50:00,235 - phyluce_align_format_nexus_files_for_raxml - INFO - ====== Starting phyluce_align_format_nexus_files_for_raxml ======
+2015-12-07 20:50:00,235 - phyluce_align_format_nexus_files_for_raxml - INFO - Version: 1.5.0
+2015-12-07 20:50:00,235 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --alignments: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-75p
+2015-12-07 20:50:00,236 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --charsets: True
+2015-12-07 20:50:00,236 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-07 20:50:00,236 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --nexus: False
+2015-12-07 20:50:00,236 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-75p-raxml
+2015-12-07 20:50:00,236 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --verbosity: INFO
+2015-12-07 20:50:00,236 - phyluce_align_format_nexus_files_for_raxml - INFO - Reading input alignments in NEXUS format
+2015-12-07 20:50:07,855 - phyluce_align_format_nexus_files_for_raxml - INFO - Concatenating files
+2015-12-07 20:50:11,922 - phyluce_align_format_nexus_files_for_raxml - INFO - Writing charsets to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-75p-raxml/mafft-gblocks-75p.charsets
+2015-12-07 20:50:11,923 - phyluce_align_format_nexus_files_for_raxml - INFO - Writing concatenated PHYLIP alignment to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-75p-raxml/mafft-gblocks-75p.phylip
+2015-12-07 20:50:11,942 - phyluce_align_format_nexus_files_for_raxml - INFO - ====== Completed phyluce_align_format_nexus_files_for_raxml =====
+2015-12-07 20:50:16,045 - phyluce_align_format_nexus_files_for_raxml - INFO - ====== Starting phyluce_align_format_nexus_files_for_raxml ======
+2015-12-07 20:50:16,045 - phyluce_align_format_nexus_files_for_raxml - INFO - Version: 1.5.0
+2015-12-07 20:50:16,045 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --alignments: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-95p
+2015-12-07 20:50:16,046 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --charsets: True
+2015-12-07 20:50:16,046 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-07 20:50:16,046 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --nexus: False
+2015-12-07 20:50:16,046 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml
+2015-12-07 20:50:16,046 - phyluce_align_format_nexus_files_for_raxml - INFO - Argument --verbosity: INFO
+2015-12-07 20:50:16,046 - phyluce_align_format_nexus_files_for_raxml - INFO - Reading input alignments in NEXUS format
+2015-12-07 20:50:23,304 - phyluce_align_format_nexus_files_for_raxml - INFO - Concatenating files
+2015-12-07 20:50:26,153 - phyluce_align_format_nexus_files_for_raxml - INFO - Writing charsets to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml/mafft-gblocks-95p.charsets
+2015-12-07 20:50:26,153 - phyluce_align_format_nexus_files_for_raxml - INFO - Writing concatenated PHYLIP alignment to /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-gblocks-clean-95p-raxml/mafft-gblocks-95p.phylip
+2015-12-07 20:50:26,171 - phyluce_align_format_nexus_files_for_raxml - INFO - ====== Completed phyluce_align_format_nexus_files_for_raxml =====

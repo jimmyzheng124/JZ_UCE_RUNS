@@ -1,0 +1,19 @@
+2015-12-07 20:45:52,494 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO -  Starting phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed 
+2015-12-07 20:45:52,494 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Version: 1.5.0
+2015-12-07 20:45:52,494 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --alignments: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-untrimmed
+2015-12-07 20:45:52,494 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --b1: 0.5
+2015-12-07 20:45:52,495 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --b2: 0.85
+2015-12-07 20:45:52,495 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --b3: 8
+2015-12-07 20:45:52,495 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --b4: 8
+2015-12-07 20:45:52,495 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --cores: 12
+2015-12-07 20:45:52,495 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --input_format: fasta
+2015-12-07 20:45:52,495 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-07 20:45:52,496 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/mafft-untrimmed-gblocks
+2015-12-07 20:45:52,496 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --output_format: nexus
+2015-12-07 20:45:52,496 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Argument --verbosity: INFO
+2015-12-07 20:45:52,496 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO -  Starting phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed 
+2015-12-07 20:45:52,496 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Getting aligned sequences for trimming
+2015-12-07 20:45:52,506 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Alignment trimming begins.
+2015-12-07 20:45:55,561 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Alignment trimming ends
+2015-12-07 20:45:55,561 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO - Writing output files
+2015-12-07 20:45:57,157 - phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed - INFO -  Completed phyluce_align_get_gblocks_trimmed_alignments_from_untrimmed 

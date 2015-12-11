@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf cichlids-Q30-QD2-LOW-STRICT.vcf
+	--max-missing 0.75
+	--out Q30-QD2-MISS_0.75
+	--recode
+	--remove-filtered-all
+
+After filtering, kept 36 out of 36 Individuals
+Outputting VCF file...
+After filtering, kept 13698 out of a possible 20259 Sites
+Run Time = 2.00 seconds

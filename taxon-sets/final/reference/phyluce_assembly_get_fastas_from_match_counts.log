@@ -1,0 +1,17 @@
+2015-12-09 01:31:44,209 - phyluce_assembly_get_fastas_from_match_counts - INFO - ===== Starting phyluce_assembly_get_fastas_from_match_counts ====
+2015-12-09 01:31:44,209 - phyluce_assembly_get_fastas_from_match_counts - INFO - Version: 1.5.0
+2015-12-09 01:31:44,209 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --contigs: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL/contigs
+2015-12-09 01:31:44,210 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --extend_locus_contigs: None
+2015-12-09 01:31:44,210 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --extend_locus_db: None
+2015-12-09 01:31:44,210 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --incomplete_matrix: False
+2015-12-09 01:31:44,210 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-09 01:31:44,210 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --log_path: None
+2015-12-09 01:31:44,210 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --match_count_output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/one/tyrannochromis-nigriventer.conf
+2015-12-09 01:31:44,211 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/one/tyrannochromis-nigriventer.fasta
+2015-12-09 01:31:44,211 - phyluce_assembly_get_fastas_from_match_counts - INFO - Argument --verbosity: INFO
+2015-12-09 01:31:44,223 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1 taxa in the match-count-config file named tyrannochromis-nigriventer.conf
+2015-12-09 01:31:44,226 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1039 shared UCE loci in a COMPLETE matrix
+2015-12-09 01:31:44,227 - phyluce_assembly_get_fastas_from_match_counts - INFO - -------Getting UCE loci for tyrannochromis_nigriventer_ID5-------
+2015-12-09 01:31:45,575 - phyluce_assembly_get_fastas_from_match_counts - INFO - There are 1039 UCE loci for tyrannochromis_nigriventer_ID5
+2015-12-09 01:31:45,575 - phyluce_assembly_get_fastas_from_match_counts - INFO - Parsing and renaming contigs for tyrannochromis_nigriventer_ID5
+2015-12-09 01:32:26,729 - phyluce_assembly_get_fastas_from_match_counts - INFO - ==== Completed phyluce_assembly_get_fastas_from_match_counts ====

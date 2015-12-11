@@ -1,0 +1,648 @@
+2015-12-07 20:30:39,397 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - == Starting phyluce_assembly_get_trinity_coverage_for_uce_loci ==
+2015-12-07 20:30:39,398 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Version: 1.5.0
+2015-12-07 20:30:39,398 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --assemblies: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-07 20:30:39,398 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --exclude: None
+2015-12-07 20:30:39,398 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-07 20:30:39,398 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-07 20:30:39,398 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --match_count_output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.conf
+2015-12-07 20:30:39,398 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/uce-coverage-info
+2015-12-07 20:30:39,399 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --resume: None
+2015-12-07 20:30:39,399 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --type: untrimmed
+2015-12-07 20:30:39,399 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --verbosity: INFO
+2015-12-07 20:30:39,399 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Creating the output directory
+2015-12-07 20:30:39,399 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching input filenames
+2015-12-07 20:30:39,400 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching loci from all-taxa-incomplete.conf
+2015-12-07 20:30:39,416 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-07 20:30:39,417 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-07 20:30:39,431 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-07 20:31:25,730 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-07 20:31:25,776 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for aristochromis-christiae-ID25
+2015-12-07 20:31:37,402 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 692.9, mean trimmed coverage = 41.6x, on-target bases (uce contigs) = 28.4%, unique reads aligned (all contigs) = 34.0%
+2015-12-07 20:31:37,403 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing astatotilapia-burtoni-ID32 -------------
+2015-12-07 20:31:37,404 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-07 20:31:37,424 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-07 20:32:11,186 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-07 20:32:11,254 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for astatotilapia-burtoni-ID32
+2015-12-07 20:32:21,060 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1048 contigs, mean trimmed length = 630.7, mean trimmed coverage = 36.2x, on-target bases (uce contigs) = 33.1%, unique reads aligned (all contigs) = 30.3%
+2015-12-07 20:32:21,061 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing aulonocara-stuartgranti-ID26 ------------
+2015-12-07 20:32:21,061 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-07 20:32:21,072 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-07 20:33:04,008 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-07 20:33:04,040 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for aulonocara-stuartgranti-ID26
+2015-12-07 20:33:13,498 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 649.1, mean trimmed coverage = 30.8x, on-target bases (uce contigs) = 29.8%, unique reads aligned (all contigs) = 30.6%
+2015-12-07 20:33:13,498 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------------- Processing bathybates-minor-ID90 ---------------
+2015-12-07 20:33:13,498 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-07 20:33:13,509 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-07 20:33:46,086 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-07 20:33:46,119 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for bathybates-minor-ID90
+2015-12-07 20:33:55,668 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1045 contigs, mean trimmed length = 668.3, mean trimmed coverage = 36.4x, on-target bases (uce contigs) = 33.5%, unique reads aligned (all contigs) = 31.1%
+2015-12-07 20:33:55,668 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------- Processing boulengerochromis-microlepis-ID79 ---------
+2015-12-07 20:33:55,668 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-07 20:33:55,679 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-07 20:34:37,459 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-07 20:34:37,502 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for boulengerochromis-microlepis-ID79
+2015-12-07 20:34:49,549 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1045 contigs, mean trimmed length = 690.8, mean trimmed coverage = 35.1x, on-target bases (uce contigs) = 33.1%, unique reads aligned (all contigs) = 30.2%
+2015-12-07 20:34:49,550 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing capidochromis-eucinostomus-ID12 ----------
+2015-12-07 20:34:49,550 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-07 20:34:49,563 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 21:28:56,013 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - == Starting phyluce_assembly_get_trinity_coverage_for_uce_loci ==
+2015-12-08 21:28:56,013 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Version: 1.5.0
+2015-12-08 21:28:56,014 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --assemblies: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-08 21:28:56,014 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --exclude: None
+2015-12-08 21:28:56,014 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-08 21:28:56,015 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-08 21:28:56,015 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --match_count_output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.conf
+2015-12-08 21:28:56,015 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/uce-coverage-info
+2015-12-08 21:28:56,015 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --resume: None
+2015-12-08 21:28:56,016 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --type: untrimmed
+2015-12-08 21:28:56,016 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --verbosity: INFO
+2015-12-08 21:28:56,016 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Creating the output directory
+2015-12-08 21:28:56,016 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching input filenames
+2015-12-08 21:28:56,018 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching loci from all-taxa-incomplete.conf
+2015-12-08 21:28:56,041 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-08 21:28:56,042 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 21:28:56,060 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 21:29:42,811 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 21:29:42,858 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for aristochromis-christiae-ID25
+2015-12-08 21:29:56,061 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 692.9, mean trimmed coverage = 41.6x, on-target bases (uce contigs) = 28.4%, unique reads aligned (all contigs) = 34.0%
+2015-12-08 21:29:56,062 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing astatotilapia-burtoni-ID32 -------------
+2015-12-08 21:29:56,062 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 21:29:56,077 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 21:53:32,442 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - == Starting phyluce_assembly_get_trinity_coverage_for_uce_loci ==
+2015-12-08 21:53:32,442 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Version: 1.5.0
+2015-12-08 21:53:32,443 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --assemblies: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-08 21:53:32,443 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --exclude: None
+2015-12-08 21:53:32,443 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-08 21:53:32,444 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-08 21:53:32,444 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --match_count_output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.conf
+2015-12-08 21:53:32,444 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/uce-coverage-info
+2015-12-08 21:53:32,444 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --resume: None
+2015-12-08 21:53:32,444 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --type: untrimmed
+2015-12-08 21:53:32,445 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --verbosity: INFO
+2015-12-08 21:53:32,445 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Creating the output directory
+2015-12-08 21:53:32,445 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching input filenames
+2015-12-08 21:53:32,447 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching loci from all-taxa-incomplete.conf
+2015-12-08 21:53:32,474 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-08 21:53:32,474 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 21:53:32,494 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 21:54:19,713 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 21:54:19,759 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for aristochromis-christiae-ID25
+2015-12-08 21:54:32,079 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 692.9, mean trimmed coverage = 41.6x, on-target bases (uce contigs) = 28.4%, unique reads aligned (all contigs) = 34.0%
+2015-12-08 21:54:32,080 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing astatotilapia-burtoni-ID32 -------------
+2015-12-08 21:54:32,080 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 21:54:32,092 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:26:11,276 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - == Starting phyluce_assembly_get_trinity_coverage_for_uce_loci ==
+2015-12-08 23:26:11,276 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Version: 1.5.0
+2015-12-08 23:26:11,277 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --assemblies: /home/jimmyzheng/JZ_UCE_RUNS/trinity-assemblies-FINAL
+2015-12-08 23:26:11,277 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --exclude: None
+2015-12-08 23:26:11,277 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --locus_db: /home/jimmyzheng/JZ_UCE_RUNS/cichlid-lastz/probe.matches.sqlite
+2015-12-08 23:26:11,278 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --log_path: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/log
+2015-12-08 23:26:11,278 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --match_count_output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/all-taxa-incomplete.conf
+2015-12-08 23:26:11,278 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --output: /home/jimmyzheng/JZ_UCE_RUNS/taxon-sets/final/uce-coverage-info
+2015-12-08 23:26:11,278 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --resume: None
+2015-12-08 23:26:11,279 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --type: untrimmed
+2015-12-08 23:26:11,279 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Argument --verbosity: INFO
+2015-12-08 23:26:11,279 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Creating the output directory
+2015-12-08 23:26:11,280 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching input filenames
+2015-12-08 23:26:11,281 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching loci from all-taxa-incomplete.conf
+2015-12-08 23:26:11,310 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing aristochromis-christiae-ID25 ------------
+2015-12-08 23:26:11,310 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:26:11,331 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:27:01,931 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:27:01,982 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for aristochromis-christiae-ID25
+2015-12-08 23:27:14,583 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 692.9, mean trimmed coverage = 41.6x, on-target bases (uce contigs) = 28.4%, unique reads aligned (all contigs) = 34.0%
+2015-12-08 23:27:14,584 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing astatotilapia-burtoni-ID32 -------------
+2015-12-08 23:27:14,584 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:27:14,595 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:27:48,589 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:27:48,624 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for astatotilapia-burtoni-ID32
+2015-12-08 23:27:58,513 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1048 contigs, mean trimmed length = 630.7, mean trimmed coverage = 36.2x, on-target bases (uce contigs) = 33.1%, unique reads aligned (all contigs) = 30.3%
+2015-12-08 23:27:58,514 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing aulonocara-stuartgranti-ID26 ------------
+2015-12-08 23:27:58,514 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:27:58,526 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:28:36,383 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:28:36,423 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for aulonocara-stuartgranti-ID26
+2015-12-08 23:28:46,191 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 649.1, mean trimmed coverage = 30.8x, on-target bases (uce contigs) = 29.8%, unique reads aligned (all contigs) = 30.6%
+2015-12-08 23:28:46,192 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------------- Processing bathybates-minor-ID90 ---------------
+2015-12-08 23:28:46,192 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:28:46,204 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:29:27,279 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:29:27,320 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for bathybates-minor-ID90
+2015-12-08 23:29:37,167 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1045 contigs, mean trimmed length = 668.3, mean trimmed coverage = 36.4x, on-target bases (uce contigs) = 33.5%, unique reads aligned (all contigs) = 31.1%
+2015-12-08 23:29:37,168 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------- Processing boulengerochromis-microlepis-ID79 ---------
+2015-12-08 23:29:37,168 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:29:37,179 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:30:16,830 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:30:16,874 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for boulengerochromis-microlepis-ID79
+2015-12-08 23:30:27,228 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1045 contigs, mean trimmed length = 690.8, mean trimmed coverage = 35.1x, on-target bases (uce contigs) = 33.1%, unique reads aligned (all contigs) = 30.2%
+2015-12-08 23:30:27,228 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing capidochromis-eucinostomus-ID12 ----------
+2015-12-08 23:30:27,229 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:30:27,241 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:31:20,956 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:31:21,007 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for capidochromis-eucinostomus-ID12
+2015-12-08 23:31:33,822 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1027 contigs, mean trimmed length = 756.4, mean trimmed coverage = 38.3x, on-target bases (uce contigs) = 28.6%, unique reads aligned (all contigs) = 30.8%
+2015-12-08 23:31:33,823 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing chalinochromis-brichardi-ID57 -----------
+2015-12-08 23:31:33,824 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:31:33,845 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:32:20,338 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:32:20,431 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for chalinochromis-brichardi-ID57
+2015-12-08 23:32:31,519 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1028 contigs, mean trimmed length = 687.0, mean trimmed coverage = 47.7x, on-target bases (uce contigs) = 35.1%, unique reads aligned (all contigs) = 33.6%
+2015-12-08 23:32:31,520 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing cheilotilapia-euchilus-ID23 ------------
+2015-12-08 23:32:31,520 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:32:31,530 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:33:09,943 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:33:09,981 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for cheilotilapia-euchilus-ID23
+2015-12-08 23:33:21,197 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1042 contigs, mean trimmed length = 689.1, mean trimmed coverage = 32.4x, on-target bases (uce contigs) = 29.0%, unique reads aligned (all contigs) = 30.5%
+2015-12-08 23:33:21,198 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing cheilotilapia-rhodessi-ID24 ------------
+2015-12-08 23:33:21,198 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:33:21,209 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:34:06,167 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:34:06,208 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for cheilotilapia-rhodessi-ID24
+2015-12-08 23:34:16,862 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 715.9, mean trimmed coverage = 32.2x, on-target bases (uce contigs) = 27.5%, unique reads aligned (all contigs) = 30.1%
+2015-12-08 23:34:16,862 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing copadichromis-trimaculatus-ID18 ----------
+2015-12-08 23:34:16,863 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:34:16,885 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:34:47,692 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:34:47,722 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for copadichromis-trimaculatus-ID18
+2015-12-08 23:34:55,304 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1053 contigs, mean trimmed length = 636.0, mean trimmed coverage = 26.9x, on-target bases (uce contigs) = 31.9%, unique reads aligned (all contigs) = 29.3%
+2015-12-08 23:34:55,305 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing cyathichromis-obliquidens-ID3 -----------
+2015-12-08 23:34:55,306 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:34:55,333 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:35:30,431 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:35:30,464 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for cyathichromis-obliquidens-ID3
+2015-12-08 23:35:39,130 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1041 contigs, mean trimmed length = 666.9, mean trimmed coverage = 29.9x, on-target bases (uce contigs) = 29.4%, unique reads aligned (all contigs) = 30.5%
+2015-12-08 23:35:39,131 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - --------------- Processing cyprichromis-pavo-ID84 ---------------
+2015-12-08 23:35:39,132 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:35:39,156 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:36:10,758 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:36:10,816 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for cyprichromis-pavo-ID84
+2015-12-08 23:36:18,902 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1054 contigs, mean trimmed length = 624.5, mean trimmed coverage = 35.8x, on-target bases (uce contigs) = 36.2%, unique reads aligned (all contigs) = 30.3%
+2015-12-08 23:36:18,903 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - --------------- Processing docimodus-evelynae-ID10 --------------
+2015-12-08 23:36:18,903 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:36:18,916 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:36:59,043 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:36:59,078 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for docimodus-evelynae-ID10
+2015-12-08 23:37:09,947 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1030 contigs, mean trimmed length = 707.6, mean trimmed coverage = 33.1x, on-target bases (uce contigs) = 31.3%, unique reads aligned (all contigs) = 29.5%
+2015-12-08 23:37:09,948 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - --------------- Processing ectodus-descampsii-ID55 --------------
+2015-12-08 23:37:09,948 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:37:09,962 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:37:44,788 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:37:44,825 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for ectodus-descampsii-ID55
+2015-12-08 23:37:55,286 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1046 contigs, mean trimmed length = 628.4, mean trimmed coverage = 38.8x, on-target bases (uce contigs) = 33.2%, unique reads aligned (all contigs) = 30.4%
+2015-12-08 23:37:55,287 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing eretmodus-cyanostictus-ID82 ------------
+2015-12-08 23:37:55,287 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:37:55,300 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:38:39,128 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:38:39,170 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for eretmodus-cyanostictus-ID82
+2015-12-08 23:38:50,158 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1039 contigs, mean trimmed length = 691.6, mean trimmed coverage = 37.6x, on-target bases (uce contigs) = 32.5%, unique reads aligned (all contigs) = 30.7%
+2015-12-08 23:38:50,159 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing fossorichromis-rostratus-ID28 -----------
+2015-12-08 23:38:50,159 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:38:50,172 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:39:19,463 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:39:19,491 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for fossorichromis-rostratus-ID28
+2015-12-08 23:39:27,073 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 669.9, mean trimmed coverage = 27.5x, on-target bases (uce contigs) = 33.6%, unique reads aligned (all contigs) = 30.7%
+2015-12-08 23:39:27,073 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - --------------- Processing genyochromis-mento-ID7 ---------------
+2015-12-08 23:39:27,074 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:39:27,087 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:40:09,086 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:40:09,125 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for genyochromis-mento-ID7
+2015-12-08 23:40:19,337 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1027 contigs, mean trimmed length = 710.1, mean trimmed coverage = 35.5x, on-target bases (uce contigs) = 30.8%, unique reads aligned (all contigs) = 31.9%
+2015-12-08 23:40:19,338 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------- Processing gnathochromis-permaxillaris-ID60 ----------
+2015-12-08 23:40:19,338 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:40:19,353 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:41:05,019 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:41:05,063 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for gnathochromis-permaxillaris-ID60
+2015-12-08 23:41:16,361 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1037 contigs, mean trimmed length = 658.8, mean trimmed coverage = 40.6x, on-target bases (uce contigs) = 30.9%, unique reads aligned (all contigs) = 31.6%
+2015-12-08 23:41:16,361 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing haplochromis-thereuterion-ID71 -----------
+2015-12-08 23:41:16,361 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:41:16,374 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:41:45,661 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:41:45,688 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for haplochromis-thereuterion-ID71
+2015-12-08 23:41:53,318 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1043 contigs, mean trimmed length = 672.6, mean trimmed coverage = 31.1x, on-target bases (uce contigs) = 37.2%, unique reads aligned (all contigs) = 31.7%
+2015-12-08 23:41:53,319 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing haplotaxodon-microlepis-ID77 ------------
+2015-12-08 23:41:53,319 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:41:53,332 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:42:29,243 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:42:29,280 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for haplotaxodon-microlepis-ID77
+2015-12-08 23:42:38,864 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1042 contigs, mean trimmed length = 688.8, mean trimmed coverage = 32.1x, on-target bases (uce contigs) = 33.8%, unique reads aligned (all contigs) = 28.8%
+2015-12-08 23:42:38,866 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing harpagochromis-golden-duck-ID73 ----------
+2015-12-08 23:42:38,866 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:42:38,880 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:43:19,478 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:43:19,519 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for harpagochromis-golden-duck-ID73
+2015-12-08 23:43:29,361 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 713.6, mean trimmed coverage = 37.3x, on-target bases (uce contigs) = 33.3%, unique reads aligned (all contigs) = 31.4%
+2015-12-08 23:43:29,362 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------- Processing harpagochromis-orange-rock-hunter-ID89 -------
+2015-12-08 23:43:29,362 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:43:29,408 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:44:10,087 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:44:10,129 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for harpagochromis-orange-rock-hunter-ID89
+2015-12-08 23:44:20,526 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1062 contigs, mean trimmed length = 654.6, mean trimmed coverage = 36.5x, on-target bases (uce contigs) = 32.8%, unique reads aligned (all contigs) = 29.4%
+2015-12-08 23:44:20,527 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing harpagochromis-serranus-ID87 ------------
+2015-12-08 23:44:20,527 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:44:20,543 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:44:57,431 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:44:57,468 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for harpagochromis-serranus-ID87
+2015-12-08 23:45:06,795 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1053 contigs, mean trimmed length = 608.2, mean trimmed coverage = 39.4x, on-target bases (uce contigs) = 32.8%, unique reads aligned (all contigs) = 32.1%
+2015-12-08 23:45:06,796 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------ Processing harpagochromis-two-stripe-white-lip-ID88 ------
+2015-12-08 23:45:06,796 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:45:06,808 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:45:45,776 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:45:45,816 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for harpagochromis-two-stripe-white-lip-ID88
+2015-12-08 23:45:56,496 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1047 contigs, mean trimmed length = 664.7, mean trimmed coverage = 38.0x, on-target bases (uce contigs) = 32.8%, unique reads aligned (all contigs) = 31.9%
+2015-12-08 23:45:56,496 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing hemitilapia-oxyrhynchus-ID15 ------------
+2015-12-08 23:45:56,496 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:45:56,509 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:46:37,823 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:46:37,863 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for hemitilapia-oxyrhynchus-ID15
+2015-12-08 23:46:48,330 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1039 contigs, mean trimmed length = 693.2, mean trimmed coverage = 31.6x, on-target bases (uce contigs) = 27.3%, unique reads aligned (all contigs) = 30.4%
+2015-12-08 23:46:48,331 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing julidochromis-dickfeldi-ID45 ------------
+2015-12-08 23:46:48,331 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:46:48,343 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:47:35,798 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:47:35,848 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for julidochromis-dickfeldi-ID45
+2015-12-08 23:47:47,219 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1031 contigs, mean trimmed length = 718.9, mean trimmed coverage = 41.2x, on-target bases (uce contigs) = 32.5%, unique reads aligned (all contigs) = 31.2%
+2015-12-08 23:47:47,221 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing labeotropheus-fullbornei-ID8 ------------
+2015-12-08 23:47:47,221 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:47:47,234 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:48:29,524 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:48:29,566 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for labeotropheus-fullbornei-ID8
+2015-12-08 23:48:40,285 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1037 contigs, mean trimmed length = 710.6, mean trimmed coverage = 39.2x, on-target bases (uce contigs) = 31.7%, unique reads aligned (all contigs) = 31.5%
+2015-12-08 23:48:40,286 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing labeotropheus-trewavase-ID6 ------------
+2015-12-08 23:48:40,286 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:48:40,307 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:49:19,994 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:49:20,031 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for labeotropheus-trewavase-ID6
+2015-12-08 23:49:30,985 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1034 contigs, mean trimmed length = 701.7, mean trimmed coverage = 34.9x, on-target bases (uce contigs) = 30.8%, unique reads aligned (all contigs) = 31.9%
+2015-12-08 23:49:30,986 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing labidochromis-gigas-ID30 --------------
+2015-12-08 23:49:30,987 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:49:31,012 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:50:05,437 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:50:05,471 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for labidochromis-gigas-ID30
+2015-12-08 23:50:14,000 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1050 contigs, mean trimmed length = 673.1, mean trimmed coverage = 30.0x, on-target bases (uce contigs) = 31.9%, unique reads aligned (all contigs) = 30.8%
+2015-12-08 23:50:14,001 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing lamprologus-callipterus-ID56 ------------
+2015-12-08 23:50:14,001 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:50:14,015 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:50:56,001 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:50:56,051 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lamprologus-callipterus-ID56
+2015-12-08 23:51:07,324 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1027 contigs, mean trimmed length = 658.0, mean trimmed coverage = 51.3x, on-target bases (uce contigs) = 36.9%, unique reads aligned (all contigs) = 33.3%
+2015-12-08 23:51:07,325 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing lamprologus-signatus-ID70 -------------
+2015-12-08 23:51:07,325 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:51:07,340 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:51:46,333 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:51:46,377 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lamprologus-signatus-ID70
+2015-12-08 23:51:56,523 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1033 contigs, mean trimmed length = 702.6, mean trimmed coverage = 40.0x, on-target bases (uce contigs) = 35.3%, unique reads aligned (all contigs) = 30.8%
+2015-12-08 23:51:56,524 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing lamprologus-speciosus-ID65 -------------
+2015-12-08 23:51:56,524 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:51:56,539 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:52:26,678 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:52:26,709 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lamprologus-speciosus-ID65
+2015-12-08 23:52:35,426 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1032 contigs, mean trimmed length = 661.5, mean trimmed coverage = 32.3x, on-target bases (uce contigs) = 34.1%, unique reads aligned (all contigs) = 30.3%
+2015-12-08 23:52:35,427 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - --------- Processing lepidiolamprologus-attenuatus-ID47 ---------
+2015-12-08 23:52:35,428 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:52:35,441 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:53:29,817 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:53:29,872 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lepidiolamprologus-attenuatus-ID47
+2015-12-08 23:53:42,233 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1023 contigs, mean trimmed length = 798.2, mean trimmed coverage = 52.6x, on-target bases (uce contigs) = 40.1%, unique reads aligned (all contigs) = 35.9%
+2015-12-08 23:53:42,234 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - --------- Processing lepidiolamprologus-boulengeri-ID36 ---------
+2015-12-08 23:53:42,234 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:53:42,247 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:54:28,548 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:54:28,597 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lepidiolamprologus-boulengeri-ID36
+2015-12-08 23:54:39,475 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1011 contigs, mean trimmed length = 798.4, mean trimmed coverage = 51.9x, on-target bases (uce contigs) = 42.1%, unique reads aligned (all contigs) = 36.5%
+2015-12-08 23:54:39,477 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing lepidiolamprologus-hecqui-ID58 -----------
+2015-12-08 23:54:39,477 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:54:39,494 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:55:11,278 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:55:11,312 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lepidiolamprologus-hecqui-ID58
+2015-12-08 23:55:18,715 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1047 contigs, mean trimmed length = 620.6, mean trimmed coverage = 38.8x, on-target bases (uce contigs) = 44.0%, unique reads aligned (all contigs) = 33.9%
+2015-12-08 23:55:18,717 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------- Processing lepidiolamprologus-leimairii-ID69 ---------
+2015-12-08 23:55:18,717 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:55:18,736 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:55:57,614 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:55:57,654 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lepidiolamprologus-leimairii-ID69
+2015-12-08 23:56:06,599 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1039 contigs, mean trimmed length = 703.3, mean trimmed coverage = 43.9x, on-target bases (uce contigs) = 43.1%, unique reads aligned (all contigs) = 35.0%
+2015-12-08 23:56:06,600 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------- Processing lepidiolamprologus-meeli-kipili-ID40 --------
+2015-12-08 23:56:06,600 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:56:06,615 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:56:29,935 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:56:29,959 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lepidiolamprologus-meeli-kipili-ID40
+2015-12-08 23:56:35,767 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1047 contigs, mean trimmed length = 607.1, mean trimmed coverage = 32.7x, on-target bases (uce contigs) = 50.0%, unique reads aligned (all contigs) = 33.7%
+2015-12-08 23:56:35,768 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing lepidiolamprologus-nkambae-ID41 ----------
+2015-12-08 23:56:35,768 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:56:35,792 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:57:21,632 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:57:21,679 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lepidiolamprologus-nkambae-ID41
+2015-12-08 23:57:31,451 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1025 contigs, mean trimmed length = 770.1, mean trimmed coverage = 49.7x, on-target bases (uce contigs) = 40.4%, unique reads aligned (all contigs) = 36.9%
+2015-12-08 23:57:31,452 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------- Processing lepidiolamprologus-profundicola-ID76 --------
+2015-12-08 23:57:31,452 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:57:31,476 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:58:20,492 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:58:20,536 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lepidiolamprologus-profundicola-ID76
+2015-12-08 23:58:30,076 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1012 contigs, mean trimmed length = 762.5, mean trimmed coverage = 50.0x, on-target bases (uce contigs) = 42.6%, unique reads aligned (all contigs) = 36.1%
+2015-12-08 23:58:30,077 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------- Processing lepidolamprologus-elongatus-ID34 ----------
+2015-12-08 23:58:30,078 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:58:30,107 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-08 23:59:20,344 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-08 23:59:20,400 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lepidolamprologus-elongatus-ID34
+2015-12-08 23:59:31,974 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1027 contigs, mean trimmed length = 772.0, mean trimmed coverage = 55.6x, on-target bases (uce contigs) = 41.7%, unique reads aligned (all contigs) = 36.0%
+2015-12-08 23:59:31,976 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing limnochromis-auritus-ID38 -------------
+2015-12-08 23:59:31,976 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-08 23:59:31,994 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:00:13,231 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:00:13,273 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for limnochromis-auritus-ID38
+2015-12-09 00:00:22,837 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1048 contigs, mean trimmed length = 643.9, mean trimmed coverage = 35.4x, on-target bases (uce contigs) = 32.3%, unique reads aligned (all contigs) = 29.4%
+2015-12-09 00:00:22,838 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing lipochromis-parvidens-ID74 -------------
+2015-12-09 00:00:22,838 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:00:22,853 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:00:54,250 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:00:54,284 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for lipochromis-parvidens-ID74
+2015-12-09 00:01:03,965 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1043 contigs, mean trimmed length = 641.3, mean trimmed coverage = 36.5x, on-target bases (uce contigs) = 36.3%, unique reads aligned (all contigs) = 30.6%
+2015-12-09 00:01:03,966 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing melanochromis-auratus-ID4 -------------
+2015-12-09 00:01:03,967 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:01:03,996 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:01:45,440 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:01:45,512 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for melanochromis-auratus-ID4
+2015-12-09 00:01:55,845 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1037 contigs, mean trimmed length = 689.2, mean trimmed coverage = 36.3x, on-target bases (uce contigs) = 29.8%, unique reads aligned (all contigs) = 31.4%
+2015-12-09 00:01:55,846 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing melanochromis-kaskazini-ID33 ------------
+2015-12-09 00:01:55,847 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:01:55,877 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:02:34,395 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:02:34,433 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for melanochromis-kaskazini-ID33
+2015-12-09 00:02:43,976 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 657.5, mean trimmed coverage = 37.8x, on-target bases (uce contigs) = 29.8%, unique reads aligned (all contigs) = 33.2%
+2015-12-09 00:02:43,977 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing metriaclima-greshakae-ID11 -------------
+2015-12-09 00:02:43,977 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:02:43,995 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:03:24,281 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:03:24,320 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for metriaclima-greshakae-ID11
+2015-12-09 00:03:35,448 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 690.6, mean trimmed coverage = 35.7x, on-target bases (uce contigs) = 29.6%, unique reads aligned (all contigs) = 32.0%
+2015-12-09 00:03:35,449 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing metriaclima-patricki-ID22 -------------
+2015-12-09 00:03:35,449 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:03:35,478 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:04:15,712 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:04:15,754 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for metriaclima-patricki-ID22
+2015-12-09 00:04:26,167 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 653.4, mean trimmed coverage = 32.3x, on-target bases (uce contigs) = 27.3%, unique reads aligned (all contigs) = 29.6%
+2015-12-09 00:04:26,168 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing neolamprologus-bifasciatus-ID80 ----------
+2015-12-09 00:04:26,168 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:04:26,183 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:04:51,701 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:04:51,728 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-bifasciatus-ID80
+2015-12-09 00:04:58,619 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1047 contigs, mean trimmed length = 598.7, mean trimmed coverage = 31.6x, on-target bases (uce contigs) = 39.7%, unique reads aligned (all contigs) = 30.5%
+2015-12-09 00:04:58,621 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing neolamprologus-brichardi-ID50 -----------
+2015-12-09 00:04:58,621 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:04:58,639 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:05:37,773 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:05:37,809 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-brichardi-ID50
+2015-12-09 00:05:47,604 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1033 contigs, mean trimmed length = 658.8, mean trimmed coverage = 30.3x, on-target bases (uce contigs) = 28.4%, unique reads aligned (all contigs) = 31.1%
+2015-12-09 00:05:47,605 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing neolamprologus-cylindricus-ID68 ----------
+2015-12-09 00:05:47,605 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:05:47,622 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:06:14,402 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:06:14,433 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-cylindricus-ID68
+2015-12-09 00:06:21,879 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1045 contigs, mean trimmed length = 597.4, mean trimmed coverage = 32.0x, on-target bases (uce contigs) = 41.4%, unique reads aligned (all contigs) = 28.8%
+2015-12-09 00:06:21,880 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing neolamprologus-fasciatus-ID86 -----------
+2015-12-09 00:06:21,880 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:06:21,901 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:06:55,992 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:06:56,029 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-fasciatus-ID86
+2015-12-09 00:07:05,728 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1030 contigs, mean trimmed length = 652.7, mean trimmed coverage = 38.8x, on-target bases (uce contigs) = 38.0%, unique reads aligned (all contigs) = 29.5%
+2015-12-09 00:07:05,730 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing neolamprologus-furcifer-ID66 ------------
+2015-12-09 00:07:05,731 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:07:05,752 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:07:33,815 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:07:33,844 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-furcifer-ID66
+2015-12-09 00:07:41,584 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1046 contigs, mean trimmed length = 654.8, mean trimmed coverage = 31.0x, on-target bases (uce contigs) = 38.4%, unique reads aligned (all contigs) = 29.7%
+2015-12-09 00:07:41,584 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing neolamprologus-helianthus-ID83 -----------
+2015-12-09 00:07:41,585 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:07:41,603 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:08:26,142 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:08:26,191 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-helianthus-ID83
+2015-12-09 00:08:37,156 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1026 contigs, mean trimmed length = 690.9, mean trimmed coverage = 44.4x, on-target bases (uce contigs) = 35.5%, unique reads aligned (all contigs) = 32.0%
+2015-12-09 00:08:37,156 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------- Processing neolamprologus-longicaudata-ID54 ----------
+2015-12-09 00:08:37,156 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:08:37,174 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:09:05,385 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:09:05,417 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-longicaudata-ID54
+2015-12-09 00:09:13,333 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1055 contigs, mean trimmed length = 585.8, mean trimmed coverage = 32.3x, on-target bases (uce contigs) = 37.3%, unique reads aligned (all contigs) = 29.6%
+2015-12-09 00:09:13,333 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing neolamprologus-longior-ID35 ------------
+2015-12-09 00:09:13,334 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:09:13,352 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:09:44,237 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:09:44,272 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-longior-ID35
+2015-12-09 00:09:52,156 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1049 contigs, mean trimmed length = 662.8, mean trimmed coverage = 32.4x, on-target bases (uce contigs) = 39.9%, unique reads aligned (all contigs) = 29.9%
+2015-12-09 00:09:52,157 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing neolamprologus-modestus-ID61 ------------
+2015-12-09 00:09:52,157 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:09:52,172 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:10:16,922 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:10:16,949 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-modestus-ID61
+2015-12-09 00:10:24,198 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1060 contigs, mean trimmed length = 578.8, mean trimmed coverage = 30.2x, on-target bases (uce contigs) = 39.8%, unique reads aligned (all contigs) = 28.1%
+2015-12-09 00:10:24,199 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing neolamprologus-niger-ID59 -------------
+2015-12-09 00:10:24,199 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:10:24,218 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:11:03,292 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:11:03,334 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-niger-ID59
+2015-12-09 00:11:13,343 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1018 contigs, mean trimmed length = 691.3, mean trimmed coverage = 37.7x, on-target bases (uce contigs) = 34.4%, unique reads aligned (all contigs) = 30.5%
+2015-12-09 00:11:13,344 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing neolamprologus-nigriventer-ID67 ----------
+2015-12-09 00:11:13,345 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:11:13,362 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:11:41,173 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:11:41,202 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-nigriventer-ID67
+2015-12-09 00:11:48,773 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1051 contigs, mean trimmed length = 622.6, mean trimmed coverage = 30.7x, on-target bases (uce contigs) = 38.1%, unique reads aligned (all contigs) = 29.2%
+2015-12-09 00:11:48,775 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing neolamprologus-obscurus-ID53 ------------
+2015-12-09 00:11:48,776 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:11:48,804 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:12:14,371 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:12:14,392 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-obscurus-ID53
+2015-12-09 00:12:20,702 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1031 contigs, mean trimmed length = 590.5, mean trimmed coverage = 23.1x, on-target bases (uce contigs) = 37.1%, unique reads aligned (all contigs) = 25.8%
+2015-12-09 00:12:20,703 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing neolamprologus-olivaceous-ID85 -----------
+2015-12-09 00:12:20,703 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:12:20,718 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:12:46,338 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:12:46,367 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-olivaceous-ID85
+2015-12-09 00:12:53,880 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1054 contigs, mean trimmed length = 568.1, mean trimmed coverage = 32.7x, on-target bases (uce contigs) = 34.9%, unique reads aligned (all contigs) = 29.4%
+2015-12-09 00:12:53,882 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing neolamprologus-prochilus-ID51 -----------
+2015-12-09 00:12:53,882 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:12:53,912 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:13:28,684 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:13:28,721 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-prochilus-ID51
+2015-12-09 00:13:37,617 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1049 contigs, mean trimmed length = 642.8, mean trimmed coverage = 31.9x, on-target bases (uce contigs) = 31.5%, unique reads aligned (all contigs) = 29.1%
+2015-12-09 00:13:37,618 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing neolamprologus-pulcher-ID42 ------------
+2015-12-09 00:13:37,618 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:13:37,641 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:14:08,014 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:14:08,075 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-pulcher-ID42
+2015-12-09 00:14:16,830 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1058 contigs, mean trimmed length = 589.6, mean trimmed coverage = 32.5x, on-target bases (uce contigs) = 35.2%, unique reads aligned (all contigs) = 28.0%
+2015-12-09 00:14:16,831 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing neolamprologus-savoryi-ID39 ------------
+2015-12-09 00:14:16,831 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:14:16,845 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:14:53,579 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:14:53,617 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-savoryi-ID39
+2015-12-09 00:15:02,674 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1031 contigs, mean trimmed length = 699.4, mean trimmed coverage = 31.3x, on-target bases (uce contigs) = 33.6%, unique reads aligned (all contigs) = 28.2%
+2015-12-09 00:15:02,675 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------- Processing neolamprologus-sexfasciatus-ID63 ----------
+2015-12-09 00:15:02,675 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:15:02,690 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:15:33,504 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:15:33,537 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-sexfasciatus-ID63
+2015-12-09 00:15:41,650 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1047 contigs, mean trimmed length = 642.7, mean trimmed coverage = 33.5x, on-target bases (uce contigs) = 36.4%, unique reads aligned (all contigs) = 30.5%
+2015-12-09 00:15:41,652 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------- Processing neolamprologus-tetracanthus-ID46 ----------
+2015-12-09 00:15:41,652 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:15:41,693 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:16:10,866 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:16:10,922 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-tetracanthus-ID46
+2015-12-09 00:16:19,055 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1028 contigs, mean trimmed length = 672.4, mean trimmed coverage = 31.3x, on-target bases (uce contigs) = 35.7%, unique reads aligned (all contigs) = 28.9%
+2015-12-09 00:16:19,056 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing neolamprologus-walteri-ID52 ------------
+2015-12-09 00:16:19,056 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:16:19,089 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:16:48,939 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:16:48,978 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for neolamprologus-walteri-ID52
+2015-12-09 00:16:57,508 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 649.3, mean trimmed coverage = 31.2x, on-target bases (uce contigs) = 36.2%, unique reads aligned (all contigs) = 28.2%
+2015-12-09 00:16:57,509 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing nimbochromis-polystigma-ID2 ------------
+2015-12-09 00:16:57,509 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:16:57,534 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:17:38,243 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:17:38,309 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for nimbochromis-polystigma-ID2
+2015-12-09 00:17:48,775 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1041 contigs, mean trimmed length = 726.0, mean trimmed coverage = 39.7x, on-target bases (uce contigs) = 33.3%, unique reads aligned (all contigs) = 32.9%
+2015-12-09 00:17:48,775 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing ophthalmotilapia-boops-ID44 ------------
+2015-12-09 00:17:48,776 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:17:48,790 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:18:31,653 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:18:31,696 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for ophthalmotilapia-boops-ID44
+2015-12-09 00:18:42,767 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1034 contigs, mean trimmed length = 705.4, mean trimmed coverage = 38.0x, on-target bases (uce contigs) = 29.0%, unique reads aligned (all contigs) = 32.7%
+2015-12-09 00:18:42,768 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing ophthalmotilapia-nasuta-ID37 ------------
+2015-12-09 00:18:42,768 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:18:42,798 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:19:21,137 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:19:21,175 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for ophthalmotilapia-nasuta-ID37
+2015-12-09 00:19:32,264 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1031 contigs, mean trimmed length = 668.5, mean trimmed coverage = 34.5x, on-target bases (uce contigs) = 30.5%, unique reads aligned (all contigs) = 31.5%
+2015-12-09 00:19:32,266 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing otopharynx-heterodon-ID13 -------------
+2015-12-09 00:19:32,266 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:19:32,302 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:20:11,306 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:20:11,346 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for otopharynx-heterodon-ID13
+2015-12-09 00:20:21,445 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1031 contigs, mean trimmed length = 710.1, mean trimmed coverage = 31.1x, on-target bases (uce contigs) = 31.3%, unique reads aligned (all contigs) = 29.2%
+2015-12-09 00:20:21,446 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing otopharynx-lithobates-ID16 -------------
+2015-12-09 00:20:21,446 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:20:21,464 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:20:58,433 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:20:58,470 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for otopharynx-lithobates-ID16
+2015-12-09 00:21:08,446 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1047 contigs, mean trimmed length = 673.9, mean trimmed coverage = 31.6x, on-target bases (uce contigs) = 31.2%, unique reads aligned (all contigs) = 31.5%
+2015-12-09 00:21:08,447 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ---------------- Processing otopharynx-picta-ID14 ---------------
+2015-12-09 00:21:08,447 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:21:08,462 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:21:43,935 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:21:43,970 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for otopharynx-picta-ID14
+2015-12-09 00:21:53,470 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1055 contigs, mean trimmed length = 649.8, mean trimmed coverage = 29.6x, on-target bases (uce contigs) = 31.9%, unique reads aligned (all contigs) = 28.9%
+2015-12-09 00:21:53,470 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - --------------- Processing petrotilapia-nigra-ID9 ---------------
+2015-12-09 00:21:53,471 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:21:53,486 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:22:37,060 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:22:37,108 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for petrotilapia-nigra-ID9
+2015-12-09 00:22:47,991 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1031 contigs, mean trimmed length = 755.3, mean trimmed coverage = 37.2x, on-target bases (uce contigs) = 32.5%, unique reads aligned (all contigs) = 32.0%
+2015-12-09 00:22:47,993 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing placidochromis-electra-ID21 ------------
+2015-12-09 00:22:47,993 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:22:48,012 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:23:29,254 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:23:29,295 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for placidochromis-electra-ID21
+2015-12-09 00:23:39,502 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1037 contigs, mean trimmed length = 721.1, mean trimmed coverage = 38.5x, on-target bases (uce contigs) = 34.2%, unique reads aligned (all contigs) = 32.4%
+2015-12-09 00:23:39,503 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing placidochromis-milomo-ID17 -------------
+2015-12-09 00:23:39,504 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:23:39,520 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:24:13,352 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:24:13,386 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for placidochromis-milomo-ID17
+2015-12-09 00:24:21,998 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1050 contigs, mean trimmed length = 635.5, mean trimmed coverage = 37.6x, on-target bases (uce contigs) = 35.1%, unique reads aligned (all contigs) = 33.5%
+2015-12-09 00:24:21,999 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing prognathochromis-perrieri-ID49 -----------
+2015-12-09 00:24:21,999 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:24:22,015 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:25:09,054 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:25:09,101 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for prognathochromis-perrieri-ID49
+2015-12-09 00:25:20,366 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 678.0, mean trimmed coverage = 38.6x, on-target bases (uce contigs) = 32.9%, unique reads aligned (all contigs) = 30.9%
+2015-12-09 00:25:20,366 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing psedotropheus-crabro-ID27 -------------
+2015-12-09 00:25:20,367 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:25:20,383 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:25:53,827 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:25:53,858 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for psedotropheus-crabro-ID27
+2015-12-09 00:26:02,399 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1046 contigs, mean trimmed length = 685.5, mean trimmed coverage = 31.5x, on-target bases (uce contigs) = 34.7%, unique reads aligned (all contigs) = 30.2%
+2015-12-09 00:26:02,400 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing pseudotropheus-flavus-ID19 -------------
+2015-12-09 00:26:02,400 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:26:02,416 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:26:41,690 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:26:41,725 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for pseudotropheus-flavus-ID19
+2015-12-09 00:26:51,730 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 694.4, mean trimmed coverage = 33.6x, on-target bases (uce contigs) = 31.8%, unique reads aligned (all contigs) = 30.2%
+2015-12-09 00:26:51,731 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------------- Processing ptyochromis-cf-ID72 ----------------
+2015-12-09 00:26:51,731 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:26:51,751 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:27:25,158 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:27:25,189 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for ptyochromis-cf-ID72
+2015-12-09 00:27:33,259 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1041 contigs, mean trimmed length = 615.5, mean trimmed coverage = 29.9x, on-target bases (uce contigs) = 33.7%, unique reads aligned (all contigs) = 29.6%
+2015-12-09 00:27:33,260 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing pundamila-pundamila-ID75 --------------
+2015-12-09 00:27:33,260 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:27:33,276 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:28:14,021 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:28:14,058 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for pundamila-pundamila-ID75
+2015-12-09 00:28:23,550 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 647.2, mean trimmed coverage = 36.7x, on-target bases (uce contigs) = 32.3%, unique reads aligned (all contigs) = 30.4%
+2015-12-09 00:28:23,551 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing pyxichromis-orthostoma-ID62 ------------
+2015-12-09 00:28:23,552 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:28:23,566 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:28:52,806 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:28:52,837 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for pyxichromis-orthostoma-ID62
+2015-12-09 00:29:00,590 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1037 contigs, mean trimmed length = 613.3, mean trimmed coverage = 37.7x, on-target bases (uce contigs) = 35.8%, unique reads aligned (all contigs) = 33.0%
+2015-12-09 00:29:00,591 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing rhamphochromis-longiceps-ID81 -----------
+2015-12-09 00:29:00,591 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:29:00,606 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:29:39,805 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:29:39,844 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for rhamphochromis-longiceps-ID81
+2015-12-09 00:29:49,462 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1046 contigs, mean trimmed length = 688.8, mean trimmed coverage = 38.4x, on-target bases (uce contigs) = 31.8%, unique reads aligned (all contigs) = 34.0%
+2015-12-09 00:29:49,463 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing simochromis-babaulti-ID48 -------------
+2015-12-09 00:29:49,463 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:29:49,477 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:30:19,450 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:30:19,483 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for simochromis-babaulti-ID48
+2015-12-09 00:30:28,208 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1044 contigs, mean trimmed length = 598.2, mean trimmed coverage = 39.9x, on-target bases (uce contigs) = 33.1%, unique reads aligned (all contigs) = 34.3%
+2015-12-09 00:30:28,210 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing stigmatochromis-woodei-ID20 ------------
+2015-12-09 00:30:28,210 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:30:28,235 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:31:06,244 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:31:06,283 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for stigmatochromis-woodei-ID20
+2015-12-09 00:31:16,565 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1045 contigs, mean trimmed length = 690.4, mean trimmed coverage = 30.4x, on-target bases (uce contigs) = 28.0%, unique reads aligned (all contigs) = 30.3%
+2015-12-09 00:31:16,566 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - --------- Processing taeniolethrinops-preorbitalis-ID29 ---------
+2015-12-09 00:31:16,567 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:31:16,603 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:31:46,618 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:31:46,645 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for taeniolethrinops-preorbitalis-ID29
+2015-12-09 00:31:54,231 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1040 contigs, mean trimmed length = 730.2, mean trimmed coverage = 25.5x, on-target bases (uce contigs) = 33.0%, unique reads aligned (all contigs) = 30.1%
+2015-12-09 00:31:54,231 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------- Processing telmatochromis-dhonti-ID43 -------------
+2015-12-09 00:31:54,232 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:31:54,254 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:32:24,265 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:32:24,297 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for telmatochromis-dhonti-ID43
+2015-12-09 00:32:32,543 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1038 contigs, mean trimmed length = 665.1, mean trimmed coverage = 36.0x, on-target bases (uce contigs) = 37.9%, unique reads aligned (all contigs) = 31.1%
+2015-12-09 00:32:32,544 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing telmatochromis-temporalis-ID64 -----------
+2015-12-09 00:32:32,544 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:32:32,558 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:33:26,220 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:33:26,250 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for telmatochromis-temporalis-ID64
+2015-12-09 00:33:34,709 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1017 contigs, mean trimmed length = 680.7, mean trimmed coverage = 35.4x, on-target bases (uce contigs) = 35.9%, unique reads aligned (all contigs) = 30.6%
+2015-12-09 00:33:34,711 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing trematochromis-benthicola-ID78 -----------
+2015-12-09 00:33:34,711 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:33:34,740 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:47:06,313 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:47:06,349 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for trematochromis-benthicola-ID78
+2015-12-09 00:47:15,974 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1037 contigs, mean trimmed length = 704.8, mean trimmed coverage = 40.7x, on-target bases (uce contigs) = 37.9%, unique reads aligned (all contigs) = 31.6%
+2015-12-09 00:47:15,976 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - -------------- Processing tropheops-microstoma-ID1 --------------
+2015-12-09 00:47:15,976 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:47:16,011 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:47:55,943 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:47:55,988 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for tropheops-microstoma-ID1
+2015-12-09 00:48:06,368 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1031 contigs, mean trimmed length = 743.5, mean trimmed coverage = 37.6x, on-target bases (uce contigs) = 33.8%, unique reads aligned (all contigs) = 31.8%
+2015-12-09 00:48:06,371 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ----------- Processing tyrannochromis-nigriventer-ID5 -----------
+2015-12-09 00:48:06,371 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:48:06,402 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:48:48,817 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:48:48,859 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for tyrannochromis-nigriventer-ID5
+2015-12-09 00:48:59,930 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1039 contigs, mean trimmed length = 720.4, mean trimmed coverage = 42.2x, on-target bases (uce contigs) = 32.4%, unique reads aligned (all contigs) = 33.1%
+2015-12-09 00:48:59,932 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - ------------ Processing variabilichromis-moorii-ID31 ------------
+2015-12-09 00:48:59,932 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Fetching contig names from from probe.matches.sqlite
+2015-12-09 00:48:59,969 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating (untrimmed) per-base coverage file for UCE loci.
+2015-12-09 00:49:37,971 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Generating per-contig coverage file and interval list for UCE loci.
+2015-12-09 00:49:38,012 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - Calculating coverage metrics for variabilichromis-moorii-ID31
+2015-12-09 00:49:48,790 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - 	1014 contigs, mean trimmed length = 776.2, mean trimmed coverage = 40.1x, on-target bases (uce contigs) = 38.1%, unique reads aligned (all contigs) = 29.6%
+2015-12-09 00:49:48,791 - phyluce_assembly_get_trinity_coverage_for_uce_loci - INFO - == Completed phyluce_assembly_get_trinity_coverage_for_uce_loci =

@@ -1,0 +1,10 @@
+taxon,Total contigs (after trimming),Total contigs coverage (x),Total contigs mean length
+aristochromis-christiae-ID25,31574,7.6,336.5
+astatotilapia-burtoni-ID32,21457,8.5,321.6
+aulonocara-stuartgranti-ID26,20526,8.3,377.4
+bathybates-minor-ID90,20824,8.8,333.4
+boulengerochromis-microlepis-ID79,25892,7.3,313.5
+capidochromis-eucinostomus-ID12,32604,7.6,351.7
+chalinochromis-brichardi-ID57,31633,7.6,300.2
+cheilotilapia-euchilus-ID23,23394,8.2,362.9
+cheilotilapia-rhodessi-ID24,26831,7.8,364.5
