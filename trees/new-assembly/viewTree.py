@@ -8,6 +8,7 @@ for retry in range(0,9):
 	try:
 		tree = dendropy.Tree.get_from_path(phyinput, schema="newick")
 		tree.print_plot()
+		break
 	except:
 		print "Invalid tree. Try inputting your selection again:"
 		phyinput = raw_input()
